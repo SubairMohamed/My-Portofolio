@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,38 +9,36 @@
     <!-- setup tailwindcss -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
+
 <body>
-    <aside id="aside-left" class="bg-blue-500">aside-left
-       <div>
-        <div id="logo"><img></div>
-        <div id="manu"></div>
+    <div class="flex min-h-screen w-screen">
+        <aside id="left" class="bg-black w-60 rounded-lg">
+            <div>
+                <div id="logo" class="flex flex-row justify-center items-center mt-5 mb-10 border-b">
+                    <img src="./Portofolio Images/letter-s.png" alt="logo-1">
+                    <img src="./Portofolio Images/letter-u.png" alt="logo-2">
+                </div>
 
-        <nav id="nav">
-            <ul>
-                <li>Home</li>
-                <li>About</li>
-                <li>Contact</li>
-                <li>Service</li>
-            </ul>
-        </nav>
-       </div>
-    </aside>
-    <!-- end aside-left -->
-    
-    <header id="header" class="bg-green-500">header
-        <div>
-            <img>
-            <h1></h1>
-            <button></button>
-        </div>
-    </header>
-    <!-- end header -->
+                <div>
+                    <nav id="nav" class="text-center">
+                        <ul class="text-white">
+                            <li>Home</li>
+                            <li>About</li>
+                            <li>Contact</li>
+                            <li>Service</li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </aside>
+        <!-- end aside-left -->
 
-    <main id="main" class="bg-gray-500">main
-        <section id="About"></section>
-        <section id="Contact"></section>
-        <section id="Service"></section>
-    </main>
-    <!-- end main -->
+        <section id="parent" class="bg-gray-200 grow">
+            <header id="header"></header>
+            <main id="main"></main>
+        </section>
+        <!-- end  -->
+    </div>
 </body>
+
 </html>
