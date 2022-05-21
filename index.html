@@ -11,21 +11,21 @@
 </head>
 
 <body>
-    <div class="flex min-h-screen w-screen">
+    <div class="flex min-h-screen w-screen relative">
         <aside id="left" class="bg-black w-60 rounded-lg">
             <div>
-                <div id="logo" class="flex flex-row justify-center items-center mt-5 mb-10 border-b">
+                <div id="logo" class="flex flex-row justify-center items-center mt-5 mb-10 border-b pb-2">
                     <img src="./Portofolio Images/letter-s.png" alt="logo-1">
                     <img src="./Portofolio Images/letter-u.png" alt="logo-2">
                 </div>
 
                 <div>
-                    <nav id="nav" class="text-center">
+                    <nav id="nav" class="text-center uppercase">
                         <ul class="text-white">
-                            <li>Home</li>
-                            <li>About</li>
-                            <li>Contact</li>
-                            <li>Service</li>
+                            <li class="mb-1">Home</li>
+                            <li class="mb-1">About</li>
+                            <li class="mb-1">Contact</li>
+                            <li class="mb-1">Service</li>
                         </ul>
                     </nav>
                 </div>
@@ -34,7 +34,19 @@
         <!-- end aside-left -->
 
         <section id="parent" class="bg-gray-200 grow">
-            <header id="header"></header>
+            <header id="header" class="">
+              <div class="">
+                <div id="pic-header">
+                    <img src="./my-Pictures/IMG-20220521-WA0001.jpg" alt="header">
+                  </div>
+                 <div id="showcase" class="absolute top-0 text-white px-28 flex flex-col items-center justify-center bottom-24 text-center mx-64">
+                     <h1 class="text-5xl font-bold tracking-wide pb-4 capitalize">welcome to my portofolio</h1>
+                     <div>
+                         <button class="bg-white text-black border-2 border-black hover:bg-black hover:text-white px-2 py-1 rounded-full capitalize ">go down</button>
+                     </div>
+                 </div>
+              </div>
+            </header>
             <main id="main"></main>
         </section>
         <!-- end  -->
