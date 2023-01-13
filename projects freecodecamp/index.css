@@ -25,3 +25,8 @@ body {
     text-align: left;
     width: 75%;
   }
+
+  .price {
+    text-align: right;
+    width: 25%
+  }
