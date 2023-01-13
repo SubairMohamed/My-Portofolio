@@ -21,3 +21,7 @@ body {
     font-family: Impact, serif;
   }
   
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
