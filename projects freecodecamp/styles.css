@@ -3,7 +3,7 @@ body {
 }
 
 .menu {
-    width: 65%;
+    width: 50%;
     background-color: burlywood;
     margin: auto;
 }
@@ -24,4 +24,19 @@ h1  {
 h2 {
     text-align: center;
     padding-top: 14px;
+}
+
+.item {
+    display: inline;
+    text-align: left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.price {
+    display: inline-block;
+    text-align: right;
+    width: 25%;
+    font-size: 18px;
 }
