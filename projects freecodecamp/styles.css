@@ -6,11 +6,12 @@ body {
     width: 50%;
     background-color: burlywood;
     margin: auto;
+    padding: 8px;
 }
 
 h1  {
     text-align: center;
-    padding-top: 14px;
+    padding-top: 5px;
     margin-bottom: 5px;
 }
 
@@ -41,4 +42,10 @@ h2 {
 .price {
    text-align: right;
    width: 25%;
+}
+
+hr {
+    height: 3px;
+    background-color:brown;
+    border-color: brown;
 }
