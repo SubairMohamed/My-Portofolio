@@ -33,7 +33,7 @@ h2 {
    font-size: 18px;
 }
 
-.flavor {
+.flavor, .desserts {
  text-align: left;
  width: 75%;
 }
