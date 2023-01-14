@@ -49,3 +49,9 @@ hr {
     background-color:brown;
     border-color: brown;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
