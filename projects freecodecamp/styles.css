@@ -3,7 +3,17 @@ body {
 }
 
 .menu {
-    width: 80%;
+    width: 65%;
     background-color: burlywood;
     margin: auto;
+}
+
+h1  {
+    text-align: center;
+    padding-top: 14px;
+}
+
+.establishment {
+    text-align: center;
+    padding-top: 0px;
 }
