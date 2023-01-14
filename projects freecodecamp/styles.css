@@ -1,0 +1,9 @@
+body {
+    background-image: url(./img/caffee\ image.jpg);
+}
+
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin: auto;
+}
