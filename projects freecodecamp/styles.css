@@ -26,17 +26,19 @@ h2 {
     padding-top: 14px;
 }
 
-.item {
-    display: inline;
-    text-align: left;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    font-size: 18px;
+.item  p {
+   display: inline-block;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   font-size: 18px;
+}
+
+.flavor {
+ text-align: left;
+ width: 75%;
 }
 
 .price {
-    display: inline-block;
-    text-align: right;
-    width: 25%;
-    font-size: 18px;
+   text-align: right;
+   width: 25%;
 }
