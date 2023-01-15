@@ -15,16 +15,35 @@ h1 {
 
   /* styling */
 
-  /* tertiary color */
+  /* tertiary color 2*/
 
   .one {
     background-color: rgb(255, 127, 0);
   }
+  /* orange */
   
   .two {
     background-color: rgb(0, 255, 127);
   }
+  /* spring green */
   
   .three {
     background-color: rgb(127, 0, 255);
   }
+  /* viotel */
+
+  /* tertiary color 3 */
+  .one {
+    background-color: rgb(127, 255, 0); 
+  }
+  /* charteuse green, */
+  
+  .two {
+    background-color: rgb(0, 127, 255);
+  }
+  /* azure */
+  
+  .three {
+    background-color: rgb(255, 0, 127);
+  }
+  /* rose */
