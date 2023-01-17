@@ -67,3 +67,6 @@ h1 {
   }
 
   /* hsl function */
+  .blue {
+    background-color: hsl(240, 100%, 50%);
+  }
