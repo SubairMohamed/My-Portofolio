@@ -91,4 +91,5 @@ h1 {
     border-left-width: 10px;
     border-left-style: solid;
     border-left-color: black;
+    /*  border-left: 10px solid black; */
   }
