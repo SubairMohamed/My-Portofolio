@@ -99,3 +99,7 @@ h1 {
   width: 60px;
   height: 25px;
 }
+
+.cap, .sleeve {
+  display: inline-block;
+}
