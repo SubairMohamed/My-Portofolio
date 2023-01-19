@@ -83,3 +83,9 @@ h1 {
   .green {
     background: linear-gradient(180deg, #55680D, #71F53E, #116C31);
   }
+  /* sleeve style */
+  .sleeve {
+    width: 110px;
+    height: 25px;
+    background-color: rgba(255, 255, 255, 0.5);
+  }
