@@ -93,3 +93,9 @@ h1 {
     border-left-color: black;
     /*  border-left: 10px solid black; */
   }
+
+  /* cap style */
+.cap {
+  width: 60px;
+  height: 25px;
+}
