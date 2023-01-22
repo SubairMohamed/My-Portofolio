@@ -113,3 +113,10 @@ h1 {
   /* box-shadow: 0 0 20px 0 red; */
   /* box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8); */
 }
+
+/* green color */
+.green {
+  background: linear-gradient(#55680D, #71F53E, #116C31);
+  box-shadow: 5px 5px 5px green;
+/* 0  0 20px 0  */
+}
