@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+
+}
+
+.one {
+    width: 250px;
+    height: 30px;
+    background-color: black;
+}
