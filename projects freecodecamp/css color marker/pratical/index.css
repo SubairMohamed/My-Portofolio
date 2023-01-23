@@ -3,19 +3,19 @@ h1 {
 }
 
 .container {
-
+ background-color: rgb(255, 255, 255);
 }
 
 .one {
     width: 250px;
     height: 30px;
-    background-color: black;
+    background-color: rgb(255, 127, 0);
 }
 
 .two {
     width: 250px;
     height: 30px;
-    background-color: black;
+    background-color: rgb();
 }
 
 .three {
