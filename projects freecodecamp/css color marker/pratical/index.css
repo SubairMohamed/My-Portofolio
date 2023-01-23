@@ -15,13 +15,13 @@ h1 {
 .two {
     width: 250px;
     height: 30px;
-    background-color: rgb();
+    background-color: rgb(0, 255, 127);
 }
 
 .three {
     width: 250px;
     height: 30px;
-    background-color: black;
+    background-color: rgb(127, 0, 255);
 }
 
 .marker {
