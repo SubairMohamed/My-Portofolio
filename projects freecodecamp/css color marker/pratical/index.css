@@ -23,3 +23,8 @@ h1 {
     height: 30px;
     background-color: black;
 }
+
+.marker {
+    margin-top: 16px;
+    margin: 10px auto;
+}
