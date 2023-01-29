@@ -95,3 +95,8 @@ select {
   width: 100%;
   min-height: 2em;
 }
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+}
