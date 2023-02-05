@@ -4,4 +4,11 @@ body {
     margin: 0;
     background-color: #1b1b32;
     color: white;
+    font-family: Tahoma;
+    font-size: 16px;
+}
+
+label {
+    display: block;
+    margin: 0.5rem 0;
 }
