@@ -19,16 +19,16 @@
         </fieldset>
 
         <fieldset>
-            <label for="personal-account"> <input type="radio" id="personal-account" name="account-type"> Personal Account</label>
-            <label for="business-account"> <input type="radio" id="business-account" name="account-type"> Business Account </label>
-            <label for="terms"> <input type="checkbox" id="terms" name="terms"> I accept the <a href="https://google.com">terms and conditions</a> </label>
+            <label for="personal-account"> <input type="radio" id="personal-account" name="account-type" required> Personal Account</label>
+            <label for="business-account"> <input type="radio" id="business-account" name="account-type" required> Business Account </label>
+            <label for="terms"> <input type="checkbox" id="terms" name="terms" required> I accept the <a href="https://google.com">terms and conditions</a> </label>
         </fieldset>
 
         <fieldset>
-            <label for="upload-picture" name="upload">Upload a profile picture: <input type="file" id="upload-picture" name="upload"> </label>
-            <label for="age" name="age">Input your age (years): <input type="number" id="age" name="age" min="15" max="70"> </label>
+            <label for="upload-picture" name="upload">Upload a profile picture: <input type="file" id="upload-picture" name="upload" required> </label>
+            <label for="age" name="age">Input your age (years): <input type="number" id="age" name="age" min="15" max="70" required> </label>
             <label for="referance" name="referance">How did you hear about us?
-                <select id="referance" name="referance">
+                <select id="referance" name="referance" required>
                     <option value="">(Select One)</option>
                     <option value="1">Google</option>
                     <option value="2">News</option>
@@ -36,7 +36,7 @@
                     <option value="4">Youtube</option>
                 </select>
             </label>
-            <label for="bio" name="bio">Provide a bio: <textarea id="bio" name="bio" rows="4" cols="30" placeholder="i like coding on the beatch..."></textarea> </label>
+            <label for="bio" name="bio">Provide a bio: <textarea id="bio" name="bio" rows="4" cols="30" placeholder="i like coding on the beatch..." required></textarea> </label>
         </fieldset>
         <input type="submit" value="submit">
     </form>
