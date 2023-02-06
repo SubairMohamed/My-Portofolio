@@ -34,3 +34,11 @@ fieldset {
 fieldset:last-of-type {
     border-bottom:none;
 }
+
+input, textarea, select {
+    margin: 10px;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
