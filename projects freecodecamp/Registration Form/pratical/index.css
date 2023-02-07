@@ -51,3 +51,8 @@ input, textarea, select {
     margin-top: 0;
     vertical-align: middle;
 }
+
+input, textarea {
+    background-color: #0a0a23;
+    border: #0a0a23;
+}
