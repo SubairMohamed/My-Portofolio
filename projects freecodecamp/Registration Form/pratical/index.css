@@ -66,11 +66,19 @@ input, textarea, select {
 input[type="submit"] {
     display: block;
     width: 60%;
-    margin: 0 auto;
-}
-
-input[type="submit"] {
+    margin: 5px auto;
     height: 2rem;
     font-size: 1.1em;
     text-transform: capitalize;
+    background-color: #3b3b4f;
+    border-color: white;
+    min-width: 300px;
+}
+
+a {
+  color: white;
+}
+
+input[type="file"] {
+    padding: 1px 2px;
 }
