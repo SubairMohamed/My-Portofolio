@@ -62,3 +62,15 @@ input, textarea, select {
     min-height: 2em;
     width: 100%;
 }
+
+input[type="submit"] {
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+}
+
+input[type="submit"] {
+    height: 2rem;
+    font-size: 1.1em;
+    text-transform: capitalize;
+}
