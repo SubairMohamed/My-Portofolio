@@ -56,4 +56,6 @@ input, textarea {
     background-color: #0a0a23;
     border: #0a0a23;
     color: white;
+    min-height: 2em;
 }
+
