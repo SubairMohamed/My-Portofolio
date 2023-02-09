@@ -26,12 +26,18 @@ p {
 
 label {
     color: white;
+    font-size: 20px;
+    margin: 10px 0px 0px 6px;
 }
 
 .inline {
     display: block;
+    width: 70%;
+    height: 2em;
+    margin: 1em;
 }
 
 fieldset {
     border: none;
 }
+
