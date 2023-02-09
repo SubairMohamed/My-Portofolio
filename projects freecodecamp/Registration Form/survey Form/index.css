@@ -4,7 +4,7 @@ body {
 
 .menu {
     width: 50%;
-    background-color:cornflowerblue;
+    background-color:rgb(14, 39, 86);
     margin: 0 auto;
 }
 
@@ -17,6 +17,7 @@ h1, p {
 
 h1 {
     font-size: 36px;
+    padding-top: 32px;
 }
 
 p {
