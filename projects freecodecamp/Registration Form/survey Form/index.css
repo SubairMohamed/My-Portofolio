@@ -28,3 +28,10 @@ label {
     color: white;
 }
 
+.inline {
+    display: block;
+}
+
+fieldset {
+    border: none;
+}
