@@ -51,5 +51,6 @@ fieldset {
 
 input[type="radio"] {
     transform: scale(1.5);
+    margin-left: 28px;
 }
 
