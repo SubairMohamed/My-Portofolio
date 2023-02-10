@@ -49,3 +49,7 @@ fieldset {
     border: none;
 }
 
+input[type="radio"] {
+    transform: scale(1.5);
+}
+
