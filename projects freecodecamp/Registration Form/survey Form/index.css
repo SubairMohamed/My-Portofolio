@@ -84,6 +84,14 @@ textarea {
     margin-bottom: 2em;
 }
 
+input[type="submit"] {
+    width: 90%;
+    min-height: 2.5rem;
+    font-size: 16px;
+    text-transform:capitalize;
+    background-color: rgb(140, 235, 140);
+}
+
 
 
 
