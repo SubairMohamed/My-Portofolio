@@ -71,3 +71,19 @@ select {
     margin-bottom: 1.5em;
 }
 
+textarea {
+   margin-left: 16px;
+   margin-top: 6px;
+}
+
+.comment {
+    margin-top: 6px;
+}
+
+#checkboxes {
+    margin-bottom: 2em;
+}
+
+
+
+
