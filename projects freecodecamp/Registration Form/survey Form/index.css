@@ -64,8 +64,8 @@ input[type="checkbox"] {
 
 select {
     display: block;
-    width: 90%;
+    width: 91%;
     min-height: 2.5em;
-    min-width: 90px;
+    margin-left: 24px;
 }
 
