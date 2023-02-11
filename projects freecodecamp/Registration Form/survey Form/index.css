@@ -36,9 +36,9 @@ label {
 .inline {
     display: block;
     width: 90%;
-    height: 2em;
     margin: 1em;
     border-radius: 6px;
+    min-height: 2rem;
 }
 
 .inline {
