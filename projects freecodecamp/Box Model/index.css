@@ -22,6 +22,7 @@
     overflow: hidden;
     box-shadow: 0 0 3px 3px #efb762;
     border-radius: 9px;
+    transform: rotate(-0.6deg);
   }
 
   .two {
