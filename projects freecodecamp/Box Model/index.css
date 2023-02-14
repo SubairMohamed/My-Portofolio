@@ -2,6 +2,7 @@
     width: 500px;
     height: 600px;
     background-color: #4d0f00;
+    filter: blur(2px);
   }
 
   .frame {
