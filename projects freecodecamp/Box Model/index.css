@@ -20,3 +20,7 @@
     /* replace padding to overflow */
     overflow: hidden;
   }
+
+  .two {
+    width: 475px;
+  }
