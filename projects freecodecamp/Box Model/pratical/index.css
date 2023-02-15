@@ -1,7 +1,7 @@
 .canvas {
     width: 500px;
     height: 600px;
-    background-color:brown;
+    background-color:rgba(213, 33, 33, 0.521);
 }
 
 .frame {
@@ -15,5 +15,12 @@
     width: 400px;
     height: 150px;
     background-color: burlywood;
+    margin: auto;
+}
+
+.two {
+    width: 470px;
+    height: 200px;
+    background-color:crimson;
     margin: auto;
 }
