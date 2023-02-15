@@ -31,3 +31,7 @@
     background-color: chocolate;
     margin: 10px auto;
 }
+
+.one, .two{
+    filter: blur(2px);
+}
