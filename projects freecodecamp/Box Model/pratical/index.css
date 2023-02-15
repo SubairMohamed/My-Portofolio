@@ -3,3 +3,10 @@
     height: 600px;
     background-color:brown;
 }
+
+.frame {
+    border: 50px solid black;
+    width: 500px;
+    margin: auto;
+    padding: 50px;
+}
