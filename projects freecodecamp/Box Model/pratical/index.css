@@ -10,3 +10,10 @@
     margin: auto;
     padding: 50px;
 }
+
+.one {
+    width: 400px;
+    height: 150px;
+    background-color: burlywood;
+    margin: auto;
+}
