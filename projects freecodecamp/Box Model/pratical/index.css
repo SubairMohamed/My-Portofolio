@@ -18,6 +18,7 @@
     margin: 20px auto;
     transform: rotate(-0.6deg);
     box-shadow: 0 0 2px 3px burlywood;
+    border-radius: 9px;
 }
 
 .two {
@@ -25,6 +26,8 @@
     height: 200px;
     background-color:crimson;
     margin: 0 auto 20px ;
+    transform: rotate(2.4deg);
+    box-shadow: 0 0 3px 3px crimson;
 }
 
 .three {
