@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
   }
-  
+
   .gallery img {
   width: 100%;
   max-width: 350px;
@@ -31,7 +31,8 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  padding: 20px 10px;
   max-width: 1400px;
   margin: 0 auto;
+  padding: 20px 10px;
+  gap: 16px;
 }
