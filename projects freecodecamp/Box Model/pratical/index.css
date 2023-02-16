@@ -35,6 +35,9 @@
     height: 170px ;
     background-color: chocolate;
     margin: 10px auto;
+    box-shadow: 0 0 5px 5px chocolate;
+    filter: blur(2px);
+    
 }
 
 .one, .two{
