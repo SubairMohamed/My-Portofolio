@@ -37,7 +37,7 @@
     margin: 10px auto;
     box-shadow: 0 0 5px 5px chocolate;
     filter: blur(2px);
-    
+    transform: rotate(-2deg);
 }
 
 .one, .two{
