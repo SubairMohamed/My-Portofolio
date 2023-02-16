@@ -28,6 +28,7 @@
     margin: 0 auto 20px ;
     transform: rotate(2.4deg);
     box-shadow: 0 0 3px 3px crimson;
+    border-radius: 0px 0px 0px 12px;
 }
 
 .three {
@@ -38,7 +39,7 @@
     box-shadow: 0 0 5px 5px chocolate;
     filter: blur(2px);
     transform: rotate(-2deg);
-    border-radius: 7px 7px 9px 9px;
+    border-radius: 7px 7px 9px 12px;
 }
 
 .one, .two{
