@@ -38,6 +38,7 @@
     box-shadow: 0 0 5px 5px chocolate;
     filter: blur(2px);
     transform: rotate(-2deg);
+    border-radius: 7px 7px 9px 9px;
 }
 
 .one, .two{
