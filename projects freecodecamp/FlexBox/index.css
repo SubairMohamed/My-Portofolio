@@ -37,3 +37,8 @@ body {
   padding: 20px 10px;
   gap: 16px;
 }
+
+.gallery::after {
+  content: "";
+  width: 350px;
+}
