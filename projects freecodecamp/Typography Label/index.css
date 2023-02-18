@@ -48,3 +48,20 @@ html {
     margin: -4px 0;
     letter-spacing: 0.15px
   }
+
+.large {
+  height: 10px;
+}
+
+.large, .medium {
+  background-color: black;
+  border: 0;
+}
+
+.small-text {
+  font-size: 0.85rem;
+}
+
+.calories-info h2 {
+  margin: 0;
+}
