@@ -1,4 +1,7 @@
 header {
     background: slateblue;
     color: white;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    padding: 20px;
 }
