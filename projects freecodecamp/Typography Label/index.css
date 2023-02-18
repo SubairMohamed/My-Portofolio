@@ -5,6 +5,10 @@ body {
 html {
     font-size: 16px;
   }
+
+* {
+    box-sizing: border-box;
+  }
   
 .label {
     border: 2px solid black;
@@ -12,3 +16,14 @@ html {
     margin: 20px auto;
     padding: 0 7px;
   }
+  
+  h1 {
+    font-weight: 800;
+    text-align: center;
+    margin: -4px 0;
+  }
+
+  p {
+    margin: 0;
+  }
+  
