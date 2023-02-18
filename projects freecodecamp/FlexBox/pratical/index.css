@@ -5,6 +5,7 @@ header {
     font-family: sans-serif;
     padding: 20px;
     text-align: center;
+    border-bottom: 6px solid cyan;
 }
 
 body {
