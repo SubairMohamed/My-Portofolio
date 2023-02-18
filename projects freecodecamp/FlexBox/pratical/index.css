@@ -4,4 +4,9 @@ header {
     text-transform: uppercase;
     font-family: sans-serif;
     padding: 20px;
+    text-align: center;
+}
+
+body {
+    margin: 0px;
 }
