@@ -103,3 +103,7 @@ html {
 .daily-value p:not(.no-divider) {
   border-bottom: 1px solid #888989;
 }
+
+.double-indent {
+  margin-left: 2em
+}
