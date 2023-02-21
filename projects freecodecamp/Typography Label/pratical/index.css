@@ -24,3 +24,12 @@ header p {
     padding-bottom: 1px;
 }
 
+.bold {
+    font-weight: 800;
+}
+
+p {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
