@@ -3,3 +3,10 @@ body {
     font-size: 16px;
 }
 
+.label {
+    border: 2px solid black;
+    width: 250px;
+    margin: 0px auto;
+    padding: 0px 7px;
+}
+
