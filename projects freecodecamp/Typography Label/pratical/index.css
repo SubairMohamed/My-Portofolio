@@ -10,3 +10,17 @@ body {
     padding: 0px 7px;
 }
 
+header h1 {
+    font-weight: 800;
+    margin: 0px;
+}
+
+.divider-small {
+    border-bottom: 1px solid gray;
+}
+
+header p {
+    margin: 0px;
+    padding-bottom: 1px;
+}
+
