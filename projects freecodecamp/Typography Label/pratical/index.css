@@ -76,4 +76,9 @@ p {
     border-bottom: 1px solid gray;
     margin-left: 9px;
     margin-bottom: 2px;
+    font-size: 14px;
+}
+
+.p {
+    font-size: 14px;  
 }
