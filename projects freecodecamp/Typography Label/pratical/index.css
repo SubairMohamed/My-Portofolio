@@ -72,3 +72,7 @@ p {
     margin-bottom: 2px;
 }
 
+.saturated {
+    border-bottom: 1px solid gray;
+    margin: 0 9px;
+}
