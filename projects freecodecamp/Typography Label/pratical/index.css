@@ -82,3 +82,8 @@ p {
 .p {
     font-size: 14px;  
 }
+
+.include {
+    font-size: 14px; 
+    margin-left: 15px;
+}
