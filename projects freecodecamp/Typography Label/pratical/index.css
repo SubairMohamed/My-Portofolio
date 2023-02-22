@@ -57,3 +57,10 @@ p {
     font-size: 38px;
     vertical-align: middle;
 }
+
+.divider-medium {
+    border-bottom: 2px solid black;
+    margin: -5 0 ;
+    height: 3px;
+    background-color: black;
+}
