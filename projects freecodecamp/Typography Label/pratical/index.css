@@ -42,3 +42,13 @@ p {
     background: black;
 }
 
+.info p {
+    font-size: 32px;
+    font-weight: 700;
+    margin: -1 -2;
+}
+
+.info h2 {
+    font-size: 16px;
+    margin: 0;
+}
