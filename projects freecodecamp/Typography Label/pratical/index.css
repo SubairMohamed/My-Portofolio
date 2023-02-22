@@ -64,3 +64,10 @@ p {
     height: 3px;
     background-color: black;
 }
+
+#total-fat p {
+    font-size: 14px;
+    justify-content: end;
+    border-bottom: 1px solid gray;
+    margin-bottom: 2px;
+}
