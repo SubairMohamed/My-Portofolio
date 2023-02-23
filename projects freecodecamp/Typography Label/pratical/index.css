@@ -96,3 +96,7 @@ p {
 .protein, .iron, .calcium, .vitamin, .potassium {
     font-size: 14px;
 }
+
+.note {
+    font-size: 0.66rem;
+}
