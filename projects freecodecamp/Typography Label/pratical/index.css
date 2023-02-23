@@ -40,6 +40,7 @@ p {
     height: 6px;
     margin: 0px;
     background: black;
+    margin-top: 2px;
 }
 
 .info p {
