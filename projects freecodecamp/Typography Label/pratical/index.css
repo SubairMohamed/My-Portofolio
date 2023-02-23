@@ -64,6 +64,7 @@ p {
     margin: -5 0 ;
     height: 3px;
     background-color: black;
+    margin-top: 2px;
 }
 
 #total-fat p {
