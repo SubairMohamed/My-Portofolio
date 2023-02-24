@@ -11,3 +11,8 @@
     height: 50px;
     display: flex;
   }
+
+  h1 {
+    color: #f1be32;
+    font-size: min(5vw, 1.2em);
+  }
