@@ -24,7 +24,7 @@
       <form method="post" action="https://freecodecamp.org/practice-project/accessibility-quiz">
         <section role="region" aria-labelledby="student-info">
           <h2 id="student-info">student-info</h2>
-        <div class="info">
+          <div class="info">
             <label for="student-name">Name:</label>
             <input id="student-name" type="text" name="student-name" placeholder="name" />
           </div>
@@ -33,9 +33,9 @@
             <input id="student-email" type="email" name="student-email" placeholder="email" />
           </div>
           <div class="info">
-            <label for="birth-date">D.O.B.:</label>
-            <input id="birth-date" type="date" name="birth-date"/>
-        </div>
+            <label for="birth-date">>D.O.B.<span class="sr-only"></span></label>
+            <input type="date" name="birth-date" id="birth-date" />
+          </div>
         </section>
         <section role="region" aria-labelledby="html-questions">
           <h2 id="html-questions">html-questions</h2>
