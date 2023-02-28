@@ -80,3 +80,7 @@ h1 {
   flex-wrap: nowrap;
   text-align: center;
 }
+
+main {
+  padding-top: 25px;
+}
