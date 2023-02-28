@@ -84,3 +84,13 @@ h1 {
 main {
   padding-top: 25px;
 }
+
+nav > ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding-inline-start: 0;
+  margin-block: 0;
+  height: 100%;
+  flex-wrap: wrap;
+}
