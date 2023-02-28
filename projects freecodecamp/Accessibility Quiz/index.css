@@ -94,3 +94,10 @@ nav > ul {
   height: 100%;
   flex-wrap: wrap;
 }
+
+section {
+  width: 80%;
+  margin: 10px auto;
+  margin-top: 0;
+  max-width: 600px;
+}
