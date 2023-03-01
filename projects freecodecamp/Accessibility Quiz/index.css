@@ -101,3 +101,9 @@ section {
   margin-top: 0;
   max-width: 600px;
 }
+
+h2 {
+  border-bottom: 4px solid #dfdfe2;
+  padding-top: 60px;
+  margin-top: 0;
+}
