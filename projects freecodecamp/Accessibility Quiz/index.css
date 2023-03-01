@@ -116,3 +116,7 @@ h2 {
   margin-top: 10px;
   padding: 0px 10px;
 }
+
+input {
+  font-size: 16px;
+}
