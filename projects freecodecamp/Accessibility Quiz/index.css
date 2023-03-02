@@ -184,3 +184,7 @@ address {
   text-align: center;
   padding: 10px;
 }
+
+* {
+  scroll-behavior: smooth;
+}
