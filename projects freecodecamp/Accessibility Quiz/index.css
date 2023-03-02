@@ -155,4 +155,7 @@ p {
   padding-bottom: 0;
 }
 
-/*  today i work only style or css*/
+.answers-list {
+  list-style: none;
+  padding: 0;
+}
