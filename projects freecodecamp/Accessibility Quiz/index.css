@@ -179,3 +179,8 @@ footer {
 footer,footer a {
   color: white;
 }
+
+address {
+  text-align: center;
+  padding: 10px;
+}
