@@ -22,19 +22,19 @@
     </header>
     <main>
         <form action="https://google.com" method="post">
-            <section>
-                <h2>Info</h2>
-                <div>
-                    <label>Name:</label>
-                    <input type="text">
+            <section role="region" aria-labelledby="Info">
+                <h2 id="Info">Info</h2>
+                <div class="information">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name">
                 </div>
-                <div>
-                    <label>Email:</label>
-                    <input type="email">
+                <div class="information">
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email">
                 </div>
-                <div>
-                    <label>D.O.B:</label>
-                    <input type="date">
+                <div class="information">
+                    <label for="date">D.O.B:</label>
+                    <input type="date" id="date" name="date">
                 </div>
             </section>
             <section>
