@@ -66,21 +66,23 @@
             </section>
             <section role="region" aria-labelledby="CSS">
                 <h2 id="CSS">CSS</h2>
-                <div class="question">
-                    <label>Are you a frontend developer?</label>
-                </div>
-                <div>
-                    <select required>
-                        <option>Select an option</option>
-                        <option>Yes</option>
-                        <option>No</option>
-                    </select>
-                </div>
-                <div>
-                    <label>Do you have any questions:</label>
-                </div>
-                <div>
-                    <textarea rows="5" cols="24"></textarea>
+                <div class="form-row">
+                    <div class="question">
+                        <label for="customer">Are you a frontend developer?</label>
+                    </div>
+                    <div class="answer">
+                        <select id="customer" name="customer" required>
+                            <option>Select an option</option>
+                            <option>Yes</option>
+                            <option>No</option>
+                        </select>
+                    </div>
+                    <div class="question">
+                        <label>Do you have any questions:</label>
+                    </div>
+                    <div class="answer">
+                        <textarea rows="5" cols="24"></textarea>
+                    </div>
                 </div>
             </section>
         </form>
