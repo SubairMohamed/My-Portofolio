@@ -79,6 +79,7 @@ h1 {
   font-size: min(5vw, 1.2em);
   flex-wrap: nowrap;
   text-align: center;
+  flex-wrap: nowrap;
 }
 
 main {

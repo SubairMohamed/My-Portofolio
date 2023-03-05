@@ -18,9 +18,10 @@ header {
 
 h1 {
     color: rgb(97, 86, 86);
-    font-size: min(5vw, 1.8em);
+    font-size: min(5vw, 1.2em);
     align-items: center;
     margin: 16px auto;
+    flex-wrap: nowrap;
 }
 
 nav > ul  {
@@ -56,4 +57,14 @@ nav li:hover {
     background-color: rgb(97, 86, 86);
     border-radius: 4px;
     cursor: pointer;
+}
+
+main {
+    padding-top: 42px;
+}
+
+section {
+    width: 80%;
+    margin: 10px auto;
+    max-width: 600px;
 }
