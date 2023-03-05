@@ -68,3 +68,19 @@ section {
     margin: 10px auto;
     max-width: 600px;
 }
+
+.information {
+    padding: 10px 0px 0px 10px;
+}
+
+.screen-reader {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0px;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+    white-space: nowrap;
+}
