@@ -95,5 +95,19 @@ section {
 }
 
 input[type="date"] {
-    height: 18px;
+    height: 20px;
+}
+
+input[type="email"] {
+    margin-left: 4px;
+    height: 20px;
+}
+
+input[type="text"] {
+    margin-left: 4px;
+    height: 20px;
+}
+
+.information label, .information input {
+    display: inline;
 }
