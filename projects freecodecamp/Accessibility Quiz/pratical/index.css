@@ -26,6 +26,7 @@ nav > ul  {
     display: flex;
     justify-content: space-evenly;
     gap: 12px;
+    margin: 22px 24px;
 }
 
 nav li {
