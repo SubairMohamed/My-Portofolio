@@ -14,3 +14,9 @@ header {
     margin: 0px;
     padding: 10px;
 }
+
+h1 {
+    color: rgb(97, 86, 86);
+    font-size: min(5vw, 1.8em);
+    align-items: cente;
+}
