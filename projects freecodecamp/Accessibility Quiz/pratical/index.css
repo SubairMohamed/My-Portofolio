@@ -123,8 +123,18 @@ input[type="text"] {
     padding-bottom: 0;
 }
 
-.true/false {
+.answer {
     list-style: none;
     padding: 100;
+}
+
+p{
+   font-size: 20px;
+   margin-top: 5px;
+   padding-left: 15px;
+}
+
+p::before {
+    content: "Question #";
 }
 
