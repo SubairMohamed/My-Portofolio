@@ -112,7 +112,7 @@ input[type="text"] {
 
 .questions {
     text-align: left;
-    display: block;
+    /* display: block; */
     width: 100%;
     margin-top: 20px;
     padding-top: 5px;
@@ -125,7 +125,7 @@ input[type="text"] {
 
 .answer {
     list-style: none;
-    padding: 100;
+    padding: 0px;
 }
 
 p{
@@ -137,4 +137,11 @@ p{
 p::before {
     content: "Question #";
 }
+
+.radio {
+    width: 5%;
+    display:inline-flex;
+}
+
+
 
