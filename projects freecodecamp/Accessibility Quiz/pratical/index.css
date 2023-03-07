@@ -51,6 +51,8 @@ h1, h2 {
 
 h2 {
     border-bottom: 4px solid #dfdfe2;
+    padding-top: 60px;
+    margin-top: 0px;
 }
 
 nav li:hover {
@@ -88,10 +90,6 @@ section {
 .information input {
     width: 50%;
     text-align: right;
-}
-
-#Info {
-    margin-top: 80px;
 }
 
 input[type="date"] {
