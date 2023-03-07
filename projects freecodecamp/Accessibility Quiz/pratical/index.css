@@ -120,4 +120,11 @@ input[type="text"] {
 
 .question {
     border: none;
+    padding-bottom: 0;
 }
+
+.true/false {
+    list-style: none;
+    padding: 100;
+}
+
