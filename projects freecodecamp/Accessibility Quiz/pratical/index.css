@@ -109,3 +109,11 @@ input[type="text"] {
 .information label, .information input {
     display: inline;
 }
+
+.questions {
+    text-align: left;
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    padding-top: 5px;
+}
