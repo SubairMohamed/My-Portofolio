@@ -149,6 +149,8 @@ p::before {
 input[type="submit"] {
     margin: 20px auto;
     display: block;
+    width: 20%;
+    padding: 6px;
 }
 
 
