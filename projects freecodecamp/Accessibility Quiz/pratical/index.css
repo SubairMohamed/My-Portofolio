@@ -138,10 +138,8 @@ p::before {
     content: "Question #";
 }
 
-.radio {
-    width: 5%;
-    display:inline-flex;
-}
+
+
 
 
 
