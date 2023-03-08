@@ -146,6 +146,11 @@ p::before {
     padding-bottom: 16px;
 }
 
+input[type="submit"] {
+    margin: 20px auto;
+    display: block;
+}
+
 
 
 
