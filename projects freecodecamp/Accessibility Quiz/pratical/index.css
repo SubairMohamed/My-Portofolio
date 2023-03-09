@@ -54,6 +54,7 @@ h1, h2 {
 }
 
 h2 {
+    color: rgb(239, 163, 65);
     border-bottom: 4px solid #dfdfe2;
     padding-top: 60px;
     margin-top: 0px;
@@ -181,6 +182,11 @@ address a {
     scroll-behavior: smooth;
 }
 
+@media(prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
 
 
 
