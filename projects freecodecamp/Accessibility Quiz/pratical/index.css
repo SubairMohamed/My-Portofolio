@@ -4,6 +4,10 @@
     padding: 0.4em;
 }
 
+* {
+    box-sizing: border-box;
+}
+
 header {
     background-color: rgb(222, 167, 96);
     display: flex;
@@ -171,6 +175,10 @@ address {
 
 address a {
     color: white;
+}
+
+* {
+    scroll-behavior: smooth;
 }
 
 
