@@ -154,6 +154,7 @@ input[type="submit"] {
     font-size: 18px;
     background-color: rgb(239, 163, 65);
     color: rgb(246, 219, 186);
+    border: 1px solid rgb(246, 219, 186);
 }
 
 
