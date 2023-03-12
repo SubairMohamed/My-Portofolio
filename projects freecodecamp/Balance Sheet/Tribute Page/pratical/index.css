@@ -1,7 +1,16 @@
-.container {
-    width: 80%;
-    max-width: 1000%;
-    height: 100vh;
-    background: rgb(171, 162, 162);
+* {
+  box-sizing: border-box;
 }
 
+.container {
+    width: 80%;
+    min-width: 98vw;
+    height: 100vh;
+    background: rgb(171, 162, 162);
+    display: block;
+    justify-content: center;
+}
+
+h1, p {
+    text-align: center;
+}
