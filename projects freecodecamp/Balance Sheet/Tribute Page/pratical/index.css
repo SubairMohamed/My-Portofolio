@@ -41,3 +41,12 @@ p {
     justify-content: center;
     margin: 0 auto;
 }
+
+img {
+    width: 60%;
+    min-width: 60%;
+    height:90%;
+    display: block;
+    justify-content: center;
+    margin: 0 auto;
+}
