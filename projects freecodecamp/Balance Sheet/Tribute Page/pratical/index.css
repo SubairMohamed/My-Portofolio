@@ -14,3 +14,12 @@
 h1, p {
     text-align: center;
 }
+
+h1 {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+p {
+    font-family: sans-serif;
+}
