@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+body {
+font-family: sans-serif;
+}
+
 .container {
     width: 80%;
     min-width: 98vw;
@@ -44,9 +48,16 @@ p {
 
 img {
     width: 60%;
-    min-width: 60%;
+    min-width: 80%;
     height:90%;
-    display: block;
-    justify-content: center;
+    display: flex;
+    /* justify-content: center; */
     margin: 0 auto;
+}
+
+.img-text {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 14px;
 }
