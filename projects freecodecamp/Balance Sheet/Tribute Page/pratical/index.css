@@ -9,7 +9,7 @@ font-family: sans-serif;
 .container {
     width: 80%;
     min-width: 98vw;
-    height: 100vh;
+    height: 100%;
     background: rgb(171, 162, 162);
     display: block;
     justify-content: center;
@@ -44,6 +44,7 @@ p {
     display: block;
     justify-content: center;
     margin: 0 auto;
+    border-radius: 1.5em 0px 0px 0px;
 }
 
 img {
