@@ -9,6 +9,8 @@
     background: rgb(171, 162, 162);
     display: block;
     justify-content: center;
+    margin-top: 34px;
+    border-radius: 6px;
 }
 
 h1, p {
