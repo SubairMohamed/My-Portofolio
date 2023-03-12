@@ -31,3 +31,13 @@ p {
     font-size: 16px;
     color: white;
 }
+
+.white-container {
+    width: 100%;
+    max-width: 90%;
+    height: 80%;
+    background: white;
+    display: block;
+    justify-content: center;
+    margin: 0 auto;
+}
