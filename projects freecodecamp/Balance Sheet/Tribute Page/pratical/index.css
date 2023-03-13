@@ -56,6 +56,10 @@ img {
     margin: 0 auto;
 }
 
+.white-container img {
+    object-fit: cover;
+}
+
 .img-text {
     display: block;
     text-align: center;
