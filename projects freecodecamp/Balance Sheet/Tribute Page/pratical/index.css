@@ -23,7 +23,7 @@ h1, p {
 
 h1 {
     font-family: sans-serif;
-    font-size: 32px;
+    font-size: 38px;
     font-weight: 700;
     color: white;
     margin: 0px;
@@ -66,6 +66,7 @@ img {
     margin: 0 auto;
     padding-top: 14px;
     font-size: 15px;
+    padding-bottom: 16px;
 }
 
 h3 {
