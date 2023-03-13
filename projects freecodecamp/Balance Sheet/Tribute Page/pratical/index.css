@@ -86,9 +86,12 @@ h3 {
 .sub-span {
     text-indent: 2px;
     padding-top: 21px;
+    font-weight: 200;
+    font-family: "Roboto Slab";
 }
 
 .sub {
     display: block;
     padding-top: 21px;
+    font-weight: 200;
 }
