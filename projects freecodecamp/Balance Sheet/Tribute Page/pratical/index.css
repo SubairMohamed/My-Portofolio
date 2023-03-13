@@ -81,6 +81,8 @@ h3 {
     flex-direction: column;
     justify-content: center;
     margin: 0 auto;
+    font-weight: 300;
+    font-family: "Roboto Slab";
 }
 
 .sub-span {
