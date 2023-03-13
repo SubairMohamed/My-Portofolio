@@ -109,3 +109,12 @@ h3 {
 .li-span {
     font-weight: bold;
 }
+
+.p-footer {
+  color: black;
+  font-size: 20px;
+  display: block;
+  padding-bottom: 24px;
+  padding-top: 32px;
+  font-weight: 500;
+}
