@@ -101,3 +101,7 @@ h3 {
 .nav {
     padding-bottom: 24px;
 }
+
+.nav li {
+    padding-bottom: 10px;
+}
