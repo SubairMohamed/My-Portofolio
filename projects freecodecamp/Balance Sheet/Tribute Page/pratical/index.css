@@ -70,13 +70,25 @@ img {
 
 h3 {
    font-weight: 700;
+   text-align: center;
+   padding-top: 41px;
 }
 
 .info {
     width: 50%;
-    max-width: 50%;
+    max-width: 80%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin: 0 auto;
+}
+
+.sub-span {
+    text-indent: 2px;
+    padding-top: 21px;
+}
+
+.sub {
+    display: block;
+    padding-top: 21px;
 }
