@@ -118,3 +118,7 @@ h3 {
   padding-top: 32px;
   font-weight: 500;
 }
+
+a {
+    color: rgb(43, 102, 211);
+}
