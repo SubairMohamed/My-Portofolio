@@ -26,3 +26,9 @@ h1 {
   margin: 0 auto;
   padding: 1.5rem 1.25rem;
 }
+
+h1 .flex {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 1rem;
+}
