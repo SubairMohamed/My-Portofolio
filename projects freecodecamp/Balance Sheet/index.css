@@ -64,3 +64,7 @@ section {
   width: 4.5rem;
   text-align: right;
 }
+
+.table-wrap {
+  padding: 0 0.75rem 1.5rem 0.75rem;
+}
