@@ -138,3 +138,8 @@ tr.data {
     white 1.845rem
   );
 }
+
+tr.data th {
+  text-align: left;
+  padding: 0.3rem 0 0 0.5rem;
+}
