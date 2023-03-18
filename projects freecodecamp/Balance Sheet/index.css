@@ -84,3 +84,9 @@ table {
   margin-top: 3rem;
   position: relative;
 }
+
+table caption {
+  color: #356eaf;
+  font-size: 1.3em;
+  font-weight: normal;
+}
