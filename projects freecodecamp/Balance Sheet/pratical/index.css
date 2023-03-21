@@ -5,3 +5,8 @@ html {
 body {
   font-family: sans-serif;
 }
+
+main {
+  margin: 0 auto;
+  max-width: 40rem;
+}
