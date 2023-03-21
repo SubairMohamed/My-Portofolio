@@ -11,3 +11,7 @@ section {
   max-width: 40rem;
   border: 2px solid chocolate;
 }
+
+h1 {
+  padding: 0.32rem 0 0.32rem 0.32rem;
+}
