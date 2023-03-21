@@ -27,4 +27,10 @@ h1.flex {
   background: coral;
   color: white;
   padding: 7px;
+  text-align: right;
+  margin: 0 -2px;
+}
+
+.year {
+  font-weight: bold;
 }
