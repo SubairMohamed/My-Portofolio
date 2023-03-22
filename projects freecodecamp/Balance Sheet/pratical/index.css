@@ -83,4 +83,11 @@ span[class~="sr-only"] {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
   clip-path: inset(50%);
+  padding: 0;
+  margin: 1px;
+  overflow: hidden;
+  height: 1px;
+  width: -1px;
+  position: absolute;
+  white-space: nowrap;
 }
