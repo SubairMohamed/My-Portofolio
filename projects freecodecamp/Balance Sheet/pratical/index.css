@@ -28,6 +28,10 @@ h1.flex span:first-of-type {
   color: burlywood;
 }
 
+h1.flex span:last-of-type {
+  font-size: 1.8rem;
+}
+
 #years {
   background: coral;
   color: white;
