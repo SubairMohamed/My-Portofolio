@@ -23,6 +23,10 @@ h1.flex {
   gap: 1rem;
 }
 
+h1.flex span:first-of-type {
+  font-size: 0.7em;
+}
+
 #years {
   background: coral;
   color: white;
