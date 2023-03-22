@@ -56,3 +56,8 @@ table {
   position: relative;
   margin-top: 3rem;
 }
+
+table caption {
+  font-size: 1.3rem;
+  font-weight: normal;
+}
