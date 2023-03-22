@@ -76,4 +76,5 @@ tbody td {
 
 tr[class="total"] {
   border-bottom: 4px double burlywood;
+  color: chocolate;
 }
