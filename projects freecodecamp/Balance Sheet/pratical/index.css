@@ -64,4 +64,6 @@ table caption {
   position: absolute;
   top: -2.25rem;
   left: 0.5rem;
+  border-left-style: solid;
+  padding-left: 3px;
 }
