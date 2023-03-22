@@ -33,4 +33,5 @@ h1.flex {
 
 #years span[class] {
   font-weight: bold;
+  padding: 0 1rem;
 }
