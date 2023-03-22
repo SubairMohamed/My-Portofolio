@@ -109,3 +109,9 @@ span[class~="sr-only"] {
   position: absolute;
   white-space: nowrap;
 }
+
+tr.data th {
+  text-align: left;
+  padding-top: 0.3rem;
+  padding-left: 0.5rem;
+}
