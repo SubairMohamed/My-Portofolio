@@ -84,6 +84,11 @@ tr[class="total"] th {
   padding: 0 0.5rem 0rem 0.5rem;
 }
 
+tr.total td {
+  text-align: right;
+  padding: 0 0.5rem 0rem 0.5rem;
+}
+
 span[class~="sr-only"] {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
