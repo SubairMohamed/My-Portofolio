@@ -82,6 +82,7 @@ tr[class="total"] {
 tr[class="total"] th {
   text-align: left;
   padding: 0 0.5rem 0rem 0.5rem;
+  margin-top: 10px;
 }
 
 tr.total td {
@@ -114,4 +115,12 @@ tr.data th {
   text-align: left;
   padding-top: 0.3rem;
   padding-left: 0.5rem;
+}
+
+tr.data th .description {
+  display: block;
+  margin-right: -13.5rem;
+  font-weight: lighter;
+  font-style: italic;
+  padding: 1rem 0 0.75rem;
 }
