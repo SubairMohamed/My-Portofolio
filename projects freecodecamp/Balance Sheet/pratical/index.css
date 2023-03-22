@@ -52,4 +52,7 @@ h1.flex span:last-of-type {
 table {
   border-collapse: collapse;
   width: 100%;
+  border: 0;
+  position: relative;
+  margin-top: 3rem;
 }
