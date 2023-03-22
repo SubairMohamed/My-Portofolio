@@ -59,5 +59,6 @@ table {
 
 table caption {
   font-size: 1.3rem;
-  font-weight: normal;
+  font-weight: bold;
+  color: burlywood;
 }
