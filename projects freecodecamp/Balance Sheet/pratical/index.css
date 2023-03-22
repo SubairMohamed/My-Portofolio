@@ -67,3 +67,13 @@ table caption {
   border-left-style: solid;
   padding-left: 3px;
 }
+
+tbody td {
+  width: 100vw;
+  min-width: 4rem;
+  max-width: 4rem;
+}
+
+tr[class="total"] {
+  border-bottom: 4px double burlywood;
+}
