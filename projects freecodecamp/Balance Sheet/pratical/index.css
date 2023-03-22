@@ -79,6 +79,11 @@ tr[class="total"] {
   color: chocolate;
 }
 
+tr[class="total"] th {
+  text-align: left;
+  padding: 0 0.5rem 0rem 0.5rem;
+}
+
 span[class~="sr-only"] {
   border: 0;
   clip: rect(1px, 1px, 1px, 1px);
