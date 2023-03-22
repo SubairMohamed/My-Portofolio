@@ -25,6 +25,7 @@ h1.flex {
 
 h1.flex span:first-of-type {
   font-size: 0.7em;
+  color: burlywood;
 }
 
 #years {
