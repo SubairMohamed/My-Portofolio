@@ -61,4 +61,7 @@ table caption {
   font-size: 1.3rem;
   font-weight: bold;
   color: burlywood;
+  position: absolute;
+  top: -2.25rem;
+  left: 0.5rem;
 }
