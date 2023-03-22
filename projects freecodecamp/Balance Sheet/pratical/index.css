@@ -31,6 +31,6 @@ h1.flex {
   margin: 0 -2px;
 }
 
-.year {
+#years span[class] {
   font-weight: bold;
 }
