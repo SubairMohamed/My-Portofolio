@@ -67,6 +67,7 @@ table caption {
   left: 0.5rem;
   border-left-style: solid;
   padding-left: 3px;
+  padding-top: 4px;
 }
 
 tbody td {
