@@ -93,7 +93,7 @@ tr.total td {
 }
 
 tr.total:hover {
-  background: bisque;
+  background: hsl(33, 100%, 88%);
 }
 
 td.current {
@@ -132,4 +132,12 @@ tr.data td {
   vertical-align: top;
   padding: 0 0.5rem 0rem 0.5rem;
   text-align: right;
+}
+
+tr[class="data"] {
+  background-image: linear-gradient(
+    to bottom,
+    #ffe4c4 1.845rem,
+    white 1.845rem
+  );
 }
