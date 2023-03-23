@@ -124,3 +124,7 @@ tr.data th .description {
   font-style: italic;
   padding: 1rem 0 0.75rem;
 }
+
+tr.data td {
+  vertical-align: top;
+}
