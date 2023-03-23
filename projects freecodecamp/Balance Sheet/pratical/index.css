@@ -124,6 +124,7 @@ tr.data th .description {
   font-weight: lighter;
   font-style: italic;
   padding: 1rem 0 0.75rem;
+  font-size: 16px;
 }
 
 tr.data td {
