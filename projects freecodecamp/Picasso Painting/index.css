@@ -26,4 +26,6 @@ body {
   height: 0;
   border-style: solid;
   border-width: 0 120px 140px 180px;
+  border-top-color: transparent;
+  border-right-color: transparent;
 }
