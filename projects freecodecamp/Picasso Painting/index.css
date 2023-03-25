@@ -28,4 +28,6 @@ body {
   border-width: 0 120px 140px 180px;
   border-top-color: transparent;
   border-right-color: transparent;
+  border-bottom-color: GhostWhite;
+  border-left-color: transparent;
 }
