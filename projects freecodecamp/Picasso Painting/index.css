@@ -30,4 +30,7 @@ body {
   border-right-color: transparent;
   border-bottom-color: GhostWhite;
   border-left-color: transparent;
+  position: absolute;
+  top: -140px;
+  left: 0;
 }
