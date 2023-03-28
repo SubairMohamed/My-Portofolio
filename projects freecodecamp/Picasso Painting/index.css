@@ -83,3 +83,9 @@ body {
   top: 30%;
   left: 59%;
 }
+
+#black-hat {
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
