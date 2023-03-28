@@ -50,4 +50,7 @@ body {
   height: 40%;
   background-color: rgb(167, 162, 117);
   position: absolute;
+  top: 50px;
+  left: 125px;
+  z-index: 1;
 }
