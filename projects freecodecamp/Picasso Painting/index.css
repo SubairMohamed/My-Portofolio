@@ -70,4 +70,7 @@ body {
   height: 140px;
   background-color: #d2691e;
   position: absolute;
+  top: 275px;
+  left: 15px;
+  z-index: 1;
 }
