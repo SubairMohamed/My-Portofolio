@@ -64,3 +64,10 @@ body {
   margin-top: 65%;
   display: block;
 }
+
+#tan-table {
+  width: 450px;
+  height: 140px;
+  background-color: #d2691e;
+  position: absolute;
+}
