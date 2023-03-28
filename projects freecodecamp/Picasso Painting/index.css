@@ -94,4 +94,6 @@ body {
   border-bottom-color: transparent;
   border-left-color: rgb(45, 31, 19);
   position: absolute;
+  top: -150px;
+  left: 0;
 }
