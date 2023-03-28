@@ -54,3 +54,8 @@ body {
   left: 125px;
   z-index: 1;
 }
+
+.black-dot {
+  width: 10px;
+  height: 10px;
+}
