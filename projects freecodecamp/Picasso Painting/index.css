@@ -102,4 +102,7 @@ body {
   width: 150px;
   height: 150px;
   background-color: rgb(167, 162, 117);
+  position: absolute;
+  top: -10px;
+  left: 70px;
 }
