@@ -111,4 +111,7 @@ body {
   width: 400px;
   height: 100px;
   background-color: GhostWhite;
+  position: absolute;
+  top: 250px;
+  left: -150px;
 }
