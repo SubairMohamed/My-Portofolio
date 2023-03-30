@@ -151,3 +151,9 @@ body {
   top: 25%;
   left: 40%;
 }
+
+#black-round-hat {
+  width: 180px;
+  height: 150px;
+  background-color: rgb(45, 31, 19);
+}
