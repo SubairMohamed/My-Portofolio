@@ -142,3 +142,9 @@ body {
   top: 50%;
   left: 40%;
 }
+
+#orange-character {
+  width: 250px;
+  height: 550px;
+  background-color: rgb(240, 78, 42);
+}
