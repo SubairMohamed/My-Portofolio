@@ -184,4 +184,7 @@ body {
   border-width: 42px 45px 45px 0;
   border-top-color: transparent;
   border-bottom-color: transparent;
+  border-left-color: transparent;
+  border-right-color: gold;
+  display: inline-block;
 }
