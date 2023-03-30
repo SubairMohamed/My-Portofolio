@@ -147,4 +147,7 @@ body {
   width: 250px;
   height: 550px;
   background-color: rgb(240, 78, 42);
+  position: absolute;
+  top: 25%;
+  left: 40%;
 }
