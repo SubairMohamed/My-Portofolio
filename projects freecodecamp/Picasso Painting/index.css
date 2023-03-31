@@ -200,4 +200,6 @@ body {
 
 .guitar {
   width: 150px;
+  height: 120px;
+  background-color: Goldenrod;
 }
