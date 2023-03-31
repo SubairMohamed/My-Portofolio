@@ -228,4 +228,5 @@ body {
   position: absolute;
   top: 45px;
   left: 200px;
+  z-index: 3;
 }
