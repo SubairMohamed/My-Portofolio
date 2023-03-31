@@ -226,4 +226,6 @@ body {
   height: 30px;
   background-color: #d2691e;
   position: absolute;
+  top: 45px;
+  left: 200px;
 }
