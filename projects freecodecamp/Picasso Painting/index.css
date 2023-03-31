@@ -225,4 +225,5 @@ body {
   width: 200px;
   height: 30px;
   background-color: #d2691e;
+  position: absolute;
 }
