@@ -204,3 +204,7 @@ body {
   background-color: Goldenrod;
   border-radius: 50%;
 }
+
+#guitar-left {
+  position: absolute;
+}
