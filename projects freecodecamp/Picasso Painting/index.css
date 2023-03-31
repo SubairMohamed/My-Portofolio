@@ -243,3 +243,7 @@ body {
   top: 15px;
   right: 30px;
 }
+
+.left {
+  position: absolute;
+}
