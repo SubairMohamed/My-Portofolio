@@ -220,3 +220,7 @@ body {
   margin-top: 30%;
   margin-left: 40%;
 }
+
+#guitar-neck {
+  width: 200px;
+}
