@@ -197,3 +197,7 @@ body {
   left: 0px;
   z-index: 3;
 }
+
+.guitar {
+  width: 150px;
+}
