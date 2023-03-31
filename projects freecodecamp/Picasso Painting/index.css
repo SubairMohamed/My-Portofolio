@@ -209,3 +209,7 @@ body {
   position: absolute;
   left: 0px;
 }
+
+#guitar-right {
+  position: absolute;
+}
