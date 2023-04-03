@@ -9,4 +9,9 @@ body {
   position: absolute;
   top: 0;
   left: 0;
+  z-index: -1;
+}
+
+#white-character {
+  width: 300px;
 }
