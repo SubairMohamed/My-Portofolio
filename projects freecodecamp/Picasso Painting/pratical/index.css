@@ -29,5 +29,8 @@ body {
   border-top-color: transparent;
   border-right-color: transparent;
   border-left-color: transparent;
-  border-bottom-color: cadetblue;
+  border-bottom-color: white;
+  position: absolute;
+  top: -140px;
+  left: 0;
 }
