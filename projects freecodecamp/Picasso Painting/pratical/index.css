@@ -35,11 +35,12 @@ body {
   left: 0;
 }
 
-#black-mask {
+#black-hat {
   width: 100%;
-  height: 50%;
-  background-color: burlywood;
+  height: 50px;
+  background-color: crimson;
   position: absolute;
   top: 0;
   left: 0;
+  z-index: 1;
 }
