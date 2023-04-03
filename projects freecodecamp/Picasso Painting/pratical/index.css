@@ -24,4 +24,6 @@ body {
 #white-hat {
   width: 0;
   height: 0;
+  background-color: aquamarine;
+  border-style: solid;
 }
