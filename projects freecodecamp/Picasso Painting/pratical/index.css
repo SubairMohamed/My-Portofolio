@@ -44,3 +44,9 @@ body {
   left: 0;
   z-index: 1;
 }
+
+#gray-hat {
+  width: 15%;
+  height: 40%;
+  background-color: rgb(151, 239, 239);
+}
