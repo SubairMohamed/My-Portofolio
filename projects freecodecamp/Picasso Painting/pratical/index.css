@@ -96,3 +96,12 @@ body {
   top: -100px;
   left: 0;
 }
+
+#gray-mask {
+  width: 150px;
+  height: 150px;
+  background-color: brown;
+  position: absolute;
+  top: 10px;
+  left: 70px;
+}
