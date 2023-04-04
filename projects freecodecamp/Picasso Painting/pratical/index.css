@@ -63,3 +63,9 @@ body {
   margin: auto;
   margin-top: 28px;
 }
+
+.table {
+  width: 400px;
+  height: 150px;
+  background-color: chocolate;
+}
