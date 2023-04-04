@@ -93,4 +93,6 @@ body {
   border-bottom-color: transparent;
   border-left-color: green;
   position: absolute;
+  top: -100px;
+  left: 0;
 }
