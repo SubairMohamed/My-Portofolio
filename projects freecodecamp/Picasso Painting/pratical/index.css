@@ -75,7 +75,10 @@ body {
 }
 
 #black-character {
-  width: 500px;
-  height: 300px;
+  width: 300px;
+  height: 500px;
   background-color: gray;
+  position: absolute;
+  top: 30%;
+  left: 59%;
 }
