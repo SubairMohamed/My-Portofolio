@@ -68,4 +68,8 @@ body {
   width: 400px;
   height: 150px;
   background-color: chocolate;
+  position: absolute;
+  top: 50%;
+  left: 6%;
+  z-index: 1;
 }
