@@ -113,4 +113,7 @@ body {
 #blue-left {
   width: 500px;
   height: 300px;
+  position: absolute;
+  top: 20%;
+  left: 20%;
 }
