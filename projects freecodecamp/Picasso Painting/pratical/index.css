@@ -54,3 +54,9 @@ body {
   left: 125px;
   z-index: 1;
 }
+
+.dots {
+  width: 10px;
+  height: 10px;
+  background-color: blue;
+}
