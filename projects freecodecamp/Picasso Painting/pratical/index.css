@@ -186,7 +186,6 @@ body {
 #guitar {
   width: 100%;
   height: 100px;
-  background-color: red;
   position: absolute;
   top: 140px;
   left: 0;
@@ -198,4 +197,14 @@ body {
   height: 120px;
   background-color: goldenrod;
   border-radius: 50%;
+}
+
+#guitar-left {
+  position: absolute;
+  left: 0px;
+}
+
+#guitar-right {
+  position: absolute;
+  left: 100px;
 }
