@@ -159,7 +159,6 @@ body {
 #eyes-div {
   width: 180px;
   height: 50px;
-  background-color: red;
   position: absolute;
   top: -40px;
   left: 20px;
@@ -231,4 +230,11 @@ body {
   display: block;
   margin-top: 30%;
   margin-left: 40%;
+}
+
+.eyes {
+  width: 35px;
+  height: 20px;
+  border-radius: 20px 50px;
+  background-color: azure;
 }
