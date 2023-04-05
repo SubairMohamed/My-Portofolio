@@ -180,4 +180,5 @@ body {
   border-right-color: gold;
   border-bottom-color: transparent;
   border-left-color: transparent;
+  display: inline-block;
 }
