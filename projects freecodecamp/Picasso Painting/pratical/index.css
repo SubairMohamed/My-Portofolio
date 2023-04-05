@@ -192,3 +192,10 @@ body {
   left: 0;
   z-index: 3;
 }
+
+.guitar {
+  width: 150px;
+  height: 120px;
+  background-color: goldenrod;
+  border-radius: 50%;
+}
