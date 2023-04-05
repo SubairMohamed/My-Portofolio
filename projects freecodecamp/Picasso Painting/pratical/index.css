@@ -226,3 +226,9 @@ body {
 .fas {
   font-size: 30px;
 }
+
+.fa-bars {
+  display: block;
+  margin-top: 30%;
+  margin-left: 40%;
+}
