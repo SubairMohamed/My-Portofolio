@@ -140,4 +140,6 @@ body {
   width: 250px;
   height: 550px;
   background-color: orange;
+  position: absolute;
+  top: 25%;
 }
