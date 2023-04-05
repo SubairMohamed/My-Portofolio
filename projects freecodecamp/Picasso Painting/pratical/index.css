@@ -148,8 +148,10 @@ body {
 #black-round {
   width: 180px;
   height: 150px;
-  background-color: red;
+  background-color: black;
   border-radius: 50%;
   position: absolute;
   top: -100px;
+  left: 5px;
+  z-index: -1;
 }
