@@ -135,3 +135,9 @@ body {
   left: -200px;
   z-index: 1;
 }
+
+#orange-character {
+  width: 250px;
+  height: 550px;
+  background-color: orange;
+}
