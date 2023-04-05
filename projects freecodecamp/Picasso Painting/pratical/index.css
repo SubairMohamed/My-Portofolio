@@ -238,3 +238,9 @@ body {
   border-radius: 20px 50px;
   background-color: azure;
 }
+
+.left {
+  position: absolute;
+  top: 15px;
+  left: 30px;
+}
