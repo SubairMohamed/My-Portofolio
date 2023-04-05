@@ -212,5 +212,8 @@ body {
 .guitar-neck {
   width: 200px;
   height: 30px;
-  background-color: burlywood;
+  background-color: rgb(191, 143, 20);
+  position: absolute;
+  top: 45px;
+  left: 200px;
 }
