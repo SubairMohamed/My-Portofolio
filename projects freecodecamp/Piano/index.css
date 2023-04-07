@@ -49,4 +49,6 @@ html {
 
 .logo {
   width: 200px;
+  position: absolute;
+  top: 23px;
 }
