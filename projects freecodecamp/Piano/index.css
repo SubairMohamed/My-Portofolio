@@ -44,4 +44,5 @@ html {
   left: -18px;
   width: 32px;
   height: 100px;
+  border-radius: 0 0 3px 3px;
 }
