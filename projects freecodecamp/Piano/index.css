@@ -7,3 +7,8 @@ html {
 ::after {
   box-sizing: inherit;
 }
+
+#piano {
+  background-color: #00471b;
+  width: 992px;
+}
