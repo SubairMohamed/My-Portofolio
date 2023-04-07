@@ -35,4 +35,5 @@ html {
 /* "♥" */
 
 .key.black--key::after {
+  background-color: #1d1e22;
 }
