@@ -46,3 +46,7 @@ html {
   height: 100px;
   border-radius: 0 0 3px 3px;
 }
+
+.logo {
+  width: 200px;
+}
