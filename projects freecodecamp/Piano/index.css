@@ -23,6 +23,7 @@ html {
   width: 949px;
   height: 180px;
   padding-left: 2px;
+  overflow: hidden;
 }
 
 .key {
