@@ -57,7 +57,12 @@ html {
   #piano {
     width: 358px;
   }
+
   .keys {
     width: 318px;
+  }
+
+  .logo {
+    width: 150px;
   }
 }
