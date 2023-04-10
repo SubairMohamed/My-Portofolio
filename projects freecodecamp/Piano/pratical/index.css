@@ -21,3 +21,11 @@ html {
   width: 949px;
   height: 180px;
 }
+
+.key {
+  background-color: whitesmoke;
+  width: 41px;
+  height: 175px;
+  float: left;
+  padding-left: 2px;
+}
