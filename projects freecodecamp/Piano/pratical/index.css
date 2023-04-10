@@ -20,12 +20,24 @@ html {
   background-color: cadetblue;
   width: 949px;
   height: 180px;
+  padding-left: 2px;
+  overflow: hidden;
 }
 
 .key {
   background-color: whitesmoke;
+  position: relative;
   width: 41px;
   height: 175px;
   float: left;
-  padding-left: 2px;
+  margin: 2px;
+}
+
+.key.black--key::after {
+  background-color: black;
+  content: "";
+  position: absolute;
+  left: -18px;
+  width: 32px;
+  height: 100px;
 }
