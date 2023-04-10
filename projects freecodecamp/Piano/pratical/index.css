@@ -48,4 +48,5 @@ html {
 img {
   width: 250px;
   position: absolute;
+  top: 10px;
 }
