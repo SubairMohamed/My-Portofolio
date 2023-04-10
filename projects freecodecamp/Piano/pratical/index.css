@@ -15,3 +15,9 @@ html {
   padding: 90px 20px 0px 20px;
   margin: 80px auto;
 }
+
+.keys {
+  background-color: cadetblue;
+  width: 949px;
+  height: 180px;
+}
