@@ -12,4 +12,6 @@ html {
   background-color: burlywood;
   width: 992px;
   height: 290px;
+  padding: 90px 20px 0px 20px;
+  margin: 80px auto;
 }
