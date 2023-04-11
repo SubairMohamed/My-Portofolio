@@ -56,4 +56,8 @@ img {
   #piano {
     width: 358px;
   }
+
+  .keys {
+    width: 318px;
+  }
 }
