@@ -65,3 +65,9 @@ img {
     width: 150px;
   }
 }
+
+@media (max-width: 1199px) {
+  #piano {
+    width: 675px;
+  }
+}
