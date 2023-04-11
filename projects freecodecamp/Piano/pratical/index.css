@@ -60,4 +60,8 @@ img {
   .keys {
     width: 318px;
   }
+
+  img {
+    width: 150px;
+  }
 }
