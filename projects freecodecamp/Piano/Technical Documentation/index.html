@@ -182,7 +182,25 @@ not defined
         <p>Consequently, you can access global variables declared in one window or frame from another window or frame by specifying the window or frame name. For example, if a variable called phoneNumber is declared in a document, you can refer to this variable from an iframe as parent.phoneNumber.</p>
       </section>
 
-      <section aria-labelledby="Constants"></section>
+      <section aria-labelledby="Constants">
+        <h2 id="Constants">Constants</h2>
+        <p>You can create a read-only, named constant with the const keyword. The syntax of a constant identifier is the same as for a variable identifier: it must start with a letter, underscore or dollar sign and can contain alphabetic, numeric, or underscore characters.</p>
+        <code>
+          <pre>
+            const PI = 3.14;
+          </pre>
+        </code>
+        <p>A constant cannot change value through assignment or be re-declared while the script is running. It has to be initialized to a value.</p>
+        <p>The scope rules for constants are the same as those for let block scope variables. If the const keyword is omitted, the identifier is assumed to represent a variable.</p>
+        <p>You cannot declare a constant with the same name as a function or variable in the same scope. For example:</p>
+        <code>
+          <pre>
+            // THIS WILL CAUSE AN ERROR function f() {}; const f = 5; // THIS
+WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
+//statements }
+          </pre>
+        </code>
+      </section>
 
       <section aria-labelledby="Data types"></section>
 
