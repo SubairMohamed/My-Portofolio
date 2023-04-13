@@ -200,6 +200,13 @@ WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
 //statements }
           </pre>
         </code>
+        <p>However, object attributes are not protected, so the following statement is executed without problems.</p>
+        <code>
+          <pre>
+            const MY_OBJECT = {"key": "value"}; MY_OBJECT.key =
+            "otherValue";
+          </pre>
+        </code>
       </section>
 
       <section aria-labelledby="Data types"></section>
