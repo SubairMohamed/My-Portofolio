@@ -436,7 +436,12 @@ WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
             return number * number;
           </pre>
         </code>
-        <p></p>
+        <p>
+          Primitive parameters (such as a number) are passed to functions by
+          value; the value is passed to the function, but if the function
+          changes the value of the parameter, this change is not reflected
+          globally or in the calling function.
+        </p>
       </section>
 
       <section aria-labelledby="Reference"></section>
