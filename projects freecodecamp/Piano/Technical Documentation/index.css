@@ -5,3 +5,14 @@ html {
 body {
   font-family: sans-serif;
 }
+
+h2 {
+  font-weight: normal;
+}
+
+nav > a {
+  display: block;
+  text-decoration: none;
+  color: gray;
+  font-size: 24px;
+}
