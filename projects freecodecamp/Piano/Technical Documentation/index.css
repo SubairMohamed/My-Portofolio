@@ -6,6 +6,8 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
+  display: flex;
+  flex-direction: column;
 }
 
 h2 {
@@ -45,6 +47,8 @@ nav {
   font-size: 28px;
   padding-left: 16px;
   font-weight: 500;
+  border-bottom: 1px solid gray;
+  padding-bottom: 8px;
 }
 
 .nav-link {
@@ -52,7 +56,11 @@ nav {
   border-bottom: 1px solid gray;
 }
 
+/* .nav-link:first-of-type {
+  border-top: 1px solid gray;
+} */
+
 .nav-link:last-of-type {
   border-bottom: none;
-  padding-bottom: 14px;
+  padding-bottom: 100px;
 }
