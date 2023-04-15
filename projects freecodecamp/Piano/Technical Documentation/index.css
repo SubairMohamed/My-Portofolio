@@ -4,6 +4,8 @@ html {
 
 body {
   font-family: sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 h2 {
@@ -31,9 +33,10 @@ nav {
 
 #main-doc {
   width: 80%;
+  min-width: 600px;
   background-color: azure;
   margin: 0 auto;
-  position: fixed;
+  position: absolute;
   left: 260px;
   right: auto;
 }
