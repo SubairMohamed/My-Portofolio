@@ -45,9 +45,14 @@ nav {
   font-size: 28px;
   padding-left: 16px;
   font-weight: 500;
-  padding-bottom: 14px;
 }
 
 .nav-link {
   padding-left: 16px;
+  border-bottom: 1px solid gray;
+}
+
+.nav-link:last-of-type {
+  border-bottom: none;
+  padding-bottom: 14px;
 }
