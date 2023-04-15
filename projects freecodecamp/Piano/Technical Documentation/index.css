@@ -24,7 +24,7 @@ nav {
   background-color: cornsilk;
   width: 19%;
   min-width: 250px;
-  height: 98vh;
+  height: 100vh;
   position: fixed;
   top: 0;
   left: 0;
@@ -46,4 +46,8 @@ nav {
   padding-left: 16px;
   font-weight: 500;
   padding-bottom: 14px;
+}
+
+.nav-link {
+  padding-left: 16px;
 }
