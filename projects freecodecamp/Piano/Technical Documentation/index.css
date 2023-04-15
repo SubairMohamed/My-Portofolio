@@ -40,3 +40,8 @@ nav {
   left: 260px;
   right: auto;
 }
+
+#nav-head {
+  font-size: 24px;
+  padding-left: 18px;
+}
