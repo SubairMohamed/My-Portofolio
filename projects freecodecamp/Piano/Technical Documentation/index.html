@@ -198,21 +198,21 @@
           global context) within which x is declared, not the block, which in
           this case is an if statement.
         </p>
-        <code>
-          <pre>
+        <pre>
+         <code>
     if (true) { var x = 5; } console.log(x); // 5
-          </pre>
-        </code>
+         </code>
+       </pre>
         <p>
           This behavior changes, when using the let declaration introduced in
           ECMAScript 2015.
         </p>
-        <code>
-          <pre>
+        <pre>
+         <code>
             if (true) { let y = 5; } console.log(y); // ReferenceError: y is
-not defined
-          </pre>
-        </code>
+            not defined
+         </code>
+        </pre>
       </section>
 
       <section aria-labelledby="Global variale">
