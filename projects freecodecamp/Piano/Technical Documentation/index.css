@@ -5,4 +5,11 @@
 body {
   display: flex;
   flex-direction: row;
+  font-family: sans-serif;
+}
+
+#navbar {
+  background-color: chocolate;
+  width: 85%;
+  min-width: 250px;
 }
