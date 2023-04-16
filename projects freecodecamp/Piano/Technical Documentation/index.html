@@ -239,11 +239,11 @@
           identifier: it must start with a letter, underscore or dollar sign and
           can contain alphabetic, numeric, or underscore characters.
         </p>
-        <code>
-          <pre>
+        <pre>
+         <code>
             const PI = 3.14;
-          </pre>
-        </code>
+         </code>
+        </pre>
         <p>
           A constant cannot change value through assignment or be re-declared
           while the script is running. It has to be initialized to a value.
@@ -257,23 +257,23 @@
           You cannot declare a constant with the same name as a function or
           variable in the same scope. For example:
         </p>
-        <code>
-          <pre>
+        <pre>
+         <code>
             // THIS WILL CAUSE AN ERROR function f() {}; const f = 5; // THIS
-WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
-//statements }
-          </pre>
-        </code>
+               WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
+            //statements }
+         </code>
+        </pre>
         <p>
           However, object attributes are not protected, so the following
           statement is executed without problems.
         </p>
-        <code>
-          <pre>
+        <pre>
+         <code>
             const MY_OBJECT = {"key": "value"}; MY_OBJECT.key =
             "otherValue";
-          </pre>
-        </code>
+         </code>
+        </pre>
       </section>
 
       <section aria-labelledby="Data types">
@@ -312,11 +312,11 @@ WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
           true. Use the optional else clause to execute a statement if the
           condition is false. An if statement looks as follows:
         </p>
-        <code>
-          <pre>
+        <pre>
+         <code>
             if (condition) { statement_1; } else { statement_2; }
-          </pre>
-        </code>
+         </code>
+        </pre>
         <p>
           condition can be any expression that evaluates to true or false. See
           Boolean for an explanation of what evaluates to true and false. If
@@ -328,13 +328,13 @@ WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
           You may also compound the statements using else if to have multiple
           conditions tested in sequence, as follows:
         </p>
-        <code>
-          <pre>
+        <pre>
+         <code>
             if (condition_1) { statement_1; } else if (condition_2) {
               statement_2; } else if (condition_n) { statement_n; } else {
               statement_last; }
-          </pre>
-        </code>
+         </code>
+       </pre>
         <p>
           In the case of multiple conditions only the first logical condition
           which evaluates to true will be executed. To execute multiple
@@ -342,14 +342,14 @@ WILL CAUSE AN ERROR ALSO function f() { const g = 5; var g;
           general, it's good practice to always use block statements, especially
           when nesting if statements:
         </p>
-        <code>
-          <pre>
+        <pre>
+          <code>
             if (condition) { statement_1_runs_if_condition_is_true;
               statement_2_runs_if_condition_is_true; } else {
               statement_3_runs_if_condition_is_false;
               statement_4_runs_if_condition_is_false; }
-          </pre>
-        </code>
+         </code>
+        </pre>
         <p>
           It is advisable to not use simple assignments in a conditional
           expression, because the assignment can be confused with equality when
