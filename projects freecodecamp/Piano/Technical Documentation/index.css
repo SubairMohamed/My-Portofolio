@@ -24,3 +24,9 @@ ul li a {
 li {
   list-style: none;
 }
+
+#nav-head {
+  font-weight: 500;
+  font-size: 28px;
+  padding: 4px;
+}
