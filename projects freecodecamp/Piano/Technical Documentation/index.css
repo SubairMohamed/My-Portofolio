@@ -33,3 +33,8 @@ li {
   font-size: 28px;
   text-align: center;
 }
+
+h2 {
+  color: black;
+  font-weight: 500;
+}
