@@ -32,8 +32,9 @@ nav ul li {
 .nav-head {
   font-weight: 500;
   font-size: 28px;
-  text-align: center;
+  text-align: left;
   color: black;
+  padding: 15px 26px 20px 26px;
 }
 
 h2 {
