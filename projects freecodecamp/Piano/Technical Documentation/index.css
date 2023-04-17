@@ -6,10 +6,11 @@ body {
   display: flex;
   flex-direction: row;
   font-family: sans-serif;
+  color: rgb(113, 111, 111);
 }
 
 #navbar {
-  background-color: inherit;
+  /* background-color: cadetblue; */
   width: 85%;
   min-width: 250px;
   height: 100vh;
@@ -19,14 +20,16 @@ body {
 
 ul li a {
   text-decoration: none;
+  font-size: 19px;
 }
 
 li {
   list-style: none;
+  text-align: left;
 }
 
 #nav-head {
   font-weight: 500;
   font-size: 28px;
-  padding: 4px;
+  text-align: center;
 }
