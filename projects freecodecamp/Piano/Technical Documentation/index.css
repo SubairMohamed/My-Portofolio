@@ -1,5 +1,6 @@
 * {
-  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -10,10 +11,10 @@ body {
 }
 
 #navbar {
-  /* background-color: cadetblue; */
+  background-color: cadetblue;
   width: 85%;
   min-width: 250px;
-  /* height: 100vh; */
+  height: 100vh;
 }
 
 ul li a {
