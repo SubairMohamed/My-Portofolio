@@ -13,6 +13,7 @@ body {
 #navbar {
   width: 100%;
   height: 100vh;
+  border-right: 4px solid gray;
 }
 
 ul li a {
