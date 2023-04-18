@@ -45,6 +45,7 @@ h2 {
   color: black;
   font-weight: 500;
   font-size: 1.7rem;
+  padding-bottom: 15px;
 }
 
 section {
@@ -54,5 +55,10 @@ section {
 
 .last {
   border-bottom: 1px solid black;
+}
+
+p {
+  font-size: 15px;
+  margin-bottom: 14px;
 }
 
