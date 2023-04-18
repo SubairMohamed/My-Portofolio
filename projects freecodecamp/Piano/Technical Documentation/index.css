@@ -12,8 +12,11 @@ body {
 
 #navbar {
   width: 100%;
-  height: 92vh;
+  height: 93.5vh;
   border-right: 4px solid gray;
+  position: sticky;
+  top: 0;
+  left: 0;
 }
 
 ul li a {
