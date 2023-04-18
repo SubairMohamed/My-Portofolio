@@ -19,7 +19,7 @@ body {
   left: 0;
 }
 
-ul li a {
+.nav-order li .nav-link {
   display: block;
   text-decoration: none;
   font-size: 16px;
@@ -65,4 +65,5 @@ p {
 
 .ul-indent {
   margin-left: 40px;
+  /* line-height: 30px; */
 }
