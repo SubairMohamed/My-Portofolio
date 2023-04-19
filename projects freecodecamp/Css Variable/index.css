@@ -22,6 +22,7 @@ body {
 .bb1a {
   width: 70%;
   height: 10%;
+  background-color: var(--building-color1);
 }
 
 .bb1b {
