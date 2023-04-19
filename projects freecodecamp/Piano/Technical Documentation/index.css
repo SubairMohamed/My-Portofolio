@@ -77,3 +77,9 @@ p {
   list-style: circle;
   margin-left: 20px;
 }
+
+code {
+  display: block;
+  background-color: gray;
+  color: white;
+}
