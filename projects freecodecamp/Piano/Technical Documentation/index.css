@@ -85,3 +85,9 @@ code {
   color: white;
   border-radius: 6px;
 }
+
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
