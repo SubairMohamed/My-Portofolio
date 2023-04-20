@@ -64,7 +64,7 @@ body {
 .bb3 {
   width: 10%;
   height: 55%;
-  background-color: var(--building-color3, pink);
+  background-color: var(--building-color3);
 }
 
 .bb4 {
