@@ -12,6 +12,9 @@ body {
 .background-buildings {
   width: 100%;
   height: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
 }
 
 .bb1 {
@@ -64,12 +67,4 @@ body {
 .bb4 {
   width: 11%;
   height: 58%;
-}
-
-.background-buildings {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  justify-content: space-evenly;
-  align-items: flex-end;
 }
