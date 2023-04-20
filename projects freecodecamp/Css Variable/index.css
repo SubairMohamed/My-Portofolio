@@ -29,9 +29,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  --building-color1: #aa80ff;
-  --building-color2: #66cc99;
-  --building-color3: #cc6699;
 }
 
 .bb1a {
