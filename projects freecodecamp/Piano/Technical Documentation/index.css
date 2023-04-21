@@ -10,14 +10,18 @@ body {
   color: rgb(113, 111, 111);
 }
 
-/* ::-webkit-scrollbar {
+::-webkit-scrollbar {
   width: 5px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: red;
+  background-color: rgb(65, 62, 62);
   border-radius: 10px;
-} */
+}
+
+.nav-order{
+  overflow: auto;
+}
 
 #navbar {
   width: 100%;
@@ -26,12 +30,14 @@ body {
   position: sticky;
   top: 0;
   left: 0;
+  display: flex;
+  flex-direction: column;
 }
 
 .nav-order li .nav-link {
   display: block;
   text-decoration: none;
-  font-size: 16px;
+  font-size: 19px;
   color: gray;
   padding: 10px 30px;
 }
