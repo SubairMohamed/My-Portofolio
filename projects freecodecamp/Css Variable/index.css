@@ -111,3 +111,9 @@ body {
   width: 9%;
   height: 38%;
 }
+
+.background-buildings,
+.foreground-buildings {
+  position: absolute;
+  top: 0;
+}
