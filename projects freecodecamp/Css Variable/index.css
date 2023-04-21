@@ -117,6 +117,7 @@ body {
 .fb6 {
   width: 9%;
   height: 38%;
+  background-color: var(--building-color3);
 }
 
 .background-buildings,
