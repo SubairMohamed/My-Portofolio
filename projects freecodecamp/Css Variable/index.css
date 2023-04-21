@@ -79,6 +79,9 @@ body {
   height: 100%;
   position: absolute;
   top: 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-end;
 }
 
 .fb1 {
