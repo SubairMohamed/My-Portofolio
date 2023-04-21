@@ -1,0 +1,27 @@
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+.slidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 350px;
+    height: 100%;
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+}
+
+.scrollbox {
+    overflow: auto;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: gray;
+} */
