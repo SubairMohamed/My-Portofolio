@@ -32,6 +32,11 @@ body {
 
 /* BACKGROUND BUILDINGS - "bb" stands for "background building" */
 
+.bb1-window {
+  height: 10%;
+  background: linear-gradient(var(--building-color1), var(--window-color1));
+}
+
 .bb1 {
   width: 10%;
   height: 70%;
