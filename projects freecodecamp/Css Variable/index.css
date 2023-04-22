@@ -5,6 +5,10 @@
   --building-color4: #538cc6;
 }
 
+:root {
+  --window-color1: black;
+}
+
 * {
   border: 1px solid black;
   box-sizing: border-box;
