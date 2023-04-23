@@ -108,6 +108,7 @@ body {
 .bb4a {
   width: 3%;
   height: 10%;
+  background-color: var(--building-color4);
 }
 
 .bb4b {
