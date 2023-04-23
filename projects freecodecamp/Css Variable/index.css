@@ -40,7 +40,6 @@ body {
   align-items: center;
 }
 
-
 /* BACKGROUND BUILDINGS - "bb" stands for "background building" */
 
 .bb1-window {
@@ -111,6 +110,12 @@ body {
 .bb4 {
   width: 11%;
   height: 58%;
+}
+
+.bb4-window {
+  width: 18%;
+  height: 90%;
+  background-color: var(--window-color4);
 }
 
 .bb4a {
