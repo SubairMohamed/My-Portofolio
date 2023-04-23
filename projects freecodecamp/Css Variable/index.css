@@ -40,6 +40,12 @@ body {
   align-items: center;
 }
 
+.window-wrap {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
 /* BACKGROUND BUILDINGS - "bb" stands for "background building" */
 
 .bb1-window {
