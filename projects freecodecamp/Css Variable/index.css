@@ -120,6 +120,7 @@ body {
 .bb4c {
   width: 100%;
   height: 85%;
+  background-color: var(--building-color4);
 }
 
 .foreground-buildings {
