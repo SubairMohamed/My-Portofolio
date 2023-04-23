@@ -114,6 +114,7 @@ body {
 .bb4b {
   width: 80%;
   height: 5%;
+  background-color: var(--building-color4);
 }
 
 .bb4c {
