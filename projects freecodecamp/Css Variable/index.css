@@ -157,6 +157,10 @@ body {
   height: 60%;
 }
 
+.fb1a {
+  border-bottom: 7vh solid var(--building-color4);
+}
+
 .fb1b {
   width: 60%;
   height: 10%;
