@@ -158,6 +158,11 @@ body {
   background-color: var(--building-color4);
 }
 
+.fb1b {
+  width: 60%;
+  height: 10%;
+}
+
 .fb2 {
   width: 10%;
   height: 40%;
