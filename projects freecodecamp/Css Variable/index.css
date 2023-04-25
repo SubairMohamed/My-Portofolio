@@ -226,6 +226,7 @@ body {
 .fb3b {
   width: 100%;
   height: 35%;
+  background-color: var(--building-color1);
 }
 
 .fb4 {
