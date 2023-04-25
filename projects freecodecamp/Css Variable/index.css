@@ -194,6 +194,10 @@ body {
   background-color: var(--building-color3);
 }
 
+.fb2a {
+  width: 100%;
+}
+
 .fb3 {
   width: 10%;
   height: 35%;
