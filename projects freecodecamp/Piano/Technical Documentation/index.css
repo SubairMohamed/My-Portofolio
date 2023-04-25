@@ -19,7 +19,7 @@ body {
   border-radius: 10px;
 }
 
-.nav-order{
+.nav-order {
   overflow: auto;
 }
 
@@ -99,6 +99,9 @@ code {
   background-color: gray;
   color: white;
   border-radius: 6px;
+  white-space: pre-wrap;
+  text-align: left;
+  padding-left: 8px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -107,5 +110,8 @@ code {
   }
 }
 
-
-
+@media (max-width: 640px) {
+  code {
+    text-align: left;
+  }
+}
