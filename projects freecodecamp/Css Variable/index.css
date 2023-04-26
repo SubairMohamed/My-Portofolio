@@ -78,7 +78,7 @@ body {
   height: 70%;
   background: linear-gradient(var(--building-color1) 50%, var(--window-color1));
 }
-/* bb1 end and her child's */
+/* bb1 ends and her child's */
 
 .bb2 {
   width: 10%;
@@ -102,7 +102,7 @@ body {
   border-left: 5vw solid transparent;
   border-right: 5vw solid transparent;
 }
-/* bb2 end and her child's */
+/* bb2 ends and her child's */
 
 .bb3 {
   width: 10%;
@@ -114,7 +114,7 @@ body {
     var(--window-color3) 15%
   );
 }
-/* bb3 end no child's */
+/* bb3 ends no child's */
 
 .bb4 {
   width: 11%;
@@ -144,7 +144,7 @@ body {
   height: 85%;
   background-color: var(--building-color4);
 }
-/* bb4 end and her child's */
+/* bb4 ends and her child's */
 
 .foreground-buildings {
   width: 100%;
@@ -191,6 +191,7 @@ body {
       var(--window-color4) 90%
     );
 }
+/* fb1 ends and her child's */
 
 .fb2 {
   width: 10%;
