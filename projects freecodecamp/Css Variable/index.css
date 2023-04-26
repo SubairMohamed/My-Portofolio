@@ -250,12 +250,12 @@ body {
   left: 10%;
 }
 
-.fb4 {
-  width: 8%;
-  height: 45%;
-  background-color: var(--building-color1);
+.fb5 {
+  width: 10%;
+  height: 33%;
+  background-color: var(--building-color2);
   position: relative;
-  left: 10%;
+  right: 10%;
 }
 
 .fb6 {
