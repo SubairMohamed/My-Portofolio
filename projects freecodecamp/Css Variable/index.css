@@ -255,6 +255,12 @@ body {
   background-color: var(--building-color1);
 }
 
+.fb4-window {
+  width: 30%;
+  height: 10%;
+  border-radius: 50%;
+}
+
 .fb5 {
   width: 10%;
   height: 33%;
