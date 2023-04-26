@@ -259,6 +259,8 @@ body {
   width: 30%;
   height: 10%;
   border-radius: 50%;
+  background-color: var(--window-color1);
+  margin: 10%;
 }
 
 .fb5 {
