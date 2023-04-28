@@ -17,6 +17,12 @@ body {
   justify-content: space-evenly;
 }
 
+.building-wrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .bb1 {
   width: 10%;
   height: 70%;
@@ -46,6 +52,7 @@ body {
   height: 70%;
   background-color: gray;
 }
+/* ends child's for bb1 */
 
 .bb2 {
   width: 10%;
