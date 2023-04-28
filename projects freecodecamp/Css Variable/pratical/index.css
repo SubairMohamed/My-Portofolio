@@ -20,19 +20,23 @@ body {
 .bb1 {
   width: 10%;
   height: 70%;
+  background-color: bisque;
 }
 
 .bb2 {
   width: 10%;
   height: 50%;
+  background-color: rebeccapurple;
 }
 
 .bb3 {
   width: 10%;
   height: 55%;
+  background-color: goldenrod;
 }
 
 .bb4 {
   width: 11%;
   height: 58%;
+  background-color: darkcyan;
 }
