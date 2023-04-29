@@ -27,13 +27,15 @@ body {
 .bb1 {
   width: 10%;
   height: 70%;
-  background-color: bisque;
+}
+
+.bb1-window {
+  height: 10%;
 }
 
 .bb1a {
   width: 70%;
   height: 10%;
-  background-color: azure;
 }
 
 .bb1b {
