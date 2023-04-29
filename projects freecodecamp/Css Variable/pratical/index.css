@@ -1,3 +1,10 @@
+:root {
+  --building-color1: violet;
+  --building-color2: #66cc99;
+  --building-color3: #8cd9b3;
+  --building-color4: #d98cb3;
+}
+
 * {
   border: 1px solid black;
   box-sizing: border-box;
