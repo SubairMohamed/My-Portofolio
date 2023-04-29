@@ -138,3 +138,11 @@ body {
   background: var(--building-color1);
 }
 /* ends for bb4 */
+
+/* start fb's */
+
+.fb1 {
+  width: 10%;
+  height: 60%;
+  background-color: #66cc99;
+}
