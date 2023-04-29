@@ -82,6 +82,8 @@ body {
 
 .bb2a {
   border-bottom: 5vh solid var(--color2-green, #66cc99);
+  border-left: 5vw solid transparent;
+  border-right: 5vw solid transparent;
 }
 /* ends child's for bb2 */
 
