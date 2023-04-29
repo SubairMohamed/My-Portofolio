@@ -3,10 +3,10 @@
   --building-color2: #66cc99;
   --building-color3: black;
   --building-color4: #d98cb3;
-  --window-color1: violet;
+  --window-color1: #8cb3d9;
   --window-color2: #8cd9b3;
-  --window-color3: #8cb3d9;
-  --window-color4: gold;
+  --window-color3: gold;
+  --window-color4: violet;
 }
 
 * {
