@@ -79,6 +79,10 @@ body {
     var(--color2-lightgreen, #8cd9b3) 9%
   );
 }
+
+.bb2a {
+  border-bottom: 5vh solid var(--color2-green, #66cc99);
+}
 /* ends child's for bb2 */
 
 .bb3 {
