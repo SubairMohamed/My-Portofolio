@@ -26,6 +26,8 @@ body {
   display: flex;
   align-items: flex-end;
   justify-content: space-evenly;
+  position: absolute;
+  top: 0;
 }
 
 .foreground-buildings {
@@ -182,4 +184,5 @@ body {
 .fb6 {
   width: 9%;
   height: 38%;
+  background-color: aquamarine;
 }
