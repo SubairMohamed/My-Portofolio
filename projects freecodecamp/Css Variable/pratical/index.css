@@ -90,7 +90,14 @@ body {
 .bb3 {
   width: 10%;
   height: 55%;
+  background: repeating-linear-gradient(
+    90deg,
+    var(--color3-pink, #cc6699),
+    var(--color3-pink, #cc6699),
+    var(--color3-lightpink, #d98cb3) 15%
+  );
 }
+/* ends for bb3 */
 
 .bb4 {
   width: 11%;
