@@ -31,6 +31,10 @@ body {
 
 .bb1-window {
   height: 10%;
+  background: linear-gradient(
+    var(--color-black, black),
+    var(--color-pink, violet)
+  );
 }
 
 .bb1a {
