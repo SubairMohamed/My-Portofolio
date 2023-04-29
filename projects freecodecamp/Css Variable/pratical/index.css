@@ -6,7 +6,7 @@
   --window-color1: #8cb3d9;
   --window-color2: #8cd9b3;
   --window-color3: gold;
-  --window-color4: violet;
+  --window-color4: #8f00ff;
 }
 
 * {
@@ -102,9 +102,9 @@ body {
   height: 55%;
   background: repeating-linear-gradient(
     90deg,
-    var(--color3-pink, #cc6699),
-    var(--color3-pink, #cc6699),
-    var(--color3-lightpink, #d98cb3) 15%
+    var(--building-color4),
+    var(--building-color4),
+    var(--window-color4) 12%
   );
 }
 /* ends for bb3 */
