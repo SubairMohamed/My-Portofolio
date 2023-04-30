@@ -58,7 +58,7 @@ body {
 
 .bb1-window {
   height: 10%;
-  background: linear-gradient(var(--building-color3), var(--window-color1));
+  background: linear-gradient(var(--window-color1), var(--building-color3));
 }
 
 .bb1a {
@@ -155,6 +155,11 @@ body {
   width: 10%;
   height: 60%;
   background-color: #66cc99;
+}
+
+.fb1b {
+  width: 60%;
+  height: 10%;
 }
 
 .fb2 {
