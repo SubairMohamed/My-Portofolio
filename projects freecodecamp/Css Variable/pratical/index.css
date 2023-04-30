@@ -324,12 +324,6 @@ body {
 }
 /* ends fb6 */
 
-.background-buildings,
-.foreground-buildings {
-  position: absolute;
-  top: 0;
-}
-
 .sky {
   background: radial-gradient(
     circle closest-corner at 15% 15%,
