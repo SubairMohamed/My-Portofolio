@@ -247,9 +247,22 @@ body {
 .fb4 {
   width: 8%;
   height: 45%;
-  background-color: chocolate;
   position: relative;
   left: 11%;
+}
+
+.fb4b {
+  width: 100%;
+  height: 89%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fb4-window {
+  width: 30%;
+  height: 10%;
+  border-radius: 50%;
+  margin: 10%;
 }
 /* ends for child's fb4 */
 
