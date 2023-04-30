@@ -285,9 +285,21 @@ body {
 .fb5 {
   width: 10%;
   height: 33%;
-  background-color: var(--building-color6);
   position: relative;
   right: 10%;
+  background: repeating-linear-gradient(
+      var(--building-color6) 0%,
+      var(--building-color6) 5%,
+      transparent 5%,
+      transparent 10%
+    ),
+    repeating-linear-gradient(
+      90deg,
+      var(--building-color6),
+      var(--building-color6) 12%,
+      var(--window-color7) 12%,
+      var(--window-color7) 44%
+    );
 }
 /* ends fb5 */
 
