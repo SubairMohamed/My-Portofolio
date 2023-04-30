@@ -4,12 +4,14 @@
   --building-color3: black;
   --building-color4: #cc6699;
   --building-color5: burlywood;
+  --building-color6: #2ec7c0;
   --window-color1: #8cb3d9;
   --window-color2: #8cd9b3;
   --window-color3: gold;
   --window-color4: #8f00ff;
   --window-color5: #d98cb3;
   --window-color6: ghostwhite;
+  --window-color7: #00abc5;
 }
 
 * {
@@ -283,7 +285,7 @@ body {
 .fb5 {
   width: 10%;
   height: 33%;
-  background-color: coral;
+  background-color: var(--building-color6);
   position: relative;
   right: 10%;
 }
@@ -292,6 +294,5 @@ body {
 .fb6 {
   width: 9%;
   height: 38%;
-  background-color: aquamarine;
 }
 /* ends fb6 */
