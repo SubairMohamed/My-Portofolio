@@ -194,7 +194,8 @@ body {
 .fb2 {
   width: 10%;
   height: 40%;
-  flex-direction: column;
+  position: relative;
+  left: 5%;
 }
 
 .fb2a {
