@@ -318,8 +318,8 @@ body {
     repeating-linear-gradient(
       var(--building-color7),
       var(--building-color7) 10%,
-      var(--building-color7) 10%,
-      var(--building-color7) 30%
+      var(--window-color8) 10%,
+      var(--window-color8) 30%
     );
 }
 /* ends fb6 */
