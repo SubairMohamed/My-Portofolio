@@ -2,11 +2,12 @@
   --building-color1: #538cc6;
   --building-color2: #66cc99;
   --building-color3: black;
-  --building-color4: #d98cb3;
+  --building-color4: #cc6699;
   --window-color1: #8cb3d9;
   --window-color2: #8cd9b3;
   --window-color3: gold;
   --window-color4: #8f00ff;
+  --window-color5: #d98cb3;
 }
 
 * {
@@ -210,6 +211,7 @@ body {
 .fb2-window {
   width: 22%;
   height: 100%;
+  background-color: var(--window-color5);
 }
 /* ends for child's fb2 */
 
