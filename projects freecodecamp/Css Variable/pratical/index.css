@@ -259,6 +259,8 @@ body {
   border-top: 1vw solid var(--building-color5);
   border-left: 1vw solid var(--building-color5);
   border-right: 1vw solid var(--building-color5);
+  border-top-right-radius: 4px;
+  border-top-left-radius: 4px;
 }
 
 .fb4b {
