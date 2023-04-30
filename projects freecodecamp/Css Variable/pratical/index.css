@@ -160,6 +160,12 @@ body {
 .fb1b {
   width: 60%;
   height: 10%;
+  background-color: blue;
+}
+
+.fb1c {
+  width: 100%;
+  height: 80%;
 }
 
 .fb2 {
