@@ -57,6 +57,8 @@ body {
 .bb1 {
   width: 10%;
   height: 70%;
+  position: relative;
+  right: 6%;
 }
 
 .bb1-window {
