@@ -333,3 +333,15 @@ body {
     #fff 100%
   );
 }
+
+@media (max-width: 1000px) {
+  .sky {
+    background: radial-gradient(
+      circle closest-corner at 15% 15%,
+      #ccc,
+      #ccc 20%,
+      #445 21%,
+      #223 100%
+    );
+  }
+}
