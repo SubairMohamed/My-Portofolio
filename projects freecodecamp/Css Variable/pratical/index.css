@@ -334,6 +334,7 @@ body {
   );
 }
 
+/* Day and Night */
 @media (max-width: 1000px) {
   .sky {
     background: radial-gradient(
