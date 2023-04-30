@@ -344,4 +344,22 @@ body {
       #223 100%
     );
   }
+
+  :root {
+    --building-color1: black;
+    --building-color2: black;
+    --building-color3: black;
+    --building-color4: black;
+    --building-color5: black;
+    --building-color6: black;
+    --building-color7: black;
+    --window-color1: gold;
+    --window-color2: gold;
+    --window-color3: gold;
+    --window-color4: gold;
+    --window-color5: gold;
+    --window-color6: gold;
+    --window-color7: gold;
+    --window-color8: gold;
+  }
 }
