@@ -186,7 +186,7 @@ body {
       transparent 15%
     ),
     repeating-linear-gradient(
-      80deg,
+      5deg,
       var(--building-color1),
       var(--building-color1) 10%,
       var(--window-color1) 10%,
