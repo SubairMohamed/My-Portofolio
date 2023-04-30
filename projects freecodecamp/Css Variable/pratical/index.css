@@ -225,19 +225,19 @@ body {
 .fb3a {
   width: 80%;
   height: 15%;
-  background-color: burlywood;
+  background-color: var(--building-color5);
 }
 
 .fb3b {
   width: 100%;
   height: 35%;
-  background-color: burlywood;
+  background-color: var(--building-color5);
 }
 
 .fb3-window {
   width: 25%;
   height: 80%;
-  background-color: ghostwhite;
+  background-color: var(--window-color6);
 }
 /* ends for child's fb3 */
 
