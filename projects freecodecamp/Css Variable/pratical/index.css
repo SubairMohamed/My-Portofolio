@@ -245,6 +245,8 @@ body {
   width: 8%;
   height: 45%;
   background-color: chocolate;
+  position: relative;
+  left: 11%;
 }
 /* ends for child's fb4 */
 
@@ -252,6 +254,8 @@ body {
   width: 10%;
   height: 33%;
   background-color: coral;
+  position: relative;
+  right: 10%;
 }
 /* ends fb5 */
 
