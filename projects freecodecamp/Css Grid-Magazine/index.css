@@ -83,3 +83,7 @@ img {
 .author-name a:hover {
   background-color: #306203;
 }
+
+.publish-date {
+  color: rgba(255, 255, 255, 0.5);
+}
