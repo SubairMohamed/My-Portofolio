@@ -49,3 +49,7 @@ main {
 .text {
   grid-column: 2/3;
 }
+
+.hero {
+  grid-column: 1/-1;
+}
