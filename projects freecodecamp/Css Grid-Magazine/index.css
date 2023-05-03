@@ -140,3 +140,7 @@ hr {
   column-gap: 3rem;
   margin-bottom: 3rem;
 }
+
+.lists {
+  list-style-type: none;
+}
