@@ -200,3 +200,6 @@ hr {
     font-size: 1.6rem;
   }
 }
+
+@media only screen and (max-width: 420px) {
+}
