@@ -181,4 +181,7 @@ hr {
 }
 
 @media only screen and (max-width: 550px) {
+  .hero-title {
+    font-size: 6rem;
+  }
 }
