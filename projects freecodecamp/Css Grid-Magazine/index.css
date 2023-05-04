@@ -126,7 +126,7 @@ hr {
   font-family: Raleway, sans-serif;
 }
 
-.quote::before{
+.quote::before {
   content: '" ';
 }
 
@@ -150,7 +150,8 @@ hr {
   margin-bottom: 1.5rem;
 }
 
-.list-title, .list-subtitle {
+.list-title,
+.list-subtitle {
   color: #00beef;
 }
 
@@ -162,7 +163,8 @@ hr {
   place-items: center;
 }
 
-.image-1, .image-3 {
+.image-1,
+.image-3 {
   grid-column: 1/-1;
 }
 
@@ -176,4 +178,7 @@ hr {
   .text-with-images {
     grid-template-columns: 1fr;
   }
+}
+
+@media only screen and (max-width: 550px) {
 }
