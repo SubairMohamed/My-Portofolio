@@ -9,3 +9,9 @@
 html {
   font-size: 62.5%;
 }
+
+body {
+  font-family: Baskervville, serif;
+  color: linen;
+  background-color: #1e7351;
+}
