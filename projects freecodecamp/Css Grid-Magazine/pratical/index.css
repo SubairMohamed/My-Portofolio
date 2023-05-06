@@ -55,3 +55,8 @@ main {
   column-width: 25rem;
   text-align: justify;
 }
+
+.hero {
+  grid-column: 1 / -1;
+  position: relative;
+}
