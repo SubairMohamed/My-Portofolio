@@ -47,3 +47,11 @@ main {
   row-gap: 1.5rem;
   grid-template-columns: repeat(2, 1fr);
 }
+
+.text {
+  grid-column: 2 / 3;
+  font-size: 1.8rem;
+  letter-spacing: 0.6rem;
+  column-width: 25rem;
+  text-align: justify;
+}
