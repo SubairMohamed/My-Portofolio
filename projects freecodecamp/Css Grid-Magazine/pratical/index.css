@@ -60,3 +60,8 @@ main {
   grid-column: 1 / -1;
   position: relative;
 }
+
+img {
+  width: 100%;
+  object-fit: cover;
+}
