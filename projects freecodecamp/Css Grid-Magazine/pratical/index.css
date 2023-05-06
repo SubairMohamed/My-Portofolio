@@ -40,3 +40,10 @@ main {
     minmax(2rem, 1fr);
   row-gap: 3rem;
 }
+
+.heading {
+  display: grid;
+  grid-column: 2/3;
+  row-gap: 1.5rem;
+  grid-template-columns: repeat(2, 1fr);
+}
