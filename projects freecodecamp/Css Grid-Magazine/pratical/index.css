@@ -65,3 +65,9 @@ img {
   width: 100%;
   object-fit: cover;
 }
+
+.hero-title {
+  font-size: 8rem;
+  color: lightgreen;
+  text-align: center;
+}
