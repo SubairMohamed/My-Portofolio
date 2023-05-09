@@ -114,4 +114,7 @@ hr {
 
 .quote {
   font-size: 2.4rem;
+  font-family: Raleway, sans-serif;
+  align-items: center;
+  color: #03e8fc;
 }
