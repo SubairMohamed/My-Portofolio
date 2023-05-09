@@ -117,4 +117,5 @@ hr {
   font-family: Raleway, sans-serif;
   align-items: center;
   color: #03e8fc;
+  text-justify: none;
 }
