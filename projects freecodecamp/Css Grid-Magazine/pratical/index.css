@@ -41,6 +41,7 @@ main {
   row-gap: 3rem;
 }
 
+/* section 1 */
 .heading {
   display: grid;
   grid-column: 2/3;
@@ -48,6 +49,7 @@ main {
   grid-template-columns: repeat(2, 1fr);
 }
 
+/* section 2 */
 .text {
   grid-column: 2 / 3;
   font-size: 1.8rem;
