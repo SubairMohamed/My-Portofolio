@@ -136,4 +136,5 @@ hr {
 .text-with-images {
   display: grid;
   margin-bottom: 3rem;
+  grid-template-columns: 1fr 2fr;
 }
