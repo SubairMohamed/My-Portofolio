@@ -66,6 +66,7 @@ img {
   object-fit: cover;
 }
 
+/* section 1 */
 .hero-title {
   font-size: 8rem;
   color: lightgreen;
@@ -99,6 +100,7 @@ img {
   grid-auto-columns: 1fr;
   grid-auto-flow: column;
 }
+/* done section 1 */
 
 /* section 2 */
 .first-paragraph::first-letter {
