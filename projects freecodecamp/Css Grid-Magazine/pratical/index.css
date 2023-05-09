@@ -118,3 +118,7 @@ hr {
   align-items: center;
   color: #03e8fc;
 }
+
+.quote::before {
+  content: '"';
+}
