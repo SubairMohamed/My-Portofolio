@@ -132,3 +132,8 @@ hr {
   content: ' "';
 }
 /* done section 2 */
+
+.text-with-images {
+  display: grid;
+  margin-bottom: 3rem;
+}
