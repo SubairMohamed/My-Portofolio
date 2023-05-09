@@ -159,4 +159,5 @@ hr {
   grid-template-columns: 2fr 1fr;
   gap: 3rem;
   place-items: center;
+  grid-template-rows: repeat(3, min-content);
 }
