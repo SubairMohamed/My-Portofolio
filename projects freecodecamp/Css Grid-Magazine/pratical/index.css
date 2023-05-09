@@ -102,4 +102,7 @@ img {
 
 .first-paragraph::first-letter {
   font-size: 6rem;
+  color: lightgreen;
+  margin: 1rem;
+  float: left;
 }
