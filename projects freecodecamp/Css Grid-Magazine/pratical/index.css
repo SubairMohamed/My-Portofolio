@@ -100,6 +100,7 @@ img {
   grid-auto-flow: column;
 }
 
+/* section 2 */
 .first-paragraph::first-letter {
   font-size: 6rem;
   color: lightgreen;
@@ -126,3 +127,4 @@ hr {
 .quote::after {
   content: ' "';
 }
+/* done section 2 */
