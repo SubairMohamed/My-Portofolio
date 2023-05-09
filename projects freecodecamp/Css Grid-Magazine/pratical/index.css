@@ -103,6 +103,10 @@ img {
 .first-paragraph::first-letter {
   font-size: 6rem;
   color: lightgreen;
-  margin: 1rem;
+  margin-right: 1rem;
   float: left;
+}
+
+hr {
+  margin: 1.5rem 0;
 }
