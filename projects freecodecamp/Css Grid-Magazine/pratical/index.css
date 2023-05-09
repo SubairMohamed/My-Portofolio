@@ -137,4 +137,5 @@ hr {
   display: grid;
   margin-bottom: 3rem;
   grid-template-columns: 1fr 2fr;
+  column-gap: 3rem;
 }
