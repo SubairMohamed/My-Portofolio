@@ -161,3 +161,8 @@ hr {
   place-items: center;
   grid-template-rows: repeat(3, min-content);
 }
+
+.image-1,
+.image-3 {
+  grid-column: 1 / -1;
+}
