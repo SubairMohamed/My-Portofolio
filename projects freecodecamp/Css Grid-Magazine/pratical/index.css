@@ -99,3 +99,7 @@ img {
   grid-auto-columns: 1fr;
   grid-auto-flow: column;
 }
+
+.first-paragraph::first-letter {
+  font-size: 6rem;
+}
