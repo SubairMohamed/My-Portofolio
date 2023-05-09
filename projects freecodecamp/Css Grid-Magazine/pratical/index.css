@@ -148,3 +148,8 @@ hr {
 .lists li {
   margin-bottom: 1.5rem;
 }
+
+.list-title,
+.list-subtitle {
+  color: #03e8fc;
+}
