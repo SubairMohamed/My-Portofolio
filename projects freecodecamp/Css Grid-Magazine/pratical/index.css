@@ -153,3 +153,7 @@ hr {
 .list-subtitle {
   color: #03e8fc;
 }
+
+.image-wrapper {
+  display: grid;
+}
