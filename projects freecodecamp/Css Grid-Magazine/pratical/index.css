@@ -183,4 +183,11 @@ hr {
   .hero-title {
     font-size: 6rem;
   }
+
+  .hero-subtitle,
+  .author,
+  .list-subtitle,
+  .list-title,
+  .quote {
+  }
 }
