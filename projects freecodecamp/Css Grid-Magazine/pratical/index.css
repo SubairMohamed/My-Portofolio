@@ -168,4 +168,6 @@ hr {
 }
 
 @media only screen and (max-width: 720px) {
+  .image-wrapper {
+  }
 }
