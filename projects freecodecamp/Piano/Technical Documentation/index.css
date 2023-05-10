@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
@@ -111,7 +112,7 @@ code {
   }
 }
 
-@media (max-width: 1200px) {
+@media only screen and (max-width: 1200px) {
   #navbar {
     width: 100%;
     height: 40vh;
@@ -126,5 +127,11 @@ code {
 
   #Introduction {
     padding-top: 22%;
+  }
+}
+
+@media only screen and (max-width: 1085px) {
+  #Introduction {
+    padding-top: 26%;
   }
 }
