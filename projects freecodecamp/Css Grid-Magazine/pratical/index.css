@@ -189,5 +189,6 @@ hr {
   .list-subtitle,
   .list-title,
   .quote {
+    font-size: 1.8rem;
   }
 }
