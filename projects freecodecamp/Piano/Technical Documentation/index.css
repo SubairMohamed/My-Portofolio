@@ -114,13 +114,17 @@ code {
 @media (max-width: 1200px) {
   #navbar {
     width: 100%;
-    height: 50vh;
-    border-right: 3px solid gray;
+    height: 40vh;
+    border-bottom: 3px solid black;
     position: absolute;
     top: 0;
     display: flex;
     flex-direction: column;
-    overflow-y: scroll;
+    overflow-x: scroll;
     float: top;
+  }
+
+  #Introduction {
+    padding-top: 22%;
   }
 }
