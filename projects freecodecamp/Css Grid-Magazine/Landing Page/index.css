@@ -37,3 +37,13 @@ html {
   align-items: center;
   gap: 8rem;
 }
+/* end navbar */
+
+#heading {
+  text-align: center;
+}
+
+.heading-title {
+  font-size: 3rem;
+  padding-bottom: 1.5rem;
+}
