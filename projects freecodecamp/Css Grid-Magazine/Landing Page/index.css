@@ -30,5 +30,7 @@ html {
 
 .nav-list {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8rem;
 }
