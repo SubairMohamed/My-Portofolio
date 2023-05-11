@@ -19,10 +19,12 @@ html {
 .nav-image {
   width: 22%;
   object-fit: fill;
+  background-color: whitesmoke;
 }
 
 .nav-list a {
   text-decoration: none;
+  color: black;
 }
 
 .nav-list li {
