@@ -6,3 +6,8 @@
 html {
   font-size: 62.5%;
 }
+
+#nav-bar {
+  display: flex;
+  font-size: 2rem;
+}
