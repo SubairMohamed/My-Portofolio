@@ -12,6 +12,7 @@ html {
   justify-content: space-between;
   align-items: center;
   font-size: 2rem;
+  background-color: whitesmoke;
 }
 
 .nav-image {
@@ -25,4 +26,9 @@ html {
 
 .nav-list li {
   list-style: none;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-around;
 }
