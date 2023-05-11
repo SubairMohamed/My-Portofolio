@@ -16,4 +16,9 @@ html {
 
 .nav-image {
   width: 22%;
+  object-fit: fill;
+}
+
+.nav-list li a {
+  text-decoration: none;
 }
