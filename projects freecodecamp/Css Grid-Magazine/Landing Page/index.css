@@ -19,6 +19,10 @@ html {
   object-fit: fill;
 }
 
-.nav-list li a {
+.nav-list a {
   text-decoration: none;
+}
+
+.nav-list li {
+  list-style: none;
 }
