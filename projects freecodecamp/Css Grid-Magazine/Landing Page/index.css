@@ -14,6 +14,9 @@ html {
   font-size: 2rem;
   background-color: whitesmoke;
   padding: 2rem;
+  position: fixed;
+  right: 0;
+  left: 0;
 }
 
 .nav-image {
