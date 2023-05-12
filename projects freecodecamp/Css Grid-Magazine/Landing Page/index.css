@@ -119,3 +119,8 @@ h2 {
   align-items: center;
 }
 /* end section video */
+
+.card-text {
+  margin-top: 8rem;
+  text-align: center;
+}
