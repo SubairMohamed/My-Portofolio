@@ -89,12 +89,14 @@ h2 {
 }
 
 #Features {
-  display: flex;
   text-align: left;
-  min-width: 800px;
+  width: 50%;
   margin: auto;
 }
 
 .feature {
-  display: block;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
