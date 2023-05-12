@@ -67,4 +67,5 @@ input[type="submit"] {
   font-weight: 800;
   font-size: 1.7rem;
   padding: 0 0.75rem 0 0.75rem;
+  border: none;
 }
