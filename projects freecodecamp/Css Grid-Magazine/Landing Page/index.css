@@ -87,8 +87,3 @@ p {
 h2 {
   font-size: 2.5rem;
 }
-
-.wrapper {
-  display: flex;
-  flex-direction: row;
-}
