@@ -133,3 +133,8 @@ span {
   font-size: 3rem;
   font-weight: 600;
 }
+
+#card-1 {
+  width: 12%;
+  border: 1px solid black;
+}
