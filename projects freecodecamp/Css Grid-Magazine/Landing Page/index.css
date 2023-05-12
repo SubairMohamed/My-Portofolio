@@ -54,5 +54,6 @@ html {
 
 input[type="email"] {
   width: 22%;
-  height: 2em;
+  height: 1em;
+  padding: 0.75rem;
 }
