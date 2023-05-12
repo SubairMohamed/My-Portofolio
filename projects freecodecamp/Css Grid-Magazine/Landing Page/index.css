@@ -96,7 +96,7 @@ h2 {
 #Features {
   width: 70%;
   margin: auto;
-  padding: 10rem 0 10rem 0;
+  padding: 10rem 0 5rem 0;
 }
 
 .feature {
@@ -112,3 +112,9 @@ h2 {
   padding-bottom: 4rem;
 }
 /* end section features */
+
+.video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
