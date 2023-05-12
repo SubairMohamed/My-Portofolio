@@ -79,6 +79,11 @@ p {
   font-size: 1.7rem;
 }
 
+.fas {
+  font-size: 4rem;
+  color: orange;
+}
+
 h2 {
   font-size: 2.5rem;
 }
