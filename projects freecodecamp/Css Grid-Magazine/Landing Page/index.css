@@ -99,4 +99,5 @@ h2 {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  column-gap: 12rem;
 }
