@@ -51,3 +51,8 @@ html {
   font-size: 3rem;
   padding-bottom: 1.5rem;
 }
+
+input[type="email"] {
+  width: 22%;
+  height: 2em;
+}
