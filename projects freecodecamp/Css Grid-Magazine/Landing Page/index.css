@@ -7,6 +7,10 @@ html {
   font-size: 62.5%;
 }
 
+body {
+  background-color: whitesmoke;
+}
+
 #nav-bar {
   display: flex;
   justify-content: space-between;
