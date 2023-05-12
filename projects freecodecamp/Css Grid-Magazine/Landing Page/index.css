@@ -87,3 +87,14 @@ p {
 h2 {
   font-size: 2.5rem;
 }
+
+#Features {
+  display: flex;
+  text-align: left;
+  min-width: 800px;
+  margin: auto;
+}
+
+.feature {
+  display: block;
+}
