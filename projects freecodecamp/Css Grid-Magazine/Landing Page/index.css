@@ -164,3 +164,7 @@ button {
   padding: 0.75rem;
   border: none;
 }
+
+button:hover {
+  background-color: goldenrod;
+}
