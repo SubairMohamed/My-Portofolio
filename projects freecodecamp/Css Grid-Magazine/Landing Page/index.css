@@ -170,9 +170,15 @@ button:hover {
 }
 
 footer {
-  background-color: gray;
+  background-color: gainsboro;
   padding: 2rem;
   width: 73%;
   margin: auto;
   text-align: right;
+}
+
+footer p {
+  font-size: 1.5rem;
+  padding-top: 0.5rem;
+  font-weight: lighter;
 }
