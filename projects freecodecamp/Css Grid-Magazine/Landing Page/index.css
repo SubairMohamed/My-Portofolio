@@ -135,7 +135,7 @@ h4 {
   margin-bottom: 1rem;
 }
 
-span {
+.fund {
   font-size: 3rem;
   font-weight: 600;
 }
@@ -152,5 +152,5 @@ span {
 }
 
 #card-1 .card-description p {
-  padding-bottom: 0.75rem;
+  margin: 1rem 0 0 0;
 }
