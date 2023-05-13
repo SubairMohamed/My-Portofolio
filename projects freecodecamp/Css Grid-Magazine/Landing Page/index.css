@@ -182,3 +182,9 @@ footer p {
   padding-top: 0.5rem;
   font-weight: lighter;
 }
+
+.footer-list a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: black;
+}
