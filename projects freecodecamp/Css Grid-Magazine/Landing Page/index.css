@@ -168,3 +168,11 @@ button {
 button:hover {
   background-color: goldenrod;
 }
+
+footer {
+  background-color: gray;
+  padding: 2rem;
+  width: 73%;
+  margin: auto;
+  text-align: right;
+}
