@@ -144,3 +144,7 @@ span {
   height: 45vh;
   border: 1px solid black;
 }
+
+#card-1 .card-title h4 {
+  background-color: gold;
+}
