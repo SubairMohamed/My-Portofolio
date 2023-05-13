@@ -123,6 +123,8 @@ h2 {
 .card-text {
   margin-top: 8rem;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 h4 {
@@ -135,6 +137,7 @@ span {
 }
 
 #card-1 {
-  width: 25%;
+  max-width: 25%;
+  height: 70%;
   border: 1px solid black;
 }
