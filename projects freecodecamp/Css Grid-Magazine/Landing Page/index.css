@@ -140,18 +140,18 @@ h4 {
   font-weight: 600;
 }
 
-#card-1 {
+#card {
   width: 22vw;
   height: 45vh;
   border: 1px solid black;
 }
 
-#card-1 .card-title h4 {
+#card .card-title h4 {
   background-color: gold;
   padding: 1rem;
 }
 
-#card-1 .card-description p {
+#card .card-description p {
   margin: 1rem 0 0 0;
 }
 
