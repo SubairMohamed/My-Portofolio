@@ -20,4 +20,5 @@
 }
 
 .line:nth-of-type(2) {
+  transform: rotate(60deg);
 }
