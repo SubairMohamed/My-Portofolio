@@ -73,4 +73,7 @@
 }
 
 @keyframes wheel {
+  0% {
+    color: blue;
+  }
 }
