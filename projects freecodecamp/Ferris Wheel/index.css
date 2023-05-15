@@ -38,3 +38,9 @@
 .line:nth-of-type(6) {
   transform: rotate(300deg);
 }
+
+.cabin {
+  background-color: red;
+  width: 20%;
+  height: 20%;
+}
