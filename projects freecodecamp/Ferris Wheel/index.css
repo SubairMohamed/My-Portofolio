@@ -66,3 +66,8 @@
   left: 17%;
   top: 7%;
 }
+
+.cabin:nth-of-type(6) {
+  right: 17%;
+  top: 7%;
+}
