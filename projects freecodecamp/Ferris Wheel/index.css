@@ -51,3 +51,8 @@
   right: 17%;
   top: 93.5%;
 }
+
+.cabin:nth-of-type(3) {
+  right: 67%;
+  top: 93.5%;
+}
