@@ -34,3 +34,7 @@
 .line:nth-of-type(5) {
   transform: rotate(240deg);
 }
+
+.line:nth-of-type(6) {
+  transform: rotate(300deg);
+}
