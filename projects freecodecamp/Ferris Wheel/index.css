@@ -30,3 +30,7 @@
 .line:nth-of-type(4) {
   transform: rotate(180deg);
 }
+
+.line:nth-of-type(5) {
+  transform: rotate(240deg);
+}
