@@ -3,10 +3,12 @@
   border-radius: 50%;
   margin-left: 50px;
   position: absolute;
-  width: 55vw;
   height: 55vw;
+  width: 55vw;
   max-width: 500px;
   max-height: 500px;
+  animation-name: wheel;
+  animation-duration: 10s;
 }
 
 .line {
