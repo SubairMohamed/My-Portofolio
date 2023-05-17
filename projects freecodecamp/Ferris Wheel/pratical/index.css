@@ -48,4 +48,5 @@
   width: 20%;
   height: 20%;
   position: absolute;
+  transform-origin: 50% 0%;
 }
