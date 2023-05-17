@@ -8,3 +8,9 @@
   max-width: 500px;
   max-height: 500px;
 }
+
+.line {
+  width: 50%;
+  height: 2px;
+  position: absolute;
+}
