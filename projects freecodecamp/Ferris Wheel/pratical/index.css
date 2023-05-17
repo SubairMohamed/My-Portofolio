@@ -23,8 +23,8 @@
   transform: rotate(60deg);
 }
 
-.line:nth-of-type(1) {
-  transform: rotate(60deg);
+.line:nth-of-type(2) {
+  transform: rotate(120deg);
 }
 
 .line:nth-of-type(1) {
