@@ -10,7 +10,9 @@
 }
 
 .line {
+  background-color: blue;
   width: 50%;
   height: 2px;
   position: absolute;
+  top: 50%;
 }
