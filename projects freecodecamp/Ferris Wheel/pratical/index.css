@@ -42,3 +42,9 @@
 .line:nth-of-type(1) {
   transform: rotate(60deg);
 }
+
+.cabin {
+  background-color: brown;
+  width: 20%;
+  height: 20%;
+}
