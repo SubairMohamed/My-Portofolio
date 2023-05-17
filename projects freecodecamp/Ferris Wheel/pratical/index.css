@@ -19,9 +19,9 @@
   transform-origin: 0% 0%;
 }
 
-.line:nth-of-type(1) {
+/* .line:nth-of-type(1) {
   transform: rotate(60deg);
-}
+}  waana ka tagi kartaa, waana ku dari kartaa*/
 
 .line:nth-of-type(2) {
   transform: rotate(120deg);
