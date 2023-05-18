@@ -101,6 +101,10 @@
     background-color: yellowgreen;
   }
 
+  50% {
+    background-color: cadetblue;
+  }
+
   100% {
     transform: rotate(-360deg);
   }
