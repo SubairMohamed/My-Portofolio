@@ -49,6 +49,7 @@
   height: 20%;
   position: absolute;
   transform-origin: 50% 0%;
+  animation: cabin 10s;
 }
 
 .cabin:nth-of-type(1) {
@@ -82,6 +83,16 @@
 }
 
 @keyframes wheel {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes cabin {
   0% {
     transform: rotate(0deg);
   }
