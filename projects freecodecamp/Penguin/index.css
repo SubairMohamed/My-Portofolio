@@ -38,4 +38,5 @@ body {
   height: 300px;
   background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255));
   position: absolute;
+  z-index: 1;
 }
