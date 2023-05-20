@@ -13,6 +13,7 @@ body {
   background: linear-gradient(90deg, rgb(88, 175, 236), rgb(182, 255, 255));
   position: absolute;
   z-index: 3;
+  margin-top: -58px;
 }
 
 .penguin {
