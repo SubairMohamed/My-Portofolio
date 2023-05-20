@@ -43,3 +43,9 @@ body {
   left: 110px;
   transform: rotate(45deg);
 }
+
+.sun {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+}
