@@ -39,4 +39,7 @@ body {
   background: linear-gradient(rgb(203, 241, 228), rgb(47, 170, 255));
   position: absolute;
   z-index: 1;
+  top: 225px;
+  left: 110px;
+  transform: rotate(45deg);
 }
