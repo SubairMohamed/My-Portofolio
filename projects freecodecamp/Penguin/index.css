@@ -28,4 +28,5 @@ body {
   background: linear-gradient(rgb(203, 241, 228), rgb(80, 183, 255));
   position: absolute;
   transform: skew(0deg, 44deg);
+  z-index: 2;
 }
