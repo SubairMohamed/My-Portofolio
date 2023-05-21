@@ -46,6 +46,10 @@ body {
   position: absolute;
   left: 5%;
 }
+.face.right {
+  position: absolute;
+  right: 5%;
+}
 
 .penguin-body {
   width: 53%;
