@@ -50,6 +50,11 @@ body {
   position: absolute;
   right: 5%;
 }
+.chin {
+  width: 90%;
+  height: 70%;
+  background-color: white;
+}
 
 .penguin-body {
   width: 53%;
