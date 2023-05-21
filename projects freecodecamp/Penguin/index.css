@@ -34,6 +34,11 @@ body {
   left: 25%;
   z-index: 1;
 }
+.face {
+  width: 60%;
+  height: 70%;
+  background-color: white;
+}
 
 .penguin-body {
   width: 53%;
