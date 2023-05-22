@@ -133,6 +133,12 @@ body {
   left: 23.5%;
 }
 
+.shirt {
+  font-size: 25px;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+}
+
 .penguin * {
   position: absolute;
 }
