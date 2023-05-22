@@ -73,6 +73,10 @@ body {
   position: absolute;
   left: 25%;
 }
+.eye.right {
+  position: absolute;
+  right: 25%;
+}
 
 .penguin-body {
   width: 53%;
