@@ -69,6 +69,10 @@ body {
   top: 45%;
   border-radius: 50%;
 }
+.eye.left {
+  position: absolute;
+  left: 25%;
+}
 
 .penguin-body {
   width: 53%;
