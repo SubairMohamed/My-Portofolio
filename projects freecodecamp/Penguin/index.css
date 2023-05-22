@@ -98,6 +98,10 @@ body {
   position: absolute;
   left: 15%;
 }
+.blush.right {
+  position: absolute;
+  right: 15%;
+}
 
 .penguin-body {
   width: 53%;
