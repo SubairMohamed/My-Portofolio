@@ -136,6 +136,9 @@ body {
 .shirt {
   font: bold 25px Helvetica, sans-serif;
 }
+.shirt div {
+  font-weight: normal;
+}
 
 .penguin * {
   position: absolute;
