@@ -134,9 +134,7 @@ body {
 }
 
 .shirt {
-  font-size: 25px;
-  font-family: Helvetica, sans-serif;
-  font-weight: bold;
+  font: bold 25px Helvetica, sans-serif;
 }
 
 .penguin * {
