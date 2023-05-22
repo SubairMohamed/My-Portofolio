@@ -107,6 +107,12 @@ body {
   background-color: orange;
   border-radius: 50%;
 }
+.beak.top {
+  width: 20%;
+  position: absolute;
+  top: 60%;
+  left: 40%;
+}
 
 .penguin-body {
   width: 53%;
