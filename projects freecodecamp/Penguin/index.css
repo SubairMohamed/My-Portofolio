@@ -94,6 +94,10 @@ body {
   top: 65%;
   border-radius: 50%;
 }
+.blush.left {
+  position: absolute;
+  left: 15%;
+}
 
 .penguin-body {
   width: 53%;
