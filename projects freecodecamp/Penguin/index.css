@@ -156,6 +156,11 @@ body {
   height: 60%;
   background: linear-gradient(90deg, var(--penguin-skin), rgb(209, 210, 199));
 }
+.arm.left {
+  position: absolute;
+  top: 35%;
+  left: 5%;
+}
 
 .shirt {
   font: bold 25px Helvetica, sans-serif;
