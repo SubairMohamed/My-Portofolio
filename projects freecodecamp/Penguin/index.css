@@ -132,6 +132,9 @@ body {
   top: 40%;
   left: 23.5%;
 }
+.foot {
+  width: 15%;
+}
 
 .shirt {
   font: bold 25px Helvetica, sans-serif;
