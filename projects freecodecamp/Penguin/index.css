@@ -153,6 +153,7 @@ body {
 .arm {
   width: 30%;
   height: 60%;
+  background: linear-gradient(90deg, gray, rgb(209, 210, 199));
 }
 
 .shirt {
