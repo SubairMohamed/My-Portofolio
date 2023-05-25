@@ -135,6 +135,10 @@ body {
 
 .shirt {
   font: bold 25px Helvetica, sans-serif;
+  position: absolute;
+  top: 165px;
+  left: 127.5px;
+  z-index: 1;
 }
 .shirt div {
   font-weight: initial;
