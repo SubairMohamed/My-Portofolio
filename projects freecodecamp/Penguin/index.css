@@ -245,5 +245,6 @@ body {
   }
 
   40% {
+    transform: rotate(130deg) scaleX(-1);
   }
 }
