@@ -163,9 +163,9 @@ body {
   transform: rotate(130deg) scaleX(-1);
 }
 .arm.right {
-  position: absolute;
   top: 0%;
   right: -5%;
+  transform: rotate(-45deg);
 }
 
 .shirt {
