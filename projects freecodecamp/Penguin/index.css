@@ -140,6 +140,7 @@ body {
   position: absolute;
   top: 85%;
   border-radius: 50%;
+  z-index: -1;
 }
 
 .shirt {
