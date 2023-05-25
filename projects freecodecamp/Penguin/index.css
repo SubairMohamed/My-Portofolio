@@ -150,6 +150,9 @@ body {
   right: 25%;
   transform: rotate(-80deg);
 }
+.arm {
+  width: 30%;
+}
 
 .shirt {
   font: bold 25px Helvetica, sans-serif;
