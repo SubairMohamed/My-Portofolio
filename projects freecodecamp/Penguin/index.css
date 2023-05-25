@@ -233,6 +233,7 @@ body {
 
 @keyframes wave {
   10% {
+    transform: rotate(110deg) scaleX(-1);
   }
 
   20% {
