@@ -148,6 +148,7 @@ body {
 }
 .foot.right {
   right: 25%;
+  transform: rotate(-80deg);
 }
 
 .shirt {
