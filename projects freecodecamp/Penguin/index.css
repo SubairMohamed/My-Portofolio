@@ -142,6 +142,9 @@ body {
   border-radius: 50%;
   z-index: -1;
 }
+.foot.left {
+  left: 25%;
+}
 
 .shirt {
   font: bold 25px Helvetica, sans-serif;
