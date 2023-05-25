@@ -155,6 +155,7 @@ body {
   width: 30%;
   height: 60%;
   background: linear-gradient(90deg, var(--penguin-skin), rgb(209, 210, 199));
+  border-radius: 30% 30% 30% 120%;
 }
 .arm.left {
   top: 35%;
