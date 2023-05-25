@@ -159,7 +159,8 @@ body {
 .arm.left {
   top: 35%;
   left: 5%;
-  transform-origin: 0% 0%;
+  transform-origin: top left;
+  transform: rotate(130deg) scaleX(-1);
 }
 .arm.right {
   position: absolute;
