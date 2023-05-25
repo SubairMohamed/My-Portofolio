@@ -161,6 +161,11 @@ body {
   top: 35%;
   left: 5%;
 }
+.arm.right {
+  position: absolute;
+  top: 0%;
+  right: -5%;
+}
 
 .shirt {
   font: bold 25px Helvetica, sans-serif;
