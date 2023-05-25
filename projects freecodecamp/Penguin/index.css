@@ -144,6 +144,7 @@ body {
 }
 .foot.left {
   left: 25%;
+  transform: rotate(80deg);
 }
 
 .shirt {
