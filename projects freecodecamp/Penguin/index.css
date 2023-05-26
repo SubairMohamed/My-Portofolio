@@ -235,6 +235,9 @@ body {
   right: -75px;
 }
 
+.penguin:active {
+}
+
 @keyframes wave {
   10% {
     transform: rotate(110deg) scaleX(-1);
