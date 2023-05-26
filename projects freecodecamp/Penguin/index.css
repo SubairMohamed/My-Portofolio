@@ -163,6 +163,7 @@ body {
   left: 5%;
   transform-origin: top left;
   transform: rotate(130deg) scaleX(-1);
+  animation-name: wave;
 }
 .arm.right {
   top: 0%;
