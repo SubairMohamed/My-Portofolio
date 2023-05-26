@@ -30,6 +30,7 @@ body {
   position: relative;
   z-index: 4;
   transition-duration: 1s;
+  transition-timing-function: ease-in-out;
 }
 
 .penguin-head {
