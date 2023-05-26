@@ -164,6 +164,7 @@ body {
   transform-origin: top left;
   transform: rotate(130deg) scaleX(-1);
   animation-name: wave;
+  animation-duration: 3s;
 }
 .arm.right {
   top: 0%;
