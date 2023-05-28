@@ -1,0 +1,25 @@
+.container {
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  width: 200px;
+  height: 150px;
+}
+
+.one {
+  background-color: aquamarine;
+}
+
+.two {
+  background-color: aqua;
+}
+
+.three {
+  background-color: bisque;
+}
+
+.four {
+  background-color: cadetblue;
+}
