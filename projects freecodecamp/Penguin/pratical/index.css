@@ -43,3 +43,8 @@ body {
   z-index: -1;
   transform: rotate(45deg);
 }
+
+.sun {
+  width: 200px;
+  height: 200px;
+}
