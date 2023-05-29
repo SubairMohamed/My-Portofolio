@@ -25,6 +25,6 @@ body {
   height: 300px;
   background: linear-gradient(rgb(203, 241, 228), rgb(80, 183, 255));
   margin-top: 100px;
-  /* position: absolute; */
+  position: absolute;
   transform: skew(0deg, 44deg);
 }
