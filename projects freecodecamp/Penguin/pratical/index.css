@@ -13,6 +13,7 @@ body {
   height: 400px;
   position: absolute;
   margin-top: -58px;
+  z-index: 3;
 }
 
 .penguin {
