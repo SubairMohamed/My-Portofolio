@@ -28,3 +28,8 @@ body {
   position: absolute;
   transform: skew(0deg, 44deg);
 }
+
+.back-mountain {
+  width: 300px;
+  height: 300px;
+}
