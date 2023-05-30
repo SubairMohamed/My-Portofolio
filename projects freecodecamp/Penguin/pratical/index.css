@@ -107,9 +107,15 @@ body {
 }
 .beak {
   width: 10%;
+  height: 10%;
   background-color: var(--penguin-picorna);
+  border-radius: 50%;
 }
 .beak.top {
+  width: 20%;
+  position: absolute;
+  top: 60%;
+  left: 40%;
 }
 
 /* end head penguin */
