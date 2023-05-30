@@ -85,6 +85,8 @@ body {
   background-color: blue;
   position: absolute;
   top: 25%;
+  left: -23%;
+  border-radius: 50%;
 }
 
 .left-mountain {
