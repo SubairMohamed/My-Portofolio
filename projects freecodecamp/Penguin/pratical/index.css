@@ -94,6 +94,8 @@ body {
   height: 10%;
   background-color: var(--penguin-blush);
   border-radius: 50%;
+  position: absolute;
+  top: 65%;
 }
 
 .left-mountain {
