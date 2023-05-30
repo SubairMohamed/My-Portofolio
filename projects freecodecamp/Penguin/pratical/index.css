@@ -92,7 +92,8 @@ body {
 .blush {
   width: 15%;
   height: 10%;
-  background-color: var(--);
+  background-color: var(--penguin-blush);
+  border-radius: 50%;
 }
 
 .left-mountain {
