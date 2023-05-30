@@ -37,6 +37,10 @@ body {
   top: 10%;
   left: 25%;
 }
+.face {
+  width: 60%;
+  height: 70%;
+}
 
 .left-mountain {
   width: 300px;
