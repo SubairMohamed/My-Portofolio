@@ -28,6 +28,10 @@ body {
   margin: auto;
   margin-top: 75px;
 }
+.penguin-head {
+  width: 50%;
+  height: 45%;
+}
 
 .left-mountain {
   width: 300px;
