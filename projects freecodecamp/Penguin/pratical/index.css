@@ -46,6 +46,10 @@ body {
 }
 .face.left {
   position: absolute;
+  left: 5%;
+}
+.face.right {
+  position: absolute;
 }
 
 .left-mountain {
