@@ -34,8 +34,10 @@ body {
   height: 45%;
   background: linear-gradient(45deg, var(--penguin-skin), rgb(239, 240, 228));
   border-radius: 70% 70% 65% 65%;
+  position: absolute;
   top: 10%;
   left: 25%;
+  z-index: 1;
 }
 .face {
   width: 60%;
@@ -50,6 +52,7 @@ body {
 }
 .face.right {
   position: absolute;
+  right: 5%;
 }
 
 .left-mountain {
