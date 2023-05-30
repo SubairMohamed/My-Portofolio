@@ -44,6 +44,9 @@ body {
   border-radius: 70% 70% 60% 60%;
   top: 15%;
 }
+.face.left {
+  position: absolute;
+}
 
 .left-mountain {
   width: 300px;
