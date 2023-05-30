@@ -67,6 +67,8 @@ body {
   width: 15%;
   height: 17%;
   background-color: white;
+  position: absolute;
+  top: 25%;
 }
 
 .left-mountain {
