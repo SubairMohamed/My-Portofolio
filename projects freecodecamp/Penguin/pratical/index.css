@@ -54,6 +54,11 @@ body {
   position: absolute;
   right: 5%;
 }
+.chin {
+  width: 90%;
+  height: 70%;
+  background-color: brown;
+}
 
 .left-mountain {
   width: 300px;
