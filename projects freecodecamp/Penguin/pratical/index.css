@@ -97,6 +97,14 @@ body {
   position: absolute;
   top: 65%;
 }
+.blush.left {
+  position: absolute;
+  left: 15%;
+}
+.blush.right {
+  position: absolute;
+  right: 15%;
+}
 
 .left-mountain {
   width: 300px;
