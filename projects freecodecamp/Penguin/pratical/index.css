@@ -117,6 +117,12 @@ body {
   top: 60%;
   left: 40%;
 }
+.beak.bottom {
+  width: 16%;
+  position: absolute;
+  top: 65%;
+  left: 42%;
+}
 
 /* end head penguin */
 .left-mountain {
