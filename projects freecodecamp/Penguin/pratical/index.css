@@ -79,6 +79,10 @@ body {
   position: absolute;
   right: 25%;
 }
+.eye-lid {
+  width: 150%;
+  height: 100%;
+}
 
 .left-mountain {
   width: 300px;
