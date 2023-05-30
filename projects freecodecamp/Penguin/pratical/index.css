@@ -58,6 +58,7 @@ body {
   width: 90%;
   height: 70%;
   background-color: brown;
+  border-radius: 70% 70% 100% 100%;
 }
 
 .left-mountain {
