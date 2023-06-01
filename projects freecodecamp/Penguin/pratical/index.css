@@ -140,6 +140,10 @@ body {
   left: 23.5%;
   z-index: -1;
 }
+.foot {
+  width: 15%;
+  height: 30%;
+}
 
 /* end head penguin */
 .left-mountain {
