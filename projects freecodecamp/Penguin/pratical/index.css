@@ -131,8 +131,8 @@ body {
   height: 45%;
   background: linear-gradient(
     45deg,
-    rgb(134, 133, 133),
-    rgb(234, 231, 231)
+    rgb(134, 133, 133) 0%,
+    rgb(234, 231, 231) 25%, white 67%
   );
 }
 
