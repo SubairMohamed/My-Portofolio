@@ -129,6 +129,11 @@ body {
 .penguin-body {
   width: 53%;
   height: 45%;
+  background: linear-gradient(
+    45deg,
+    rgb(134, 133, 133),
+    rgb(234, 231, 231)
+  );
 }
 
 /* end head penguin */
