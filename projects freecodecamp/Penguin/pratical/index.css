@@ -154,6 +154,7 @@ body {
 .foot.left {
   position: absolute;
   left: 25%;
+  transform: rotate(80deg);
 }
 .foot.right {
   position: absolute;
