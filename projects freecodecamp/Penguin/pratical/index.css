@@ -29,6 +29,7 @@ body {
   margin: auto;
   margin-top: 75px;
   position: relative;
+  z-index: 4;
 }
 
 /* start head penguin */
