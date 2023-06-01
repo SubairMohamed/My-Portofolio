@@ -155,6 +155,10 @@ body {
   position: absolute;
   left: 25%;
 }
+.foot.right {
+  position: absolute;
+  right: 25%;
+}
 /* end head penguin */
 .left-mountain {
   width: 300px;
