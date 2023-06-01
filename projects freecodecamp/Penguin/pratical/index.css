@@ -147,6 +147,7 @@ body {
   position: absolute;
   top: 85%;
   left: 50%;
+  z-index: -1;
 }
 
 /* end head penguin */
