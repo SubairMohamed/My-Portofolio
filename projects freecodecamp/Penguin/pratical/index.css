@@ -155,10 +155,13 @@ body {
   position: absolute;
   left: 25%;
   transform: rotate(80deg);
+  z-index: -1;
 }
 .foot.right {
   position: absolute;
   right: 25%;
+  transform: rotate(-80deg);
+  z-index: -1;
 }
 /* end head penguin */
 .left-mountain {
