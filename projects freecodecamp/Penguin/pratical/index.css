@@ -144,6 +144,9 @@ body {
   width: 15%;
   height: 30%;
   background-color: var(--penguin-picorna);
+  position: absolute;
+  top: 85%;
+  left: 50%;
 }
 
 /* end head penguin */
