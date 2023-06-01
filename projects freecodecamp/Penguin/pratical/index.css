@@ -126,6 +126,11 @@ body {
   left: 42%;
 }
 
+.penguin-body {
+  width: 53%;
+  height: 45%;
+}
+
 /* end head penguin */
 .left-mountain {
   width: 300px;
