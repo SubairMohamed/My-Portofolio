@@ -145,12 +145,16 @@ body {
   width: 15%;
   height: 30%;
   background-color: var(--penguin-picorna);
+  border-radius: 50%;
   position: absolute;
   top: 85%;
   left: 50%;
   z-index: -1;
 }
-
+.foot.left {
+  position: absolute;
+  left: 25%;
+}
 /* end head penguin */
 .left-mountain {
   width: 300px;
