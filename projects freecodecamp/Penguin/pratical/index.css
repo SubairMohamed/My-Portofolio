@@ -139,7 +139,6 @@ body {
   position: absolute;
   top: 40%;
   left: 23.5%;
-  z-index: -1;
 }
 .foot {
   width: 15%;
@@ -148,20 +147,17 @@ body {
   border-radius: 50%;
   position: absolute;
   top: 85%;
-  left: 50%;
   z-index: -1;
 }
 .foot.left {
   position: absolute;
   left: 25%;
   transform: rotate(80deg);
-  z-index: -1;
 }
 .foot.right {
   position: absolute;
   right: 25%;
   transform: rotate(-80deg);
-  z-index: -1;
 }
 /* end head penguin */
 .left-mountain {
