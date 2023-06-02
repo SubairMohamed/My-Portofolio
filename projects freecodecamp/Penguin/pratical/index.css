@@ -170,6 +170,7 @@ body {
   position: absolute;
   top: 35%;
   left: 5%;
+  transform: rotate(130deg);
 }
 .arm.right {
   position: absolute;
