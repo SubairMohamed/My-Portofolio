@@ -165,7 +165,11 @@ body {
   height: 60%;
   background: linear-gradient(45deg, var(--penguin-skin), rgb(209, 210, 199));
 }
-
+.arm.left {
+  position: absolute;
+  top: 35%;
+  left: 5%;
+}
 /* end head penguin */
 .left-mountain {
   width: 300px;
