@@ -170,6 +170,11 @@ body {
   top: 35%;
   left: 5%;
 }
+.arm.right {
+  position: absolute;
+  top: 30%;
+  right: -5%;
+}
 /* end head penguin */
 .left-mountain {
   width: 300px;
