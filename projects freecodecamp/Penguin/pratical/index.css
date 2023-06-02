@@ -170,12 +170,13 @@ body {
   position: absolute;
   top: 35%;
   left: 5%;
-  transform: rotate(130deg);
+  transform: rotate(130deg) scaleX(-1);
 }
 .arm.right {
   position: absolute;
   top: 0%;
   right: -5%;
+  transform: rotate(-45deg);
 }
 /* end head penguin */
 .left-mountain {
