@@ -133,7 +133,8 @@ body {
   background: linear-gradient(
     45deg,
     rgb(134, 133, 133) 0%,
-    rgb(234, 231, 231) 25%, white 67%
+    rgb(234, 231, 231) 25%,
+    white 67%
   );
   border-radius: 80% 80% 100% 100%;
   position: absolute;
@@ -159,6 +160,11 @@ body {
   right: 25%;
   transform: rotate(-80deg);
 }
+.arm {
+  width: 30%;
+  height: 60%;
+}
+
 /* end head penguin */
 .left-mountain {
   width: 300px;
