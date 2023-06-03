@@ -183,6 +183,7 @@ body {
 
 .shirt {
   font: bold 25px Helvetica, sans-serif;
+  color: var(--penguin-skin);
 }
 
 /* end head penguin */
