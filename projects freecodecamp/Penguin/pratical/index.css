@@ -180,6 +180,11 @@ body {
   right: -5%;
   transform: rotate(-45deg);
 }
+
+.shirt {
+  font: bold 25px Helvetica, sans-serif;
+}
+
 /* end head penguin */
 .left-mountain {
   width: 300px;
