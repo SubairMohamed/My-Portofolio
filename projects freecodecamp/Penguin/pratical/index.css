@@ -184,10 +184,11 @@ body {
 .shirt {
   font: bold 25px Helvetica, sans-serif;
   color: var(--penguin-skin);
+  position: absolute;
 }
 .shirt div {
   position: absolute;
-  top: -2px;
+  top: 22.5px;
   left: 12px;
 }
 
