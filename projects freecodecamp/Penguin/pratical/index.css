@@ -200,7 +200,7 @@ body {
   width: 50%;
   height: 45%;
   background-color: var(--penguin-skin);
-  z-index: 1;
+  position: absolute;
 }
 /* end head penguin */
 .left-mountain {
