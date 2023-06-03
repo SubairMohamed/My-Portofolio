@@ -181,6 +181,9 @@ body {
   transform: rotate(-45deg);
 }
 
+.shirt {
+  font: bold 25px Helvetica, sans-serif;
+}
 .shirt div {
   position: absolute;
   top: -2px;
