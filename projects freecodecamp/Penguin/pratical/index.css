@@ -201,6 +201,10 @@ body {
   height: 45%;
   background-color: var(--penguin-skin);
   position: absolute;
+  top: 10%;
+  left: 25%;
+  border-radius: 0% 0% 100% 100%;
+  opacity: 70%;
 }
 /* end head penguin */
 .left-mountain {
