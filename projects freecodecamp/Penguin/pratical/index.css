@@ -185,6 +185,9 @@ body {
   font: bold 25px Helvetica, sans-serif;
   color: var(--penguin-skin);
   position: absolute;
+  top: 165px;
+  left: 127.5px;
+  z-index: 1;
 }
 .shirt div {
   position: absolute;
