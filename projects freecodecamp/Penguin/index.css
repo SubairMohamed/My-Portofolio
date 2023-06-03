@@ -195,7 +195,7 @@ body {
   position: absolute;
 }
 
-.penguin-body::before {
+.penguin-body::after {
   content: "";
   position: absolute;
   width: 50%;
