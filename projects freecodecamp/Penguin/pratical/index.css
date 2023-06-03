@@ -192,6 +192,8 @@ body {
 .shirt div {
   position: absolute;
   top: 22.5px;
+  left: 12px;
+  font-weight: initial;
 }
 
 /* end head penguin */
