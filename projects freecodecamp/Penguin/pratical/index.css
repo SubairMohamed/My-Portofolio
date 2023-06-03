@@ -195,11 +195,12 @@ body {
   left: 12px;
 }
 
-.shirt::before {
+.penguin-body::before {
   content: "";
   width: 50%;
   height: 45%;
   background-color: var(--penguin-skin);
+  z-index: 1;
 }
 /* end head penguin */
 .left-mountain {
