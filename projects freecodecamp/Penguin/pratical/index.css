@@ -175,6 +175,7 @@ body {
   transform-origin: top left;
   animation-name: wave;
   animation-duration: 3s;
+  animation-timing-function: linear;
 }
 .arm.right {
   position: absolute;
