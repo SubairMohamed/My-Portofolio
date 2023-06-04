@@ -176,6 +176,7 @@ body {
   animation-name: wave;
   animation-duration: 3s;
   animation-timing-function: linear;
+  animation-iteration-count: infinite;
 }
 .arm.right {
   position: absolute;
