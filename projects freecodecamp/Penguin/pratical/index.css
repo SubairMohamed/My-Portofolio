@@ -239,3 +239,9 @@ body {
   top: -75px;
   right: -75px;
 }
+
+@keyframes wave {
+  10% {
+    transform: rotate(110deg);
+  }
+}
