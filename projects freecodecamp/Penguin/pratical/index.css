@@ -173,6 +173,8 @@ body {
   left: 5%;
   transform: rotate(130deg) scaleX(-1);
   transform-origin: top left;
+  animation-name: wave;
+  animation-duration: 3s;
 }
 .arm.right {
   position: absolute;
