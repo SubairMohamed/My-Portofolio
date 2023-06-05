@@ -124,6 +124,10 @@ code {
   #Introduction {
     margin-top: 280px;
   }
+
+  .nav-head {
+    text-align: center;
+  }
 }
 
 @media only screen and (min-width: 1400px) {
