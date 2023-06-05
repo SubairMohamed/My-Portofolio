@@ -59,10 +59,11 @@ body {
 }
 
 h2 {
-  color: black;
+  color: blue;
   font-weight: 500;
   font-size: 1.7rem;
   padding-bottom: 15px;
+  margin-top: 300px;
 }
 
 section {
@@ -125,13 +126,13 @@ code {
     float: top;
   }
 
-  #Introduction {
+  /* #Introduction {
     padding-top: 22%;
-  }
+  } */
 }
 
 @media only screen and (max-width: 1085px) {
-  #Introduction {
+  /* #Introduction {
     padding-top: 26%;
-  }
+  } */
 }
