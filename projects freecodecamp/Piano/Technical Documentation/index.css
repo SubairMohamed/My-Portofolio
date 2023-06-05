@@ -31,8 +31,6 @@ body {
   position: sticky;
   top: 0;
   left: 0;
-  /* display: flex; */
-  /* flex-direction: column; */
   overflow-y: scroll;
 }
 
@@ -121,7 +119,6 @@ code {
     top: 0;
     overflow-x: scroll;
     float: top;
-    text-align: center;
   }
 
   #Introduction {
