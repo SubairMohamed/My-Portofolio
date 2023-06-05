@@ -128,14 +128,10 @@ code {
     overflow-x: scroll;
     float: top;
   }
-
-  /* #Introduction {
-    padding-top: 22%;
-  } */
 }
 
-@media only screen and (max-width: 1085px) {
-  /* #Introduction {
-    padding-top: 26%;
-  } */
+@media only screen and (max-width: 1400px) {
+  #Introduction {
+    margin-top: 10px;
+  }
 }
