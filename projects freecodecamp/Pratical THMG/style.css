@@ -4,4 +4,21 @@
 }
 
 .grid-item-1 {
+  background-color: brown;
+}
+
+.grid-item-2 {
+  background-color: chocolate;
+}
+
+.grid-item-3 {
+  background-color: azure;
+}
+
+.grid-item-4 {
+  background-color: lightgreen;
+}
+
+.grid-item-5 {
+  background-color: silver;
 }
