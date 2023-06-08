@@ -203,6 +203,7 @@ body {
   top: 22.5px;
   left: 12px;
 }
+/* end penguin body */
 
 .penguin-body::before {
   content: "";
