@@ -63,7 +63,6 @@ input[type="email"] {
 }
 
 input[type="submit"] {
-  width: 12%;
   height: 2em;
   margin-top: 1.5rem;
   background-color: gold;
