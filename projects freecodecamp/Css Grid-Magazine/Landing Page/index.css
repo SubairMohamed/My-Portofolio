@@ -92,6 +92,10 @@ h2 {
   font-size: 2.5rem;
 }
 
+.description p {
+  margin-top: -8px;
+}
+
 #Features {
   width: 70%;
   max-width: 70%;
