@@ -206,4 +206,8 @@ footer p {
   footer {
     width: 100%;
   }
+
+  footer p {
+    padding-right: 4rem;
+  }
 }
