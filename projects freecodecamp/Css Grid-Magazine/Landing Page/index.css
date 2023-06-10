@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
 }
 
 html {
@@ -198,5 +199,11 @@ footer p {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  footer {
+    width: 100%;
   }
 }
