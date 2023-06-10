@@ -191,3 +191,12 @@ footer p {
   text-decoration: none;
   color: black;
 }
+
+@media only screen and (max-width: 990px) {
+  .card-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
