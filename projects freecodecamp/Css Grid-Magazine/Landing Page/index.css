@@ -188,7 +188,7 @@ footer p {
 }
 
 .footer-list a {
-  font-size: 2rem;
+  font-size: 1.75rem;
   text-decoration: none;
   color: black;
 }
@@ -209,5 +209,10 @@ footer p {
 
   footer p {
     padding-right: 4rem;
+  }
+
+  footer a {
+    margin-right: 2rem;
+    padding-right: 1rem;
   }
 }
