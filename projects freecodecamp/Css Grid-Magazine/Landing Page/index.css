@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
 }
 
 html {
@@ -208,11 +207,10 @@ footer p {
   }
 
   footer p {
-    padding-right: 4rem;
+    padding-right: 3rem;
   }
 
   footer a {
-    margin-right: 2rem;
-    padding-right: 1rem;
+    margin-right: 3rem;
   }
 }
