@@ -128,9 +128,9 @@ h2 {
   margin-top: 8rem;
   text-align: center;
   display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 4rem;
+  /* justify-content: center; */
+  /* align-items: center; */
+  gap: 2rem;
   margin-bottom: 10rem;
 }
 
