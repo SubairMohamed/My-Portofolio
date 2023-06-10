@@ -176,6 +176,7 @@ footer {
   background-color: gainsboro;
   padding: 2rem;
   width: 73%;
+  max-width: 920px;
   margin: auto;
   text-align: right;
 }
