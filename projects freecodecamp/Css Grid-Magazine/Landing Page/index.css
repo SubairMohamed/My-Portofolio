@@ -215,4 +215,9 @@ footer p {
   footer a {
     margin-right: 3rem;
   }
+
+  .fas {
+    visibility: hidden;
+    overflow: hidden;
+  }
 }
