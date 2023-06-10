@@ -128,8 +128,8 @@ h2 {
   margin-top: 8rem;
   text-align: center;
   display: flex;
-  /* justify-content: center; */
-  /* align-items: center; */
+  flex-direction: row;
+  justify-content: center;
   gap: 2rem;
   margin-bottom: 10rem;
 }
