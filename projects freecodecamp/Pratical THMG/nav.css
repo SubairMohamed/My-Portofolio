@@ -28,3 +28,7 @@ header {
 .nav_link {
   list-style: none;
 }
+
+.nav_link li {
+  display: inline-block;
+}
