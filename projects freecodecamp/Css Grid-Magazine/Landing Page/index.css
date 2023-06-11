@@ -34,8 +34,10 @@ header {
   object-fit: fill;
 }
 
-.nav-list {
+.nav-list li {
   font-size: 1.7rem;
+  display: inline-block;
+  padding: 30px 10px;
 }
 
 /* .nav-image {
