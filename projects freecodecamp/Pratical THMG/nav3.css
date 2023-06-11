@@ -23,7 +23,8 @@ header {
 
 .logo {
   cursor: pointer;
-  margin-right: auto;
+  order: 3;
+  margin-left: auto;
 }
 
 .nav_link {
