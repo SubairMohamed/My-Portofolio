@@ -181,16 +181,19 @@ footer {
   max-width: 920px;
   margin: auto;
   text-align: right;
+  opacity: 0.8;
 }
 
 footer p {
   font-size: 1.5rem;
   padding-top: 0.5rem;
-  font-weight: lighter;
+  font-weight: bolder;
+  color: whitesmoke;
 }
 
 .footer-list a {
   font-size: 1.75rem;
+  font-weight: bolder;
   text-decoration: none;
   color: whitesmoke;
 }
