@@ -11,18 +11,6 @@ body {
   background-color: whitesmoke;
 }
 
-/* #nav-bar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  font-size: 1.7rem;
-  background-color: whitesmoke;
-  padding: 2rem;
-  position: fixed;
-  right: 0;
-  left: 0;
-} */
-
 header {
   display: flex;
   justify-content: space-around;
