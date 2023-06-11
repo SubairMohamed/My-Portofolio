@@ -11,6 +11,7 @@ body {
   background-color: whitesmoke;
 }
 
+/* start header */
 header {
   display: flex;
   justify-content: space-around;
@@ -39,7 +40,7 @@ header {
   list-style: none;
 }
 
-/* end navbar */
+/* end header */
 
 article {
   padding-top: 10rem;
