@@ -23,6 +23,21 @@ body {
   left: 0;
 } */
 
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  width: 22%;
+  object-fit: fill;
+}
+
+.nav-list {
+  font-size: 1.7rem;
+}
+
 /* .nav-image {
   width: 22%;
   object-fit: fill;
@@ -31,19 +46,19 @@ body {
 
 .nav-list a {
   text-decoration: none;
-  color: black;
+  color: goldenrod;
 }
 
 .nav-list li {
   list-style: none;
 }
 
-.nav-list {
+/* .nav-list {
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 8rem;
-}
+} */
 /* end navbar */
 
 article {
