@@ -30,14 +30,16 @@ header {
 }
 
 .logo {
-  width: 22%;
+  width: 24%;
   object-fit: fill;
+  margin-right: auto;
+  margin-left: 10px;
 }
 
 .nav-list li {
   font-size: 1.7rem;
   display: inline-block;
-  padding: 30px 10px;
+  padding: 30px 20px;
 }
 
 /* .nav-image {
