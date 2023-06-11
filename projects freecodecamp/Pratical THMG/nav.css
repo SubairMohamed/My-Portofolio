@@ -24,3 +24,7 @@ header {
 .logo {
   cursor: pointer;
 }
+
+.nav_link {
+  list-style: none;
+}
