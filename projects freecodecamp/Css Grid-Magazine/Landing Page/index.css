@@ -11,7 +11,7 @@ body {
   background-color: whitesmoke;
 }
 
-#nav-bar {
+/* #nav-bar {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -21,13 +21,13 @@ body {
   position: fixed;
   right: 0;
   left: 0;
-}
+} */
 
-.nav-image {
+/* .nav-image {
   width: 22%;
   object-fit: fill;
   background-color: whitesmoke;
-}
+} */
 
 .nav-list a {
   text-decoration: none;
