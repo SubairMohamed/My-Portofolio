@@ -27,6 +27,14 @@ header {
   margin-left: auto;
 }
 
+nav {
+  order: 1;
+}
+
+.cta {
+  order: 2;
+}
+
 .nav_link {
   list-style: none;
 }
