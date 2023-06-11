@@ -47,17 +47,14 @@ body {
 /* end navbar */
 
 article {
-  padding-top: 14rem;
-}
-/* #heading {
+  padding-top: 10rem;
   text-align: center;
-  padding-top: 8rem;
 }
 
 .heading-title {
-  font-size: 3rem;
+  font-size: 2.5rem;
   padding-bottom: 1.5rem;
-} */
+}
 
 input[type="email"] {
   width: 22%;
