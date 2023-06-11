@@ -46,7 +46,10 @@ body {
 }
 /* end navbar */
 
-#heading {
+article {
+  padding-top: 14rem;
+}
+/* #heading {
   text-align: center;
   padding-top: 8rem;
 }
@@ -54,7 +57,7 @@ body {
 .heading-title {
   font-size: 3rem;
   padding-bottom: 1.5rem;
-}
+} */
 
 input[type="email"] {
   width: 22%;
