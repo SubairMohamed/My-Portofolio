@@ -37,6 +37,7 @@ header {
 
 button {
   padding: 9px 25px;
+  margin-left: 25px;
   background-color: black;
   border: none;
   border-radius: 50px;
