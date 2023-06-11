@@ -175,7 +175,7 @@ button:hover {
 }
 
 footer {
-  background-color: gainsboro;
+  background-color: gold;
   padding: 2rem;
   width: 73%;
   max-width: 920px;
@@ -192,7 +192,7 @@ footer p {
 .footer-list a {
   font-size: 1.75rem;
   text-decoration: none;
-  color: black;
+  color: whitesmoke;
 }
 
 @media only screen and (max-width: 990px) {
