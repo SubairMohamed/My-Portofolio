@@ -220,9 +220,25 @@ footer p {
   footer a {
     margin-right: 3rem;
   }
+}
+
+@media only screen and (max-width: 550px) {
+  #Features,
+  .feature,
+  .fas {
+    display: block;
+  }
 
   .fas {
     visibility: hidden;
-    overflow: hidden;
+  }
+
+  .description p {
+    text-align: left;
+    display: block;
+  }
+
+  .description h2 {
+    text-align: center;
   }
 }
