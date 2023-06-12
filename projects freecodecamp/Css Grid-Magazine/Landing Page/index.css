@@ -188,14 +188,14 @@ footer p {
   font-size: 1.5rem;
   padding-top: 0.5rem;
   font-weight: bolder;
-  color: whitesmoke;
+  color: black;
 }
 
 .footer-list a {
   font-size: 1.75rem;
   font-weight: bolder;
   text-decoration: none;
-  color: whitesmoke;
+  color: black;
 }
 
 @media only screen and (max-width: 990px) {
