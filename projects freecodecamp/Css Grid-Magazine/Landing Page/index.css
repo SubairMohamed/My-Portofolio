@@ -223,10 +223,10 @@ footer p {
 }
 
 @media only screen and (max-width: 550px) {
-  #Features,
   .feature,
-  .fas {
+  .fas .description {
     display: block;
+    margin-top: -10rem;
   }
 
   .fas {
@@ -235,7 +235,7 @@ footer p {
 
   .description p {
     text-align: left;
-    display: block;
+    display: inline-block;
   }
 
   .description h2 {
