@@ -14,8 +14,10 @@
   /* grid-auto-rows: 100px; */
   /* justify-items: center; */
   /* align-items: center; */
-  justify-content: center;
-  align-content: center;
+  /* justify-content: center;
+  align-content: center; */
+  grid-row-gap: 20px;
+  grid-column-gap: 30px;
 }
 
 .grid-item {
