@@ -14,7 +14,8 @@
   /* grid-auto-rows: 100px; */
   /* justify-items: center; */
   /* align-items: center; */
-  /* justify-content: space-evenly; */
+  justify-content: center;
+  align-content: center;
 }
 
 .grid-item {
