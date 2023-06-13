@@ -8,6 +8,8 @@
   height: 100vh;
   padding: 10px;
   margin: 10px;
+  display: grid;
+  grid-template-columns: 200px 200px 400px 400px 100px;
 }
 
 .grid-item {
