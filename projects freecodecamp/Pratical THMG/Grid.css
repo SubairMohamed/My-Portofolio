@@ -9,7 +9,7 @@
   padding: 10px;
   margin: 10px;
   display: grid;
-  grid-template-columns: repeat(6, 300px);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .grid-item {
