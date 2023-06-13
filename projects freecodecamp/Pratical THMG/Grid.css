@@ -16,8 +16,9 @@
   /* align-items: center; */
   /* justify-content: center;
   align-content: center; */
-  grid-row-gap: 20px;
-  grid-column-gap: 30px;
+  /* grid-row-gap: 20px;
+  grid-column-gap: 30px; */
+  grid-gap: 20px;
 }
 
 .grid-item {
