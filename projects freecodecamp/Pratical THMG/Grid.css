@@ -3,3 +3,16 @@
   margin: 0;
   padding: 0;
 }
+
+.grid-container {
+  height: 100vh;
+  padding: 10px;
+  margin: 10px;
+}
+
+.grid-item {
+  background-color: coral;
+  border: 2px solid;
+  padding: 20px;
+  color: bisque;
+}
