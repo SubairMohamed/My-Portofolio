@@ -40,6 +40,6 @@
 }
 
 .item-3 {
-  grid-row: 2 / span 3;
+  grid-row: 2 / 4;
   grid-column: 1 / 3;
 }
