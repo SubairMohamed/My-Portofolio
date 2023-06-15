@@ -9,6 +9,7 @@
   padding: 10px;
   margin: 10px;
   display: grid;
+  grid-template-areas: ;
   /* grid-template-columns: repeat(3, 150px);
   grid-template-rows: repeat(4, 150px); */
   /* grid-auto-rows: 100px; */
@@ -32,6 +33,7 @@
   /* grid-column-start: 1;
   grid-column-end: 3; */
   /* grid-column: 1 / 3; */
+  grid-area: header;
 }
 
 .item-2 {
@@ -44,6 +46,7 @@
   /* justify-self: normal;
   align-self: normal;
   place-self: center center; */
+  grid-area: nav;
 }
 
 .item-3 {
