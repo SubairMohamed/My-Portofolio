@@ -41,6 +41,8 @@
   /* grid-column-start: 3;
   grid-column-end: 4; */
   /* grid-column: 3 / span 1; */
+  justify-self: normal;
+  align-self: normal;
 }
 
 .item-3 {
