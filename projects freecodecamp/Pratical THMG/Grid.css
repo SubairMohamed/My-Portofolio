@@ -13,6 +13,7 @@
     "header header header"
     "nav ads main"
     "footer footer footer";
+  grid-template-rows: 60px;
   /* grid-template-columns: repeat(3, 150px);
   grid-template-rows: repeat(4, 150px); */
   /* grid-auto-rows: 100px; */
