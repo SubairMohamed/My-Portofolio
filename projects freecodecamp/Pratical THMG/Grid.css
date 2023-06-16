@@ -6,8 +6,8 @@
 
 .grid-container {
   height: 100vh;
-  padding: 10px;
-  margin: 10px;
+  /* padding: 10px;
+  margin: 10px; */
   display: grid;
   /* grid-template-areas:
     "header header header"
@@ -18,7 +18,7 @@
   grid-template:
     "header header header" 60px
     "nav main ads" 1fr
-    "article article article"
+    "article article article" 20%
     "footer footer footer" 60px
     / 20% 1fr 20%;
   /* grid-template-columns: repeat(3, 150px);
