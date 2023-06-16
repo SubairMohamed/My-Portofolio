@@ -14,7 +14,7 @@
     "nav main ads"
     "footer footer footer";
   grid-template-rows: 60px 1fr 60px;
-  grid-template-columns: 20%;
+  grid-template-columns: 20% 1fr;
   /* grid-template-columns: repeat(3, 150px);
   grid-template-rows: repeat(4, 150px); */
   /* grid-auto-rows: 100px; */
