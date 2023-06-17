@@ -1,14 +1,18 @@
 * {
   box-sizing: border-box;
-  margin: 5px;
-  padding: 5px;
 }
 .grid-container {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(4, 140px);
+  grid-gap: 4px 6px;
 }
 
 .grid-item {
   background-color: cadetblue;
   color: white;
+}
+
+.item-1 {
+  grid-column: 1 / 3;
 }
