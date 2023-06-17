@@ -6,3 +6,7 @@
 .grid-container {
   display: grid;
 }
+
+.grid-item {
+  background-color: cadetblue;
+}
