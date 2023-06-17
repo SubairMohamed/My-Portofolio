@@ -5,8 +5,10 @@
 }
 .grid-container {
   display: grid;
+  grid-template-columns: 200px 200px;
 }
 
 .grid-item {
   background-color: cadetblue;
+  color: white;
 }
