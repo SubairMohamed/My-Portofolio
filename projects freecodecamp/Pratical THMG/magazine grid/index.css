@@ -22,5 +22,10 @@ h1 {
 
 .author-name {
   font-family: Helvetica, sans-serif;
-  font-size: 2rem;
+  font-size: 1.75rem;
+}
+
+.date {
+  font-family: Helvetica, sans-serif;
+  font-size: 1.75rem;
 }
