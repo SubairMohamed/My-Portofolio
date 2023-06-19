@@ -29,3 +29,8 @@ h1 {
   font-family: Helvetica, sans-serif;
   font-size: 1.75rem;
 }
+
+.social-icons a {
+  font-size: 1.75rem;
+  color: white;
+}
