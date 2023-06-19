@@ -11,3 +11,10 @@ html {
 body {
   background: linear-gradient(90deg, #bf324e, #e30b36);
 }
+
+h1 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+}
