@@ -48,9 +48,11 @@ h1 {
 }
 
 #Image-wrapper {
-  grid-row: 2 / 3;
-  grid-column: 2 / 3;
   margin-top: -12rem;
+  display: flex;
+  flex-direction: row;
+  margin-left: 17rem;
+  gap: 2rem;
 }
 
 #Text {
