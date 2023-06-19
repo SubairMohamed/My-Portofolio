@@ -19,3 +19,8 @@ h1 {
   font-size: 3rem;
   font-weight: bold;
 }
+
+.author-name {
+  font-family: Helvetica, sans-serif;
+  font-size: 2rem;
+}
