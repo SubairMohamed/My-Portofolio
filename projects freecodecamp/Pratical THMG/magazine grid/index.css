@@ -29,8 +29,11 @@ h1 {
 .author {
   display: flex;
   flex-direction: row;
-  gap: 4rem;
+  gap: 2rem;
   color: #9795f5;
+  padding-top: 0.5rem;
+  padding-bottom: 0.75rem;
+  margin-left: 6rem;
 }
 
 .author-name {
@@ -47,7 +50,10 @@ h1 {
   font-size: 1.75rem;
   color: white;
   text-decoration: none;
-  margin-right: 0.5rem;
+  margin-right: 3rem;
+}
+.social-icons {
+  margin-left: 6rem;
 }
 
 #Heading {
