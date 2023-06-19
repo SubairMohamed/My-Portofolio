@@ -26,6 +26,13 @@ h1 {
   font-weight: bold;
 }
 
+.author {
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+  color: #9795f5;
+}
+
 .author-name {
   font-family: Helvetica, sans-serif;
   font-size: 1.75rem;
