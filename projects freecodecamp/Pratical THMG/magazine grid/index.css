@@ -33,4 +33,6 @@ h1 {
 .social-icons a {
   font-size: 1.75rem;
   color: white;
+  text-decoration: none;
+  margin-right: 0.5rem;
 }
