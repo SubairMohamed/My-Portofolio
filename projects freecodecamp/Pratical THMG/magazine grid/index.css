@@ -16,7 +16,7 @@ body {
 main {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(4, 1fr);
+  grid-template-rows: repeat(4, 150px);
 }
 
 h1 {
@@ -41,4 +41,18 @@ h1 {
   color: white;
   text-decoration: none;
   margin-right: 0.5rem;
+}
+
+#Heading {
+  grid-column: 2 / 3;
+}
+
+#Image-wrapper {
+  grid-row: 2 / 3;
+  grid-column: 2 / 3;
+}
+
+#Text {
+  grid-row: 5 / 6;
+  grid-column: 2 / 3;
 }
