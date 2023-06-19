@@ -7,3 +7,7 @@
 html {
   font-size: 62.5%;
 }
+
+body {
+  background: linear-gradient(90deg, #bf324e, #e30b36);
+}
