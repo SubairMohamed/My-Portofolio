@@ -15,8 +15,8 @@ body {
 
 main {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(4, 150px);
+  grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 86rem);
+  grid-template-rows: repeat(4, 250px);
 }
 
 h1 {
@@ -53,7 +53,7 @@ h1 {
 }
 
 #Text {
-  grid-row: 5 / 6;
+  grid-row: 4 / 5;
   grid-column: 2 / 3;
 }
 
