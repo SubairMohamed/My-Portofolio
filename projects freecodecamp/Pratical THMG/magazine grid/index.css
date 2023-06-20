@@ -65,6 +65,7 @@ h1 {
   grid-column: 2 / 3;
 }
 
+/* Section two */
 #Image-wrapper {
   margin-top: -12rem;
   display: flex;
@@ -72,6 +73,7 @@ h1 {
   margin-left: 17rem;
   gap: 2rem;
 }
+/* End Section two */
 
 #Text {
   /* grid-row: 4 / 5; */
