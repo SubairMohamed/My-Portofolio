@@ -130,5 +130,19 @@ h1 {
 
 .journalist-name {
   font-size: 2rem;
-  padding-left: 6rem;
+  padding-left: 5rem;
+  color: #9795f5;
+}
+
+.card-p::before {
+  content: " '' ";
+}
+
+.card-p::after {
+  content: " '' ";
+}
+
+.card-p {
+  font-size: 1.75rem;
+  text-align: center;
 }
