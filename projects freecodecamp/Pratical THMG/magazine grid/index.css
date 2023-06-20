@@ -76,8 +76,10 @@ h1 {
 #Text {
   /* grid-row: 4 / 5;
   grid-column: 2 / 3; */
-  grid-column: 1 / 2;
   font-size: 2.2rem;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 200px);
 }
 
 #Cards {
