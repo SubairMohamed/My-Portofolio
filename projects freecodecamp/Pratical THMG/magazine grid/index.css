@@ -107,3 +107,7 @@ h1 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
+
+#Cards div {
+  margin: 12rem 2rem;
+}
