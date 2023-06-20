@@ -111,3 +111,7 @@ h1 {
 #Cards div {
   margin: 12rem 2rem;
 }
+
+.card-1 {
+  width: 200px;
+}
