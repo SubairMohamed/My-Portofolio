@@ -19,6 +19,7 @@ main {
   grid-template-rows: repeat(4, 250px);
 }
 
+/* Section one */
 h1 {
   color: white;
   font-family: Helvetica, sans-serif;
@@ -64,6 +65,7 @@ h1 {
 #Heading {
   grid-column: 2 / 3;
 }
+/* End Section one */
 
 /* Section two */
 #Image-wrapper {
