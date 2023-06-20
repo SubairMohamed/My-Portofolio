@@ -80,18 +80,21 @@ h1 {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
 }
-.paragraph-1 {
-  grid-column: 1 / 4;
-  text-justify: justify;
-}
-.paragraph-2 {
-  grid-column: 4 / 7;
-  text-justify: justify;
-}
+
 #Text div {
   margin-top: 6rem;
   padding-left: 2rem;
   padding-right: 2rem;
+}
+
+.paragraph-1 {
+  grid-column: 1 / 4;
+  text-justify: justify;
+}
+
+.paragraph-2 {
+  grid-column: 4 / 7;
+  text-justify: justify;
 }
 
 #Cards {
