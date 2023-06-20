@@ -56,6 +56,11 @@ h1 {
   margin-left: 6rem;
 }
 
+.image-1,
+.image-2 {
+  border-radius: 10px;
+}
+
 #Heading {
   grid-column: 2 / 3;
 }
