@@ -109,9 +109,20 @@ h1 {
 }
 
 #Cards div {
-  margin: 12rem 2rem;
+  margin: 12rem 8rem;
 }
 
 .card-1 {
   width: 200px;
+  border-radius: 100rem;
+}
+
+.card-2 {
+  width: 200px;
+  border-radius: 50rem;
+}
+
+.card-3 {
+  width: 200px;
+  border-radius: 50rem;
 }
