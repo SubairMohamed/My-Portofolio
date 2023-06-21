@@ -146,3 +146,7 @@ h1 {
   font-size: 1.75rem;
   text-align: center;
 }
+
+footer {
+  background: linear-gradient(180deg, #bd2069 50%, #870c45);
+}
