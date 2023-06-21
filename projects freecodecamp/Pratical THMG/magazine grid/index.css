@@ -152,6 +152,12 @@ footer {
   height: 25vh;
 }
 
+footer div::before {
+  width: 20%;
+  height: 20%;
+  background-color: red;
+}
+
 .copy-right {
   text-align: center;
   font-size: 1.75rem;
