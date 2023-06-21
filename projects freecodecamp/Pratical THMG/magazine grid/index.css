@@ -162,4 +162,7 @@ footer {
 
 .copy-magazine {
   text-align: center;
+  font-size: 1.85rem;
+  font-weight: bolder;
+  font-family: Helvetica, sans-serif;
 }
