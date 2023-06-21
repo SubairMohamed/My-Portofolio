@@ -151,3 +151,7 @@ footer {
   background: linear-gradient(180deg, #bd2069 50%, #870c45);
   height: 25vh;
 }
+
+.copy-right {
+  text-align: center;
+}
