@@ -19,7 +19,7 @@ main {
   grid-template-rows: repeat(4, 250px);
 }
 
-/* Section one */
+/* Section one Header*/
 h1 {
   color: white;
   font-family: Helvetica, sans-serif;
@@ -65,9 +65,9 @@ h1 {
 #Heading {
   grid-column: 2 / 3;
 }
-/* End Section one */
+/* End Section one Header*/
 
-/* Section two */
+/* Section two Images*/
 #Image-wrapper {
   margin-top: -12rem;
   display: flex;
@@ -75,7 +75,7 @@ h1 {
   margin-left: 17rem;
   gap: 2rem;
 }
-/* End Section two */
+/* End Section two Images*/
 
 /* Section three Text*/
 #Text {
