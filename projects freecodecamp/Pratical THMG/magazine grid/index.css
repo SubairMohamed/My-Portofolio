@@ -154,6 +154,9 @@ footer {
 
 .copy-right {
   text-align: center;
+  font-size: 1.75rem;
+  font-weight: bold;
+  font-family: "Times New Roman", serif;
 }
 
 .copy-magazine {
