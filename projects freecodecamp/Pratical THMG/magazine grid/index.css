@@ -149,6 +149,7 @@ h1 {
 }
 /* End Section four Card*/
 
+/* Section Footer */
 footer {
   background: linear-gradient(180deg, #bd2069 50%, #870c45);
   height: 25vh;
@@ -186,3 +187,4 @@ footer {
   font-family: Helvetica, sans-serif;
   text-decoration: overline underline;
 }
+/* End Section Footer */
