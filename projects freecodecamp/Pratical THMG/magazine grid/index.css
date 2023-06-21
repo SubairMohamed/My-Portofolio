@@ -152,10 +152,21 @@ footer {
   height: 25vh;
 }
 
-footer div::before {
-  width: 20%;
-  height: 20%;
-  background-color: red;
+.arrow {
+  width: 5%;
+  height: 5%;
+  background-color: #bd2069;
+  position: absolute;
+  left: 47%;
+  bottom: -87%;
+  margin: 0 auto;
+  border-radius: 20px;
+  border-width: 3vw;
+  border-style: solid;
+  border-top: 1vh solid #bd2069;
+  border-left: 1vh solid #bd2069;
+  border-right: 1vh solid #bd2069;
+  border-bottom: 1vh solid #bd2069;
 }
 
 .copy-right {
