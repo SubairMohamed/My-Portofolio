@@ -163,9 +163,9 @@ footer {
   border-radius: 20px;
   border-width: 3vw;
   border-style: solid;
-  border-top: 1vh solid #bd2069;
-  border-left: 1vh solid #bd2069;
-  border-right: 1vh solid #bd2069;
+  /* border-top: 1vh solid #bd2069; */
+  /* border-left: 1vh solid #bd2069; */
+  /* border-right: 1vh solid #bd2069; */
   border-bottom: 1vh solid #bd2069;
 }
 
