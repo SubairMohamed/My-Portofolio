@@ -187,4 +187,8 @@ footer {
   font-family: Helvetica, sans-serif;
   text-decoration: overline underline;
 }
+
+.fas {
+  padding-left: 2rem;
+}
 /* End Section Footer */
