@@ -242,3 +242,10 @@ footer p {
     text-align: center;
   }
 }
+
+@media only screen and (max-width: 500px) {
+  header {
+    display: flex;
+    flex-direction: column;
+  }
+}
