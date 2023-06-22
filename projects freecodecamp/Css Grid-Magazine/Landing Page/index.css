@@ -248,4 +248,9 @@ footer p {
     display: flex;
     flex-direction: column;
   }
+
+  .logo {
+    margin: 0 auto;
+    width: 50%;
+  }
 }
