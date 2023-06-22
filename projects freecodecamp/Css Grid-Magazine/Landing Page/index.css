@@ -253,4 +253,9 @@ footer p {
     margin: 0 auto;
     width: 50%;
   }
+
+  .nav-list li {
+    display: flex;
+    flex-direction: column;
+  }
 }
