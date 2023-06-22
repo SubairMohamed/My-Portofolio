@@ -258,4 +258,8 @@ footer p {
     display: flex;
     flex-direction: column;
   }
+
+  article {
+    padding-top: 13rem;
+  }
 }
