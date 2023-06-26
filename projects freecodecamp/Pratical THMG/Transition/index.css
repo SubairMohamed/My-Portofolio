@@ -10,7 +10,7 @@ body {
 }
 
 .box {
-  /* display: inline-block; */
+  display: inline-block;
   background: greenyellow;
   width: 200px;
   height: 200px;
