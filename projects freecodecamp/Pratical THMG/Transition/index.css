@@ -6,17 +6,18 @@ body {
   width: 200px;
   height: 200px;
   background: gainsboro;
-  border: 6px solid gray;
+  border: 20px solid gray;
 }
 
 .box {
+  /* display: inline-block; */
   background: greenyellow;
   width: 200px;
   height: 200px;
+  transition: transform 300ms ease-in-out;
   /* transform: translate(200px, 150px) rotate(20deg); */
-  transition: transform 1s ease-in-out;
 }
 
-.box:hover {
+.trigger:hover .box {
   transform: translate(200px, 150px) rotate(20deg);
 }
