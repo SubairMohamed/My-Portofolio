@@ -6,10 +6,11 @@ body {
   background: greenyellow;
   width: 200px;
   height: 200px;
-  /* transform: translate(200px, 150px) rotate(20deg); */
-  transition: transform 300ms ease-in-out;
+  /* transform: rotate(20deg); */
+  transition: transform 1s ease-in-out;
+  border-radius: 40%;
 }
 
 .box:hover {
-  transform: translate(200px, 150px) rotate(20deg);
+  transform: rotate(20deg);
 }
