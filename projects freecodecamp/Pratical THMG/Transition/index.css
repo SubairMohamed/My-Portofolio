@@ -2,15 +2,19 @@ body {
   padding: 20px;
 }
 
+.trigger {
+  width: 200px;
+  height: 200px;
+}
+
 .box {
   background: greenyellow;
   width: 200px;
   height: 200px;
-  /* transform: rotate(20deg); */
+  /* transform: translate(200px, 150px) rotate(20deg); */
   transition: transform 1s ease-in-out;
-  border-radius: 40%;
 }
 
 .box:hover {
-  transform: rotate(20deg);
+  transform: translate(200px, 150px) rotate(20deg);
 }
