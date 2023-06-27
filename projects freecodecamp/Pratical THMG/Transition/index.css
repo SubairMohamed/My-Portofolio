@@ -1,6 +1,6 @@
-body {
+/* body {
   padding: 50px;
-}
+} */
 
 /* .trigger {
   width: 200px;
@@ -9,24 +9,24 @@ body {
   border: 20px solid gray;
 } */
 
-.box {
-  display: inline-block;
+/* .box { */
+/* display: inline-block;
   background: greenyellow;
   width: 200px;
   height: 200px;
-  transition: all 0.5s linear;
-  /* pointer-events: none; */
-  /* transform: translate(200px, 150px) rotate(20deg); */
-}
+  transition: all 0.5s linear; */
+/* pointer-events: none; */
+/* transform: translate(200px, 150px) rotate(20deg); */
+/* } */
 
 /* .trigger:hover .box {
   transform: translate(200px, 150px) rotate(20deg);
 } */
 
-.box:hover {
+/* .box:hover {
   width: 400px;
   height: 400px;
   border-radius: 50%;
   background: brown;
   transform: rotate(90deg);
-}
+} */
