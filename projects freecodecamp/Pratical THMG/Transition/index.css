@@ -15,7 +15,7 @@ body {
   background: greenyellow;
   width: 200px;
   height: 200px;
-  transition: width 5s ease-out;
+  transition: width 5s ease-out 1s;
   /* pointer-events: none; */
   /* transform: translate(200px, 150px) rotate(20deg); */
 }
