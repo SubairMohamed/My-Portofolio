@@ -14,7 +14,7 @@ body {
   background: greenyellow;
   width: 200px;
   height: 200px;
-  transition: width 0.5s cubic-bezier(0.02, 0.95, 0.89, 0.24);
+  transition: all 0.5s linear;
   /* pointer-events: none; */
   /* transform: translate(200px, 150px) rotate(20deg); */
 }
