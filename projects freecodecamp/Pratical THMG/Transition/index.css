@@ -1,5 +1,6 @@
 body {
-  padding: 20px;
+  padding: 50px;
+  margin: 50px 50px 50px 300px;
 }
 
 /* .trigger {
@@ -14,9 +15,7 @@ body {
   background: greenyellow;
   width: 200px;
   height: 200px;
-  justify-content: center;
-  align-items: center;
-  margin: auto;
+
   transition: transform 300ms ease-in-out;
   /* pointer-events: none; */
   /* transform: translate(200px, 150px) rotate(20deg); */
