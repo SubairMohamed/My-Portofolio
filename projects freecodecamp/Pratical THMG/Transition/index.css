@@ -2,12 +2,12 @@ body {
   padding: 20px;
 }
 
-.trigger {
+/* .trigger {
   width: 200px;
   height: 200px;
   background: gainsboro;
   border: 20px solid gray;
-}
+} */
 
 .box {
   display: inline-block;
@@ -15,10 +15,10 @@ body {
   width: 200px;
   height: 200px;
   transition: transform 300ms ease-in-out;
-  pointer-events: none;
+  /* pointer-events: none; */
   /* transform: translate(200px, 150px) rotate(20deg); */
 }
 
-.trigger:hover .box {
+/* .trigger:hover .box {
   transform: translate(200px, 150px) rotate(20deg);
-}
+} */
