@@ -42,12 +42,14 @@
   position: absolute;
   top: 0;
   left: 0;
-  transition: animate 16s ease-in-out infinite;
+  animation: animate 16s ease-in-out infinite;
 }
 
 @keyframes animate {
   0% {
     background-image: url("./sunset-1.jpg");
+    height: 100vh;
+    background-size: cover;
   }
 
   50% {
