@@ -30,3 +30,8 @@
   background: brown;
   transform: rotate(90deg);
 } */
+
+* {
+  padding: 0;
+  margin: 0;
+}
