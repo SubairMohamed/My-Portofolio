@@ -46,7 +46,8 @@
 }
 
 @keyframes animate {
-  0% {
+  0%,
+  100% {
     background-image: url("./sunset-1.jpg");
     height: 100vh;
     background-size: cover;
@@ -56,7 +57,7 @@
     background-image: url("./moon-2.jpg");
   }
 
-  100% {
+  75% {
     background-image: url("./beach-3.jpg");
   }
 }
