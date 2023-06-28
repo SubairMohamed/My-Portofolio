@@ -57,6 +57,10 @@
   color: white;
 }
 
+.detail h1 {
+  text-transform: capitalize;
+}
+
 @keyframes animate {
   0%,
   100% {
