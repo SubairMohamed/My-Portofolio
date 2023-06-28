@@ -43,4 +43,19 @@
   position: absolute;
   top: 0;
   left: 0;
+  transition: animate 1s ease-in-out infinite;
+}
+
+@keyframes animate {
+  0% {
+    background-image: url(sunset-1.jpg);
+  }
+
+  50% {
+    background-image: url(moon-2.jpg);
+  }
+
+  100% {
+    background-image: url(beach-3.jpg);
+  }
 }
