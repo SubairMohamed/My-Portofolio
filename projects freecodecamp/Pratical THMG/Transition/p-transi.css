@@ -57,6 +57,7 @@ h2:hover {
 
 .btn {
   display: block;
+  position: relative;
   margin: 1rem auto;
   text-decoration: none;
   border: 1px solid lightblue;
@@ -68,10 +69,10 @@ h2:hover {
 
 @keyframes btn {
   0% {
-    left: -50px;
+    bottom: -150px;
   }
 
   100% {
-    left: 550px;
+    bottom: 8px;
   }
 }
