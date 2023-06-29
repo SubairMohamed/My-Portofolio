@@ -28,8 +28,9 @@ h2:hover {
 .box {
   width: 250px;
   height: 250px;
+  position: relative;
   background: burlywood;
-  margin: auto;
+  /* margin: auto; */
   /* transition-property: background, border-radius, transform; */
   transition-property: all;
   /* transition-duration: 1s, 5s; */
@@ -41,11 +42,11 @@ h2:hover {
 
 @keyframes box {
   0% {
-    top: -50px;
+    left: -50px;
   }
 
   100% {
-    top: 180px;
+    left: 550px;
   }
 }
 
