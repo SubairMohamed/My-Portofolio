@@ -10,3 +10,7 @@ h2 {
 h2:hover {
   transform: translateY(10px);
 }
+
+.box {
+  width: 250px;
+}
