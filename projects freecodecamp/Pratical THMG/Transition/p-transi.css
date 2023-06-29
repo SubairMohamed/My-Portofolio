@@ -16,8 +16,8 @@ h2:hover {
   height: 250px;
   background: burlywood;
   margin: auto;
-  transition-property: background, border-radius, transform;
-  transition-duration: 1s, 5s;
+  transition-property: all;
+  transition-duration: 1s;
 }
 
 .box:hover {
