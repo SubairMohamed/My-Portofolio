@@ -61,7 +61,17 @@ h2:hover {
   text-decoration: none;
   border: 1px solid lightblue;
   background: lightblue;
-  animation-name: box;
+  animation-name: btn;
   animation-duration: 3s;
   animation-fill-mode: forwards;
+}
+
+@keyframes btn {
+  0% {
+    left: -50px;
+  }
+
+  100% {
+    left: 550px;
+  }
 }
