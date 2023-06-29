@@ -30,4 +30,6 @@ h2:hover {
 .btn {
   display: block;
   text-align: center;
+  margin: 1rem auto;
+  text-decoration: none;
 }
