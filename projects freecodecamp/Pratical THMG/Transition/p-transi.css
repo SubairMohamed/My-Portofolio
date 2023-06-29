@@ -16,11 +16,12 @@ h2:hover {
   height: 250px;
   background: burlywood;
   margin: auto;
-  transition-property: background, border-radius;
+  transition-property: background, border-radius, transform;
   transition-duration: 1s, 5s;
 }
 
 .box:hover {
   background: lightblue;
   border-radius: 20% 0 0 50%;
+  transform: rotateX(180deg);
 }
