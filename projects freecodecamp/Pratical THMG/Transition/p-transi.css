@@ -20,6 +20,6 @@ h2:hover {
   transition-duration: 1s;
 }
 
-.box:hover {
+.box:active {
   background: lightblue;
 }
