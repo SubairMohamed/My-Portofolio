@@ -39,6 +39,16 @@ h2:hover {
   animation-fill-mode: forwards;
 }
 
+@keyframes box {
+  0% {
+    top: -50px;
+  }
+
+  100% {
+    top: 180px;
+  }
+}
+
 .box:hover {
   background: lightblue;
   border-radius: 20% 0 0 50%;
