@@ -16,4 +16,5 @@ h2:hover {
   height: 250px;
   background: burlywood;
   margin: auto;
+  transition-property: background;
 }
