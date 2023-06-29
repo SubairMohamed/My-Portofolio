@@ -1,5 +1,6 @@
 h2 {
   height: 200px;
+  position: relative;
   text-align: center;
   text-transform: capitalize;
   font-size: 28px;
@@ -7,6 +8,17 @@ h2 {
   transition: transform 0.2s ease-in-out 0.1s;
   animation-name: header;
   animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes header {
+  0% {
+    top: -50px;
+  }
+
+  100% {
+    top: 100px;
+  }
 }
 
 h2:hover {
@@ -35,12 +47,4 @@ h2:hover {
   text-decoration: none;
   border: 1px solid lightblue;
   background: lightblue;
-}
-
-@keyframes header {
-  0% {
-  }
-
-  100% {
-  }
 }
