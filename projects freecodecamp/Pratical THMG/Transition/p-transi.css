@@ -61,4 +61,7 @@ h2:hover {
   text-decoration: none;
   border: 1px solid lightblue;
   background: lightblue;
+  animation-name: box;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
 }
