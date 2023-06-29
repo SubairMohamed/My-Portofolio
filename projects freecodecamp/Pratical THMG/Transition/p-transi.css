@@ -34,6 +34,9 @@ h2:hover {
   transition-property: all;
   /* transition-duration: 1s, 5s; */
   transition-duration: 1s;
+  animation-name: box;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
 }
 
 .box:hover {
