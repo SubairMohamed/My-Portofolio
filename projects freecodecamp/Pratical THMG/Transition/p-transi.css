@@ -26,3 +26,8 @@ h2:hover {
   background: lightblue;
   border-radius: 20% 0 0 50%;
 }
+
+.btn {
+  display: block;
+  text-align: center;
+}
