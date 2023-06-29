@@ -28,8 +28,9 @@ h2:hover {
 }
 
 .btn {
-  display: block;
-  text-align: center;
-  margin: 1rem auto;
+  display: inline-block;
+  align-items: center;
+  margin: auto;
   text-decoration: none;
+  border: 1px solid black;
 }
