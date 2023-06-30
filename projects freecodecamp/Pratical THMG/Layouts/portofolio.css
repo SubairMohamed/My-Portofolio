@@ -6,3 +6,9 @@
 .grid-container {
   display: grid;
 }
+
+.grid-item {
+  width: 100px;
+  height: 100px;
+  background-color: lightblue;
+}
