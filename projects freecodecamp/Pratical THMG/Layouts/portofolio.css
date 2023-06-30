@@ -1,15 +1,17 @@
 * {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 .grid-container {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(6, 100px);
+  grid-template-rows: repeat(6, 108px);
 }
 
 .grid-item {
-  background-color: lightblue;
+  background-color: lightslategray;
   color: white;
   text-align: center;
   column-gap: 10px;
