@@ -7,10 +7,13 @@
 .grid-container {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(6, 110px);
 }
 
 .grid-item {
     background-color: #ff40a0;
+    margin: 5px;
+    padding: 3px;
 }
 
 .item-1 {
