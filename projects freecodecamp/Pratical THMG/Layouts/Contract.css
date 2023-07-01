@@ -12,6 +12,7 @@
 
 .grid-item {
     background-color: #ff40a0;
+    text-align: center;
     margin: 5px;
     padding: 3px;
 }
