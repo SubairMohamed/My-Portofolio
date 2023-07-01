@@ -12,3 +12,11 @@
 .grid-item {
     background-color: #ff40a0;
 }
+
+.item-1 {
+    grid-column: 1 / 7;
+}
+
+.item-2 {
+    grid-column: 1 / 7;
+}
