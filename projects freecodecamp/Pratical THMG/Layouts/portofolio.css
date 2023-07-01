@@ -34,6 +34,7 @@
 
 .item-4 {
   grid-column: 2 / 7;
+  max-width: 150px;
 }
 
 .item-5 {
