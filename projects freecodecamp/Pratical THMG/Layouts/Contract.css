@@ -27,8 +27,12 @@
 .logo {
     width: 70px;
     height: 70px;
+    margin: auto;
     background-color: #ff00ff;
     color: white;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 15px;
 }
 
 .item-3 {
