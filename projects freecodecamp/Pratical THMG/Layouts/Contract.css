@@ -91,6 +91,7 @@
 }
 /* ends About */
 
+/* start All Contract's */
 .item-4 {
   grid-column: 1 / 7;
 }
@@ -113,6 +114,7 @@
   border-radius: 8px;
   padding-top: 6px;
 }
+/* ends All Contract's */
 
 .item-5 {
   grid-column: 1 / 7;
