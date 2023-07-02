@@ -34,6 +34,12 @@
     gap: 15px;
 }
 
+.nav {
+   background-color: #ff00ff; 
+   padding: 4px;
+   border-radius: 5px;
+}
+
 /* start Header */
 .item-2 {
     grid-column: 1 / 7;
