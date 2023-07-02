@@ -1,102 +1,104 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 .grid-container {
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(6, 110px);
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: repeat(6, 110px);
 }
 
 .grid-item {
-    background-color: #ff40a0;
-    text-align: center;
-    font-size: 20px;
-    font-weight: bold;
-    margin: 5px;
-    padding: 3px;
+  background-color: #ff40a0;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 5px;
+  padding: 3px;
 }
 
 /* start NavBar */
 .item-1 {
-    grid-column: 1 / 7;
+  grid-column: 1 / 7;
 }
 
 .navs {
-    font-size: initial;
-    font-weight: normal;
-    color: white;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    padding-top: 16px;
-    gap: 15px;
+  font-size: initial;
+  font-weight: normal;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 16px;
+  gap: 15px;
 }
 
 .nav {
-   background-color: #ff00ff; 
-   padding: 4px;
-   border-radius: 5px;
+  background-color: #ff00ff;
+  padding: 4px;
+  border-radius: 5px;
 }
 /* ends NavBar */
 
 /* start Header */
 .item-2 {
-    grid-column: 1 / 7;
+  grid-column: 1 / 7;
 }
 
 .text {
-    display: flex;
-    flex-direction: row;
-    max-width: 200px;
-    margin: auto;
-    padding-top: 12px;
+  display: flex;
+  flex-direction: row;
+  max-width: 200px;
+  margin: auto;
+  padding-top: 12px;
 }
 
 .para {
-    padding: 8px;
-    margin-top: 5px;
-    color: white;
-    background-color: #ff00ff;
-    height: 40px;
+  padding: 8px;
+  margin-top: 5px;
+  color: white;
+  background-color: #ff00ff;
+  height: 40px;
 }
 
 .logo {
-    width: 50px;
-    height: 50px;
-    margin: auto;
-    background-color: #ff00ff;
-    color: white;
-    border-radius: 50%;
-    text-align: center;
-    padding-top: 15px;
-    display:flex;
-    flex-direction: column;
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  background-color: #ff00ff;
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 15px;
+  display: flex;
+  flex-direction: column;
 }
 /* ends Header */
 
+/* start About */
 .item-3 {
-    grid-column: 1 / 7;
+  grid-column: 1 / 7;
 }
 
 .para-about {
-    color: white;
-    background-color: #ff00ff;
-    width: fit-content;
-    margin: 16px auto;
-    padding: 4px;
+  color: white;
+  background-color: #ff00ff;
+  width: fit-content;
+  margin: 16px auto;
+  padding: 4px;
 }
+/* ends About */
 
 .item-4 {
-    grid-column: 1 / 7;
+  grid-column: 1 / 7;
 }
 
 .item-5 {
-    grid-column: 1 / 7;
+  grid-column: 1 / 7;
 }
 
 .item-6 {
-    grid-column: 1 / 7;
+  grid-column: 1 / 7;
 }
