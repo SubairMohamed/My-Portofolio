@@ -30,6 +30,11 @@
     flex-direction: row;
     max-width: 200px;
     margin: auto;
+    padding-top: 12px;
+}
+
+.para {
+    padding-top: 12px;
 }
 
 .logo {
