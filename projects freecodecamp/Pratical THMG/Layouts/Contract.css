@@ -23,7 +23,11 @@
     grid-column: 1 / 7;
 }
 
-
+.navs {
+    font-size: initial;
+    font-weight: normal;
+    color: white;
+}
 
 /* start Header */
 .item-2 {
