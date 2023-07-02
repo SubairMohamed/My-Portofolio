@@ -99,6 +99,9 @@
   font-size: initial;
   font-weight: normal;
   color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }
 
 .item-5 {
