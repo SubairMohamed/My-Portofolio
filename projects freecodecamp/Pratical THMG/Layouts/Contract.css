@@ -34,7 +34,11 @@
 }
 
 .para {
-    padding-top: 12px;
+    padding-top: 14px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ff00ff;
+    height: 40px;
 }
 
 .logo {
