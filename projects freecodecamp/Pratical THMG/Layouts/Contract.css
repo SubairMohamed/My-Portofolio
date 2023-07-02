@@ -19,6 +19,7 @@
     padding: 3px;
 }
 
+/* start NavBar */
 .item-1 {
     grid-column: 1 / 7;
 }
@@ -39,6 +40,7 @@
    padding: 4px;
    border-radius: 5px;
 }
+/* ends NavBar */
 
 /* start Header */
 .item-2 {
@@ -77,6 +79,14 @@
 
 .item-3 {
     grid-column: 1 / 7;
+}
+
+.para {
+    padding-top: 14px;
+    margin-top: 5px;
+    color: white;
+    background-color: #ff00ff;
+    height: 40px;
 }
 
 .item-4 {
