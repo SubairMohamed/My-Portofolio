@@ -95,6 +95,12 @@
   grid-column: 1 / 7;
 }
 
+.cards {
+  font-size: initial;
+  font-weight: normal;
+  color: white;
+}
+
 .item-5 {
   grid-column: 1 / 7;
 }
