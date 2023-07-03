@@ -37,3 +37,7 @@
 .item-6 {
   grid-column: 1 / 4;
 }
+
+/* .item-6 {
+  grid-column: 4 / 8;
+} */
