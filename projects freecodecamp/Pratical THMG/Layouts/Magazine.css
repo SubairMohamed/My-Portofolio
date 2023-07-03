@@ -12,6 +12,8 @@
 
 .grid-item {
   background-color: crimson;
+  font-size: 24px;
+  font-weight: bold;
   color: white;
   grid-gap: 2px 2px;
   margin: 1px;
