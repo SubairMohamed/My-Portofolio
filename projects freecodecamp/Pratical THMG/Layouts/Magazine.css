@@ -41,3 +41,7 @@
 .item-7 {
   grid-column: 4 / 8;
 }
+
+.item-8 {
+  grid-column: 8 / 12;
+}
