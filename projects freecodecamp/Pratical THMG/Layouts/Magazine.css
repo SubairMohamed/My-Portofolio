@@ -3,3 +3,11 @@
   margin: 0;
   padding: 0;
 }
+
+.grid-container {
+}
+
+.grid-item {
+  background-color: crimson;
+  color: white;
+}
