@@ -21,3 +21,11 @@
 .item-2 {
   grid-column: 1 / 6;
 }
+
+.item-3 {
+  grid-column: 6 / 12;
+}
+
+.item-3 {
+  grid-column: 6 / 12;
+}
