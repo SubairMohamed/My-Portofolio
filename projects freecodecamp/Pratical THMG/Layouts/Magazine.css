@@ -45,3 +45,15 @@
 .item-8 {
   grid-column: 8 / 12;
 }
+
+.item-9 {
+  grid-column: 1 / 6;
+}
+
+.item-10 {
+  grid-column: 6 / 12;
+}
+
+.item-11 {
+  grid-column: 1 / 12;
+}
