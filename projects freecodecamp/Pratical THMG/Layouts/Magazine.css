@@ -7,7 +7,7 @@
 .grid-container {
   display: grid;
   grid-template-columns: repeat(11, 1fr);
-  grid-template-rows: repeat(11, 100px);
+  grid-template-rows: repeat(6, 100px);
 }
 
 .grid-item {
@@ -21,10 +21,12 @@
 
 .item-2 {
   grid-column: 1 / 6;
+  grid-row: 2 / 4;
 }
 
 .item-3 {
   grid-column: 6 / 12;
+  grid-row: 2 / 4;
 }
 
 .item-4 {
@@ -47,6 +49,6 @@
   grid-column: 8 / 12;
 }
 
-.item-11 {
+.item-9 {
   grid-column: 1 / 12;
 }
