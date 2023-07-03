@@ -33,3 +33,7 @@
 .item-5 {
   grid-column: 6 / 12;
 }
+
+.item-6 {
+  grid-column: 1 / 4;
+}
