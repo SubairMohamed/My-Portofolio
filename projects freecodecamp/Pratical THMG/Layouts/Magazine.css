@@ -13,3 +13,7 @@
   background-color: crimson;
   color: white;
 }
+
+.item-1 {
+  grid-column: 1 / 12;
+}
