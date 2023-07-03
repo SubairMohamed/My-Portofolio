@@ -17,3 +17,7 @@
 .item-1 {
   grid-column: 1 / 12;
 }
+
+.item-2 {
+  grid-column: 1 / 6;
+}
