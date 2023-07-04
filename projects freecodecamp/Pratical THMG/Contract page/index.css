@@ -10,7 +10,8 @@ html {
 
 #navbar {
   background-color: #ff40a0;
-  font-size: 1.75rem;
+  font-size: 1.65rem;
+  font-weight: bolder;
 }
 
 nav {
@@ -31,4 +32,5 @@ ul li {
 li a {
   color: white;
   text-decoration: none;
+  padding: 10px;
 }
