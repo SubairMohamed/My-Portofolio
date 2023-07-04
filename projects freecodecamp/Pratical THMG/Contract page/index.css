@@ -12,3 +12,14 @@ html {
   background-color: #ff40a0;
   font-size: 1.75rem;
 }
+
+nav {
+  height: 50px;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
