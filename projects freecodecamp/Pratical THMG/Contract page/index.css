@@ -27,3 +27,8 @@ nav ul {
 ul li {
   list-style: none;
 }
+
+li a {
+  color: white;
+  text-decoration: none;
+}
