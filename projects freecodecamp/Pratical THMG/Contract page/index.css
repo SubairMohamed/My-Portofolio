@@ -7,3 +7,8 @@
 html {
   font-size: 62.5%;
 }
+
+#navbar {
+  background-color: #ff40a0;
+  font-size: 1.75rem;
+}
