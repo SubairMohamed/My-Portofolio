@@ -74,6 +74,11 @@ li a {
   cursor: pointer;
 }
 
+.btn a {
+  text-decoration: none;
+  color: white;
+}
+
 .btn:hover {
   background: #ff40a0;
   border: 4px solid goldenrod;
