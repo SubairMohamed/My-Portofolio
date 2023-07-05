@@ -61,3 +61,11 @@ li a {
   text-align: center;
   padding-top: 60px;
 }
+
+.btn {
+  display: block;
+  margin: auto;
+  padding: 0.5rem 1.85rem;
+  color: white;
+  background-color: goldenrod;
+}
