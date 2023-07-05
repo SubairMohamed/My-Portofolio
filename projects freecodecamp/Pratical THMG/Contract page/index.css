@@ -43,5 +43,11 @@ li a {
 }
 
 .content img {
-  width: 350px;
+  width: 300px;
+}
+
+.content p {
+  color: white;
+  font-size: 2.5rem;
+  text-transform: capitalize;
 }
