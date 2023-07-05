@@ -68,4 +68,7 @@ li a {
   padding: 0.5rem 1.85rem;
   color: white;
   background-color: goldenrod;
+  border: none;
+  text-transform: uppercase;
+  border-radius: 10px;
 }
