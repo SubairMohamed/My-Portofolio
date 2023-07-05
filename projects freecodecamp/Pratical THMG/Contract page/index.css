@@ -53,7 +53,10 @@ li a {
 }
 
 .content p {
+  max-width: 600px;
   color: white;
   font-size: 2.5rem;
   text-transform: capitalize;
+  text-align: center;
+  padding-top: 60px;
 }
