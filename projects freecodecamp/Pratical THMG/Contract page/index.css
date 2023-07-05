@@ -63,7 +63,9 @@ li a {
 }
 
 .btn {
-  display: block;
+  position: absolute;
+  top: 32%;
+  left: 58%;
   margin: auto;
   padding: 0.5rem 1.85rem;
   color: white;
