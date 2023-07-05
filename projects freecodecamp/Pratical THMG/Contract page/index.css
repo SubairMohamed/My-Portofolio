@@ -41,3 +41,7 @@ li a {
   height: 60vh;
   background-color: #ff40a0;
 }
+
+.content img {
+  width: 350px;
+}
