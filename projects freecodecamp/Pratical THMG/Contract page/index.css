@@ -94,3 +94,8 @@ li a {
   padding-top: 40px;
   text-align: center;
 }
+
+.about-title {
+  color: goldenrod;
+  font-size: 3.5rem;
+}
