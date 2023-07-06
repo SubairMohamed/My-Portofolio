@@ -99,4 +99,10 @@ li a {
   color: goldenrod;
   font-size: 3.75rem;
   font-family: "Agdasima", sans-serif;
+  padding-bottom: 0.5rem;
+}
+
+.para {
+  font-size: 2.5rem;
+  text-transform: capitalize;
 }
