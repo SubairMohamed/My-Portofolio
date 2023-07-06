@@ -105,4 +105,6 @@ li a {
 .para {
   font-size: 2.5rem;
   text-transform: capitalize;
+  text-align: center;
+  padding: 0 4rem;
 }
