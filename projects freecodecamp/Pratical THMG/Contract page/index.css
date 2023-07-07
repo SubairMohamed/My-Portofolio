@@ -116,7 +116,7 @@ li a {
 
 #All-Contract {
   width: 100%;
-  height: 40vh;
+  height: 60vh;
 }
 
 .cards {
@@ -128,4 +128,9 @@ li a {
   color: goldenrod;
   font-size: 3.75rem;
   font-family: "Agdasima", sans-serif;
+}
+
+.fa-doutone {
+  width: 4%;
+  height: 4%;
 }
