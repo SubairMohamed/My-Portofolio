@@ -113,3 +113,8 @@ li a {
   color: goldenrod;
   font-size: 2.85rem;
 }
+
+#All-Contract {
+  width: 100%;
+  height: 40vh;
+}
