@@ -130,7 +130,7 @@ li a {
   font-family: "Agdasima", sans-serif;
 }
 
-.fa-doutone {
-  width: 4%;
-  height: 4%;
+.fas {
+  font-size: 3rem;
+  color: gray;
 }
