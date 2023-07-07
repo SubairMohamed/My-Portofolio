@@ -123,3 +123,9 @@ li a {
   margin-top: 40px;
   text-align: center;
 }
+
+.card-title {
+  color: goldenrod;
+  font-size: 3.75rem;
+  font-family: "Agdasima", sans-serif;
+}
