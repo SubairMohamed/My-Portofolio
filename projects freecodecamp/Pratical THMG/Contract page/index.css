@@ -58,7 +58,7 @@ li a {
 
 .content p {
   max-width: 600px;
-  color: white;
+  color: gray;
   font-size: 2.5rem;
   text-transform: capitalize;
   text-align: center;
@@ -107,6 +107,7 @@ li a {
   text-transform: capitalize;
   text-align: center;
   padding: 0 4rem;
+  color: gray;
 }
 
 .para::first-letter {
