@@ -133,7 +133,7 @@ li a {
 
 .fas {
   font-size: 3rem;
-  color: gray;
+  color: goldenrod;
 }
 
 .card-p {
@@ -144,4 +144,5 @@ li a {
 
 .card-file {
   width: 30%;
+  background-color: #ff40a0;
 }
