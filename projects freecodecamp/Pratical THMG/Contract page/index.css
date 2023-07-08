@@ -156,6 +156,11 @@ li a {
   margin: 0 10px;
   background-color: #ff40a0;
   border-radius: 10px;
+  transition: all 0.5s ease-in-out;
+}
+
+.card-file:hover {
+  transform: scale(1.05);
 }
 
 .card-file i {
