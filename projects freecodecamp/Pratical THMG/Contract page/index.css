@@ -139,4 +139,9 @@ li a {
 .card-p {
   font-size: 2rem;
   color: gray;
+  text-transform: capitalize;
+}
+
+.card-file {
+  width: 30%;
 }
