@@ -91,7 +91,7 @@ li a {
 /* ends Heading */
 
 #About-Work {
-  padding-top: 40px;
+  margin: 40px 0;
   text-align: center;
 }
 
@@ -99,7 +99,7 @@ li a {
   color: goldenrod;
   font-size: 3.75rem;
   font-family: "Agdasima", sans-serif;
-  padding-bottom: 0.5rem;
+  margin: 40px 0;
 }
 
 .para {
@@ -124,12 +124,15 @@ li a {
 .cards {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .card-title {
   color: goldenrod;
   font-size: 3.75rem;
   font-family: "Agdasima", sans-serif;
+  text-align: center;
+  margin: 40px 0;
 }
 
 .fas {
@@ -141,6 +144,7 @@ li a {
   font-size: 2rem;
   color: gray;
   text-transform: capitalize;
+  text-align: center;
 }
 
 /* start card-file */
@@ -152,7 +156,9 @@ li a {
 }
 
 .card-file i {
+  display: block;
   padding: 12px 0;
+  text-align: center;
 }
 
 .card-file p {
@@ -170,7 +176,9 @@ li a {
 }
 
 .card-hammer i {
+  display: block;
   padding: 12px 0;
+  text-align: center;
 }
 
 .card-hammer p {
@@ -188,7 +196,9 @@ li a {
 }
 
 .card-pen i {
+  display: block;
   padding: 12px 0;
+  text-align: center;
 }
 
 .card-pen p {
@@ -206,7 +216,9 @@ li a {
 }
 
 .card-envelope i {
+  display: block;
   padding: 12px 0;
+  text-align: center;
 }
 
 .card-envelope p {
