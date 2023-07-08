@@ -161,6 +161,7 @@ li a {
 }
 /* ends card-file */
 
+/* start card-hammer */
 .card-hammer {
   width: 30%;
   margin: 0 10px;
@@ -176,5 +177,6 @@ li a {
   padding: 4px 2px 5px 2px;
   color: white;
 }
+/* ends card-hammer */
 
 /* ends All Contract's */
