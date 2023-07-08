@@ -161,4 +161,11 @@ li a {
 }
 /* ends card-file */
 
+.card-hammer {
+  width: 30%;
+  margin: 0 10px;
+  background-color: #ff40a0;
+  border-radius: 10px;
+}
+
 /* ends All Contract's */
