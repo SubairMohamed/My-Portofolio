@@ -190,6 +190,8 @@ li a {
 }
 
 .card-pen p {
+  padding: 4px 2px 5px 2px;
+  color: white;
 }
 
 /* ends All Contract's */
