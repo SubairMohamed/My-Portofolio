@@ -115,6 +115,7 @@ li a {
   font-size: 2.85rem;
 }
 
+/* start All Contract's */
 #All-Contract {
   width: 100%;
   height: 60vh;
@@ -133,7 +134,7 @@ li a {
 
 .fas {
   font-size: 3rem;
-  color: goldenrod;
+  color: black;
 }
 
 .card-p {
