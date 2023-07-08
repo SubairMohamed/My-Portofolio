@@ -100,7 +100,7 @@ li a {
   color: goldenrod;
   font-size: 3.75rem;
   font-family: "Agdasima", sans-serif;
-  margin: 40px 0;
+  margin: 40px 0 28px 0;
 }
 
 .para {
@@ -109,6 +109,7 @@ li a {
   text-align: center;
   padding: 0 4rem;
   color: gray;
+  margin-top: 0px;
 }
 
 .para::first-letter {
