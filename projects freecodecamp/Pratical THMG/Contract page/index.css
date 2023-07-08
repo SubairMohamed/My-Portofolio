@@ -180,6 +180,10 @@ li a {
 /* ends card-hammer */
 
 .card-pen {
+  width: 30%;
+  margin: 0 10px;
+  background-color: #ff40a0;
+  border-radius: 10px;
 }
 
 .card-pen i {
