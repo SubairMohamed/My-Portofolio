@@ -199,12 +199,19 @@ li a {
 
 /* start card-envelope */
 .card-envelope {
+  width: 30%;
+  margin: 0 10px;
+  background-color: #ff40a0;
+  border-radius: 10px;
 }
 
 .card-envelope i {
+  padding: 12px 0;
 }
 
 .card-envelope p {
+  padding: 4px 2px 5px 2px;
+  color: white;
 }
 /* ends card-envelope */
 
