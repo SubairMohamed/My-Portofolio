@@ -39,15 +39,20 @@ li a {
   color: white;
   text-decoration: none;
   padding: 10px;
+  transition: font-size 1s ease-in-out;
 }
 
-.transition-nav {
+li a:hover {
+  font-size: 1.90rem;
+}
+
+/* .transition-nav {
   transition: transform 0.2s ease-in-out 0.1s;
-}
+} */
 
-.transition-nav:hover {
-  transform: translateY(10px);
-}
+/* .transition-nav:hover {
+  transform: translateY(6px);
+} */
 
 /* ends Navbar */
 
