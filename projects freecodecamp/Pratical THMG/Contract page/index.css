@@ -14,6 +14,10 @@ html {
   font-size: 1.77rem;
   font-weight: bolder;
   font-family: "Agdasima", sans-serif;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 nav {
