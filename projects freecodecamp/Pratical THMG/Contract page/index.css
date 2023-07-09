@@ -43,6 +43,10 @@ li a {
 /* ends Navbar */
 
 /* start Heading */
+header {
+  padding: 5rem 0;
+}
+
 #heading {
   width: 100%;
   height: 60vh;
