@@ -40,6 +40,15 @@ li a {
   text-decoration: none;
   padding: 10px;
 }
+
+.transition-nav {
+  transition: transform 0.2s ease-in-out 0.1s;
+}
+
+.transition-nav:hover {
+  transform: translateY(10px);
+}
+
 /* ends Navbar */
 
 /* start Heading */
@@ -73,30 +82,6 @@ header {
   padding-top: 60px;
 }
 
-.btn {
-  position: absolute;
-  top: 204px;
-  left: 786px;
-  margin: auto;
-  padding: 0.5rem 1.85rem;
-  color: white;
-  background-color: goldenrod;
-  border: none;
-  text-transform: uppercase;
-  border-radius: 10px;
-  cursor: pointer;
-  transition: all 0.5s linear;
-}
-
-.btn a {
-  text-decoration: none;
-  color: white;
-}
-
-.btn:hover {
-  background: #ff40a0;
-  border: 2px solid goldenrod;
-}
 /* ends Heading */
 
 /*start About-Work */
