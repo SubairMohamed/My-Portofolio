@@ -227,5 +227,10 @@ header {
 .transition:hover {
   transform: scale(1.05);
 }
-
 /* ends All Contract's */
+
+.template-title {
+  text-align: center;
+  font-size: 3.75rem;
+  font-family: "Agdasima", sans-serif;
+}
