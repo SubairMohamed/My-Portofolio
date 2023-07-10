@@ -229,8 +229,14 @@ header {
 }
 /* ends All Contract's */
 
+#Templates-We-Made {
+  width: 100%;
+  height: 50vh;
+}
+
 .template-title {
   text-align: center;
   font-size: 3.75rem;
   font-family: "Agdasima", sans-serif;
+  color: goldenrod;
 }
