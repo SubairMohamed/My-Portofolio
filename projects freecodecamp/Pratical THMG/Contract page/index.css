@@ -254,6 +254,7 @@ header {
 .images-1 {
   width: 600px;
   height: 500px;
+  border-radius: 12px;
 }
 
 .images-2 {
