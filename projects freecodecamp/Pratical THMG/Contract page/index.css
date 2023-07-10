@@ -43,7 +43,7 @@ li a {
 }
 
 li a:hover {
-  font-size: 1.90rem;
+  font-size: 1.9rem;
 }
 /* ends Navbar */
 
@@ -111,7 +111,7 @@ header {
 /* start All Contract's */
 #All-Contract {
   width: 100%;
-  height: 60vh;
+  height: 50vh;
 }
 
 .cards {
