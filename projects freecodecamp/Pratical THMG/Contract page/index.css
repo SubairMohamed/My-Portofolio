@@ -247,6 +247,8 @@ header {
   grid-template-columns: repeat(2, 1fr);
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 30px 0px;
+  justify-items: center;
+  align-items: center;
 }
 
 .images-1 {
