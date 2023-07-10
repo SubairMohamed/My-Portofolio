@@ -245,6 +245,7 @@ header {
 .template-contact {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
 }
 
 .images-1 {
