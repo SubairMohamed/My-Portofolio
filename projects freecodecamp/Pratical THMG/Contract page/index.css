@@ -272,4 +272,5 @@ header {
 .images-4 {
   width: 600px;
   height: 500px;
+  border-radius: 12px;
 }
