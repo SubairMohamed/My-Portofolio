@@ -252,6 +252,7 @@ header {
   align-items: center;
 }
 
+/* images */
 .images-1 {
   width: 600px;
   height: 500px;
@@ -275,4 +276,5 @@ header {
   height: 500px;
   border-radius: 12px;
 }
+/* images */
 /* ends Templates-We-Made */
