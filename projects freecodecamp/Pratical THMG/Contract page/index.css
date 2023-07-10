@@ -239,6 +239,11 @@ header {
   font-size: 3.75rem;
   font-family: "Agdasima", sans-serif;
   color: goldenrod;
+  margin: 40px 0;
+}
+
+.template-contact {
+  display: grid;
 }
 
 .images-1 {
