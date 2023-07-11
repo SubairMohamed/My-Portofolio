@@ -290,4 +290,7 @@ header {
   content: " '' ";
 }
 
+.image-text::after {
+  content: " '' ";
+}
 /* ends Templates-We-Made */
