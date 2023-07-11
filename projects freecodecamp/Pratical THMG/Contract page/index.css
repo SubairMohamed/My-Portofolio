@@ -286,4 +286,8 @@ header {
   text-transform: capitalize;
 }
 
+.image-text::before {
+  content: " '' ";
+}
+
 /* ends Templates-We-Made */
