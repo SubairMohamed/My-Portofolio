@@ -277,4 +277,10 @@ header {
   border-radius: 12px;
 }
 /* images */
+
+.image-text {
+  text-align: center;
+  font-size: 1.75rem;
+}
+
 /* ends Templates-We-Made */
