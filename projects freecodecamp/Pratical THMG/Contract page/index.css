@@ -280,7 +280,10 @@ header {
 
 .image-text {
   text-align: center;
-  font-size: 1.75rem;
+  font-size: 1.45rem;
+  color: #ff40a0;
+  font-weight: bold;
+  text-transform: capitalize;
 }
 
 /* ends Templates-We-Made */
