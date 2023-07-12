@@ -301,19 +301,21 @@ header {
 
 .footer-content {
   text-align: center;
+  background-color: #ff40a0;
+  padding: 2rem;
 }
 
 .footer-p {
   text-transform: capitalize;
   font-size: 1.3rem;
   font-weight: bold;
-  color: goldenrod;
+  color: white;
 }
 
 .footer-content span {
   text-transform: capitalize;
   font-size: 1.3rem;
   font-weight: bolder;
-  color: goldenrod;
+  color: white;
   text-decoration: underline;
 }
