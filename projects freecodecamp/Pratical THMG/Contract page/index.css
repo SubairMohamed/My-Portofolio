@@ -294,3 +294,11 @@ header {
   content: " '' ";
 }
 /* ends Templates-We-Made */
+
+#footer {
+  width: 100%;
+}
+
+.footer-content {
+  text-align: center;
+}
