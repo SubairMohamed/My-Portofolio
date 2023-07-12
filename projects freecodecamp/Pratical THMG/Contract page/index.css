@@ -322,3 +322,9 @@ header {
   text-decoration: underline;
 }
 /* ends Footer */
+
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
