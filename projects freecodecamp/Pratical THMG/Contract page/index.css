@@ -295,6 +295,7 @@ header {
 }
 /* ends Templates-We-Made */
 
+/* start Footer */
 #footer {
   width: 100%;
 }
@@ -320,3 +321,4 @@ header {
   color: white;
   text-decoration: underline;
 }
+/* ends Footer */
