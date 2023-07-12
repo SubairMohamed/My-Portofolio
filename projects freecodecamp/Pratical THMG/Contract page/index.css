@@ -232,7 +232,7 @@ header {
 /* start Templates-We-Made */
 #Templates-We-Made {
   width: 100%;
-  height: 50vh;
+  height: 100vh;
 }
 
 .template-title {
@@ -259,6 +259,7 @@ header {
   grid-gap: 30px 0px;
   justify-items: center;
   align-items: center;
+  margin-bottom: 10rem;
 }
 
 /* images */
@@ -303,9 +304,3 @@ header {
   content: " '' ";
 }
 /* ends Templates-We-Made */
-
-#footer {
-  width: 100%;
-  height: 30vh;
-  background-color: #ff40a0;
-}
