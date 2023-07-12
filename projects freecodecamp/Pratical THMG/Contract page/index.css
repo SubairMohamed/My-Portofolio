@@ -309,3 +309,10 @@ header {
   font-weight: bold;
   color: goldenrod;
 }
+
+.footer-content span {
+  text-transform: capitalize;
+  font-size: 1.3rem;
+  font-weight: bolder;
+  color: goldenrod;
+}
