@@ -303,6 +303,7 @@ header {
   text-align: center;
   background-color: #ff40a0;
   padding: 2rem;
+  border-radius: 50% 10% 0% 10%;
 }
 
 .footer-p {
