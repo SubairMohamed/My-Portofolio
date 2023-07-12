@@ -294,3 +294,8 @@ header {
   content: " '' ";
 }
 /* ends Templates-We-Made */
+
+#footer {
+  width: 100%;
+  height: 30vh;
+}
