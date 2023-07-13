@@ -321,11 +321,12 @@ header {
 
 .border {
   width: 6%;
-  height: 5%;
+  height: 3%;
   background-color: white;
   position: absolute;
   left: 47%;
   border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
 }
 
 .footer-p {
