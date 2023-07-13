@@ -296,9 +296,9 @@ header {
 /* ends Templates-We-Made */
 
 /* start Footer */
-/* #footer {
-  /* width: 100%; */
-/* } */ */
+#footer {
+   width: 100%; 
+ } 
 
 .footer-content {
   text-align: center;
@@ -312,6 +312,8 @@ header {
   font-size: 1.3rem;
   font-weight: bold;
   color: white;
+  position: relative;
+  bottom: 90px;
 }
 
 .footer-content span {
@@ -320,10 +322,13 @@ header {
   font-weight: bolder;
   color: white;
   text-decoration: underline;
+  position: relative;
+  bottom: 90px;
 }
 
 .logo-footer {
-
+ position: relative;
+ bottom: 60px;
 }
 /* ends Footer */
 
