@@ -325,6 +325,7 @@ header {
   background-color: white;
   position: absolute;
   left: 47%;
+  border-bottom-left-radius: 50px;
 }
 
 .footer-p {
