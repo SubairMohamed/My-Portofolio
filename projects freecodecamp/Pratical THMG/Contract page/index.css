@@ -296,15 +296,15 @@ header {
 /* ends Templates-We-Made */
 
 /* start Footer */
-#footer {
-  width: 100%;
-}
+/* #footer {
+  /* width: 100%; */
+/* } */ */
 
 .footer-content {
   text-align: center;
   background-color: #ff40a0;
-  padding: 2rem;
-  border-radius: 50% 10% 0% 10%;
+  /* padding: 2rem; */
+  /* border-radius: 50% 10% 0% 10%; */
 }
 
 .footer-p {
@@ -320,6 +320,10 @@ header {
   font-weight: bolder;
   color: white;
   text-decoration: underline;
+}
+
+.logo-footer {
+
 }
 /* ends Footer */
 
