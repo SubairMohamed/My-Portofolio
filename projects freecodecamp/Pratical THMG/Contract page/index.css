@@ -259,6 +259,10 @@ header {
   border-radius: 12px;
 }
 
+.caption:hover {
+  box-shadow: none;
+}
+
 /* images */
 .images-1 {
   width: 600px;
