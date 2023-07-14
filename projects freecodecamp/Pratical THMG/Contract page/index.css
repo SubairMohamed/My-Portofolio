@@ -360,7 +360,7 @@ header {
   }
 }
 
-@media only screen and (max-width: 1097px) {
+@media only screen and (max-width: 930px) {
   .content img {
     visibility: hidden;
   }
@@ -374,6 +374,9 @@ header {
   .content p {
    position: absolute;
    top: 18%;
+   /* left: 16%;
+   right: 6%; */
    font-size: 2rem;
+   
   }
 }
