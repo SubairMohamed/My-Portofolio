@@ -374,5 +374,6 @@ header {
   .content p {
    position: absolute;
    top: 18%;
+   font-size: 2rem;
   }
 }
