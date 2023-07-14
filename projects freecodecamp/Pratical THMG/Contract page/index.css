@@ -364,4 +364,15 @@ header {
   .content img {
     visibility: hidden;
   }
+
+  .content {
+    display: block;
+    justify-content: center;
+    position: relative;
+  }
+
+  .content p {
+   position: absolute;
+   top: 18%;
+  }
 }
