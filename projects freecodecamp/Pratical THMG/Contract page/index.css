@@ -367,15 +367,15 @@ header {
 
   .content {
     display: block;
-    justify-content: center;
+    /* justify-content: center; */
     position: relative;
   }
 
   .content p {
    position: absolute;
    top: 18%;
-   /* left: 16%;
-   right: 6%; */
+    left: 16%;
+   right: 8%; 
    font-size: 2rem;
    
   }
