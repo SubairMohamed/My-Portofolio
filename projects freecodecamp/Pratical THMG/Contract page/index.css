@@ -433,7 +433,7 @@ header {
 
 }
 
-/* Template Responsive */
+/* First-Template Responsive */
 @media only screen and (max-width: 1230px) {
   .wrap-caption {
     display: grid;
@@ -443,6 +443,7 @@ header {
   }
 }
 
+/* Second-Template Responsive */
 @media only screen and (max-width: 640px) {
   .wrap-caption {
     display: grid;
@@ -467,12 +468,3 @@ header {
     width: 470px;
   }
 }
-
-/* @media only screen and (max-width: 490px) {
-  .wrap-caption {
-    display: grid;
-    grid-template-columns: repeat(1, 200px);
-    justify-content: center;
-    align-items: center;
-  }
-} */
