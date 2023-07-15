@@ -420,7 +420,7 @@ header {
   }
 }
 
-
+/* Second-Card Responsive */
 @media only screen and (max-width: 1105px) {
   .cards {
     display: grid;
@@ -428,7 +428,7 @@ header {
   }
 
 }
-
+/* Template Responsive */
 @media only screen and (max-width: 1230px) {
   .wrap-caption {
     display: grid;
