@@ -386,3 +386,5 @@ header {
     padding: 0 1rem;
   }
 }
+
+@media only screen and (max-width: 1280px) {}
