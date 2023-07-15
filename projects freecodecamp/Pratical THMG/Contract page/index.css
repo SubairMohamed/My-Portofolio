@@ -413,4 +413,8 @@ header {
     width: 55%;
     height: 100%;
   }
+
+  .card-p {
+    font-size: 1.9rem;
+  }
 }
