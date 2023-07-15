@@ -360,6 +360,7 @@ header {
   }
 }
 
+/* Logo-Header Responsive */
 @media only screen and (max-width: 930px) {
   .content img {
     visibility: hidden;
