@@ -438,5 +438,29 @@ header {
   .wrap-caption {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
+    justify-items: center;
+    align-items: center;
   }
 }
+
+@media only screen and (max-width: 640px) {
+  .wrap-caption {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: center;
+    align-items: center;
+  }
+
+  .images-1 {
+    width: 470px;
+  }
+}
+
+/* @media only screen and (max-width: 490px) {
+  .wrap-caption {
+    display: grid;
+    grid-template-columns: repeat(1, 200px);
+    justify-content: center;
+    align-items: center;
+  }
+} */
