@@ -354,6 +354,7 @@ header {
 }
 /* ends Footer */
 
+/* NavBar Smooth */
 @media (prefers-reduced-motion: no-preference) {
   * {
     scroll-behavior: smooth;
