@@ -419,3 +419,12 @@ header {
     font-size: 1.9rem;
   }
 }
+
+
+@media only screen and (max-width: 1105px) {
+  .cards {
+    display: grid;
+    grid-template-columns: repeat(1, 610px);
+  }
+
+}
