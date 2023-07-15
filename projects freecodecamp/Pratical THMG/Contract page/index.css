@@ -398,4 +398,19 @@ header {
     width: 55%;
     height: 65%;
   }
+
+  .card-hammer {
+    width: 55%;
+    height: 65%;
+  }
+
+  .card-pen {
+    width: 55%;
+    height: 65%;
+  }
+
+  .card-envelope {
+    width: 55%;
+    height: 65%;
+  }
 }
