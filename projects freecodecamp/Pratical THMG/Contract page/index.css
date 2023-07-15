@@ -390,5 +390,7 @@ header {
 @media only screen and (max-width: 1280px) {
   .cards {
     display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    justify-items: center;
   }
 }
