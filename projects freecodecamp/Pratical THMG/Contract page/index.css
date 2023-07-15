@@ -454,6 +454,18 @@ header {
   .images-1 {
     width: 470px;
   }
+
+  .images-2 {
+    width: 470px;
+  }
+
+  .images-3 {
+    width: 470px;
+  }
+
+  .images-4 {
+    width: 470px;
+  }
 }
 
 /* @media only screen and (max-width: 490px) {
