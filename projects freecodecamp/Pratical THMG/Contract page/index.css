@@ -380,6 +380,7 @@ header {
   
 }
 
+/* Header Responsive */
 @media only screen and (max-width: 640px) {
   .para {
     font-size: 2rem;
@@ -429,6 +430,7 @@ header {
   }
 
 }
+
 /* Template Responsive */
 @media only screen and (max-width: 1230px) {
   .wrap-caption {
