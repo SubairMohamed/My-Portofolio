@@ -396,21 +396,21 @@ header {
 
   .card-file {
     width: 55%;
-    height: 65%;
+    height: 100%;
   }
 
   .card-hammer {
     width: 55%;
-    height: 65%;
+    height: 100%;
   }
 
   .card-pen {
     width: 55%;
-    height: 65%;
+    height: 100%;
   }
 
   .card-envelope {
     width: 55%;
-    height: 65%;
+    height: 100%;
   }
 }
