@@ -373,13 +373,12 @@ header {
   }
 
   .content p {
-   position: absolute;
-   top: 16%;
-   left: 16%;
-   right: 8%; 
-   font-size: 2.2rem;
+    position: absolute;
+    top: 16%;
+    left: 16%;
+    right: 8%;
+    font-size: 2.2rem;
   }
-  
 }
 
 /* Header Responsive */
@@ -430,7 +429,6 @@ header {
     display: grid;
     grid-template-columns: repeat(1, 610px);
   }
-
 }
 
 /* First-Template Responsive */
@@ -466,5 +464,14 @@ header {
 
   .images-4 {
     width: 470px;
+  }
+
+  .footer-content {
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+  }
+
+  .logo-footer {
+    visibility: hidden;
   }
 }
