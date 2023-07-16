@@ -479,4 +479,8 @@ header {
   .border {
     visibility: hidden;
   }
+
+  .footer-p {
+    font-size: 1.7rem;
+  }
 }
