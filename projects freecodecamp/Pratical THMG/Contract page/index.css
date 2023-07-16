@@ -474,4 +474,8 @@ header {
   .logo-footer {
     visibility: hidden;
   }
+
+  .border {
+    visibility: hidden;
+  }
 }
