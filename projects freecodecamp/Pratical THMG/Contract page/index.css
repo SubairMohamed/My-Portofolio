@@ -483,4 +483,8 @@ header {
   .footer-p {
     font-size: 1.7rem;
   }
+
+  .footer-content span {
+    font-size: 1.8rem;
+  }
 }
