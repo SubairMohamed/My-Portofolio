@@ -43,3 +43,7 @@ header {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.header-title {
+    font-size: 4rem;
+}
