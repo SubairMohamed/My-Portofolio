@@ -31,3 +31,8 @@ li a {
     text-decoration: none;
     padding: 1rem;
 }
+
+header {
+    height: 100vh;
+    background-color: #635c5c;
+}
