@@ -11,3 +11,14 @@ html {
 nav {
     background-color: #42c5f5;
 }
+
+ul li {
+    padding: 0.1rem;
+}
+
+li a {
+    font-size: 2rem;
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+}
