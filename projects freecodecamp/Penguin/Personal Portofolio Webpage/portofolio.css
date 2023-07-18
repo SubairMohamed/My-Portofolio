@@ -45,5 +45,7 @@ header {
 }
 
 .header-title {
-    font-size: 4rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    color: white;
 }
