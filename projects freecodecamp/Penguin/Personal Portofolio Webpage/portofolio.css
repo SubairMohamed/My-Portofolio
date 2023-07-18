@@ -12,8 +12,16 @@ nav {
     background-color: #42c5f5;
 }
 
+ul {
+   display: flex;
+   flex-direction: row;
+   justify-content: flex-end;
+}
+
 ul li {
     padding: 0.1rem;
+    display: flex;
+    flex-direction: row;
 }
 
 li a {
