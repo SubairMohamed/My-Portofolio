@@ -19,14 +19,15 @@ ul {
 }
 
 ul li {
-    padding: 0.1rem;
+    padding: 1rem;
     display: flex;
     flex-direction: row;
 }
 
 li a {
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: bolder;
     color: white;
     text-decoration: none;
+    padding: 1rem;
 }
