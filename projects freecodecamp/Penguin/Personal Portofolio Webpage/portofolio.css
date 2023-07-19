@@ -32,6 +32,7 @@ li a {
     padding: 1rem;
 }
 
+/* start Heading */
 header {
     height: 100vh;
     background-color: #635c5c;
@@ -56,3 +57,4 @@ header {
     padding-top: 0.8rem;
     color: #42c5f5;
 }
+/* ends Heading */
