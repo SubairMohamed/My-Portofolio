@@ -83,3 +83,10 @@ header {
 .card img {
   width: 30%;
 }
+
+.card p {
+  width: 30%;
+  font-size: 1.5rem;
+  background-color: #635c5c;
+  color: white;
+}
