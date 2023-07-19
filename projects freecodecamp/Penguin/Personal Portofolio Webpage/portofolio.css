@@ -65,3 +65,9 @@ header {
     height: 100vh;
     background-color: #2e5ca6;
 }
+
+.work-title {
+    font-size: 3rem;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
