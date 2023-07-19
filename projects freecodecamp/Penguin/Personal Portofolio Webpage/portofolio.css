@@ -62,5 +62,6 @@ header {
 /* ends Heading */
 
 .work-content {
-    background-color: #4287f5;
+    height: 100vh;
+    background-color: #2e5ca6;
 }
