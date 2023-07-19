@@ -62,7 +62,7 @@ header {
 /* ends Heading */
 
 .work-content {
-  height: 100vh;
+  height: 300vh;
   background-color: #2e5ca6;
 }
 
@@ -90,7 +90,10 @@ header {
 
 .card p {
   width: 30%;
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-weight: bold;
   background-color: #635c5c;
   color: white;
+  text-align: center;
+  padding: 1rem;
 }
