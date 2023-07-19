@@ -80,6 +80,10 @@ header {
   margin: auto;
 }
 
+.card {
+  text-decoration: none;
+}
+
 .card img {
   width: 30%;
 }
