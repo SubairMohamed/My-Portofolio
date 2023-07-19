@@ -71,4 +71,10 @@ header {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     color: white;
+    padding-bottom: 0.5rem;
+}
+
+.work-content hr {
+    width: 450px;
+    margin: auto;
 }
