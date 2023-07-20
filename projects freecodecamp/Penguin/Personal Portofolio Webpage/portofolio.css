@@ -63,7 +63,7 @@ header {
 
 /* start Work */
 .work-content {
-  height: 300vh;
+  height: 310vh;
   background-color: #2e5ca6;
 }
 
@@ -79,6 +79,10 @@ header {
 .work-content hr {
   width: 450px;
   margin: auto;
+}
+
+.cards {
+  display: grid;
 }
 
 .card {
