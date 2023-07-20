@@ -83,6 +83,8 @@ header {
 
 .cards {
   display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
 }
 
 .card {
@@ -90,16 +92,16 @@ header {
 }
 
 .card img {
-  width: 30%;
+  width: 80%;
+  height: 80%;
 }
 
 .card p {
-  width: 30%;
-  font-size: 2rem;
-  font-weight: bold;
+  width: 80%;
+  font-size: 1.75rem;
   background-color: #635c5c;
   color: white;
   text-align: center;
-  padding: 2rem;
+  padding: 1rem;
 }
 /* ends Work */
