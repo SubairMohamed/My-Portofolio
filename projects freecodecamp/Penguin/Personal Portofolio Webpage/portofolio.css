@@ -128,3 +128,8 @@ header {
   font-style: italic;
   padding-top: 1rem;
 }
+
+i {
+  font-size: 2.5rem;
+  color: white;
+}
