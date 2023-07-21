@@ -114,6 +114,7 @@ header {
   height: 85vh;
 }
 
+/* content-description */
 .content-title {
   text-align: center;
   color: white;
@@ -143,6 +144,7 @@ i {
   gap: 30px;
   padding-top: 5rem;
 }
+/* content-description */
 
 .footer {
   position: relative;
