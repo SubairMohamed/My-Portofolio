@@ -146,6 +146,7 @@ i {
 }
 /* content-description */
 
+/* Footer */
 .footer {
   position: relative;
   bottom: -150px;
@@ -173,4 +174,5 @@ i {
   padding: 0.1rem;
   border-color: #42c5f5;
 }
+/* Footer */
 /* ends Contact */
