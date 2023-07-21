@@ -138,5 +138,7 @@ i {
   display: flex;
   flex-direction: row;
   justify-content: center;
+  text-transform: capitalize;
   gap: 30px;
+  padding-top: 5rem;
 }
