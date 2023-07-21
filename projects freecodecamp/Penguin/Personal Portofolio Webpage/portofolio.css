@@ -148,6 +148,12 @@ i {
   bottom: -150px;
 }
 
+.footer-para {
+  color: white;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
 .footer hr {
   background-color: #42c5f5;
   padding: 0.1rem;
