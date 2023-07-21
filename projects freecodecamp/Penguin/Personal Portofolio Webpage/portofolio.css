@@ -154,6 +154,10 @@ i {
   font-weight: 600;
 }
 
+.footer span {
+  color: white;
+}
+
 .footer hr {
   background-color: #42c5f5;
   padding: 0.1rem;
