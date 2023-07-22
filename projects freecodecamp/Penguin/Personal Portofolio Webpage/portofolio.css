@@ -143,9 +143,11 @@ i {
   text-transform: capitalize;
   gap: 30px;
   padding-top: 5rem;
-  transition: transform 0.5s ease-in-out;
 }
 
+.icons {
+  transition: transform 0.5s ease-in-out;
+}
 .social-media:hover {
   transform: translateY(10px);
 }
