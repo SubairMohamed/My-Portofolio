@@ -91,9 +91,11 @@ header {
 }
 
 .cards {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px 50px;
 }
 
 .card {
@@ -101,12 +103,14 @@ header {
 }
 
 .card img {
-  width: 80%;
+  width: 100%;
+  max-width: 350px;
   height: 80%;
 }
 
 .card p {
-  width: 80%;
+  width: 100%;
+  max-width: 350px;
   font-size: 1.75rem;
   background-color: #635c5c;
   color: white;
