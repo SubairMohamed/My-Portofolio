@@ -134,6 +134,10 @@ header {
   margin: 4rem auto;
   cursor: pointer;
 }
+
+.card-button button:hover {
+  background-color: #42c5f5;
+}
 /* ends Work */
 
 /* start Contact */
