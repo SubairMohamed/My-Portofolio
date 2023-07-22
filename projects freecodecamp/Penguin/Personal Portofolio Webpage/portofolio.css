@@ -148,7 +148,7 @@ i {
 .icons {
   transition: transform 0.5s ease-in-out;
 }
-.social-media:hover {
+.icons:hover {
   transform: translateY(10px);
 }
 
