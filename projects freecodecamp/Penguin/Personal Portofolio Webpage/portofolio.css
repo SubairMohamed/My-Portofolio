@@ -28,6 +28,10 @@ ul li {
   flex-direction: row;
 }
 
+ul li:hover {
+  background-color: #2e5ca6;
+}
+
 li a {
   font-size: 2.5rem;
   font-weight: bolder;
