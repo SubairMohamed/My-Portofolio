@@ -11,6 +11,9 @@ html {
 /* start Navbar */
 nav {
   background-color: #42c5f5;
+  position: fixed;
+  right: 0;
+  left: 0;
 }
 
 ul {
