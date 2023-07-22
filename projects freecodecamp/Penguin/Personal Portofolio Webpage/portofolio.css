@@ -144,6 +144,11 @@ i {
   gap: 30px;
   padding-top: 5rem;
 }
+
+.social-media:hover {
+  transform: translateY(10px);
+}
+
 /* content-description */
 
 /* Footer */
