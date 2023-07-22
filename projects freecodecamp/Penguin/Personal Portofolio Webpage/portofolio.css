@@ -127,8 +127,11 @@ header {
   display: block;
   background-color: #635c5c;
   color: white;
+  font-size: 2rem;
   border: none;
+  padding: 1rem 1.5rem;
   margin: 4rem auto;
+  cursor: pointer;
 }
 /* ends Work */
 
