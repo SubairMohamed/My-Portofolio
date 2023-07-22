@@ -96,6 +96,7 @@ header {
   justify-content: center;
   flex-wrap: wrap;
   gap: 20px 50px;
+  margin-top: 6rem;
 }
 
 .card {
