@@ -129,6 +129,7 @@ header {
   color: white;
   font-size: 2rem;
   border: none;
+  border-radius: 5px;
   padding: 1rem 1.5rem;
   margin: 4rem auto;
   cursor: pointer;
