@@ -119,10 +119,16 @@ header {
   padding-top: 1.2rem;
 }
 
+.card-button {
+  text-decoration: none;
+}
+
 .card-button button {
+  display: block;
   background-color: #635c5c;
   color: white;
   border: none;
+  margin: 4rem auto;
 }
 /* ends Work */
 
