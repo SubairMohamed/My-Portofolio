@@ -138,15 +138,13 @@ header {
 
 .card-button button:hover {
   background-color: #42c5f5;
+  transform: translateX(5px);
 }
 
 .card-button button i {
   transition: transform 0.5s ease-in-out;
 }
 
-.card-button button i:hover {
-  transform: translateX(5px);
-}
 /* ends Work */
 
 /* start Contact */
