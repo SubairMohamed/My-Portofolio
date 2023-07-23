@@ -119,11 +119,11 @@ header {
   padding-top: 1.2rem;
 }
 
-.wrap-card-button {
+.wrap-card-btn {
   text-decoration: none;
 }
 
-.card-button button {
+.card-btn {
   display: block;
   background-color: #635c5c;
   color: white;
