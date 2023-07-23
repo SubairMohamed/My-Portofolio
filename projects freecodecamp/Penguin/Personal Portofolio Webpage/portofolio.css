@@ -140,11 +140,6 @@ header {
   background-color: #42c5f5;
   transform: translateX(5px);
 }
-
-.card-button button i {
-  transition: transform 0.5s ease-in-out;
-}
-
 /* ends Work */
 
 /* start Contact */
