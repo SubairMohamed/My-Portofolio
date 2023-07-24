@@ -159,11 +159,6 @@ header {
 .card-btn:hover i {
   transform: translateX(2px);
 }
-
-.fas:hover {
-  transform: translateX(5px);
-}
-*/
 /* ends Work */
 
 /* start Contact */
