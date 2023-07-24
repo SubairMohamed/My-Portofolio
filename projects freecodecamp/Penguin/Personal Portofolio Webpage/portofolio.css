@@ -123,8 +123,13 @@ header {
   text-decoration: none;
 }
 
-.card-btn {
-  display: block;
+.fas {
+  font-size: 2rem;
+}
+
+.wrap-card-btn {
+  display: inline-block;
+  justify-content: center;
   background-color: #635c5c;
   color: white;
   font-size: 2rem;
@@ -133,10 +138,10 @@ header {
   padding: 1rem 1.5rem;
   margin: 4rem auto;
   cursor: pointer;
-  transition: background-color, transform 0.5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
-.card-btn:hover {
+.wrap-card-btn:hover {
   background-color: #42c5f5;
   transform: translateX(5px);
 }
