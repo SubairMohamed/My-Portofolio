@@ -127,8 +127,8 @@ header {
   font-size: 2rem;
 }
 
-.wrap-card-btn {
-  display: inline-block;
+button {
+  display: block;
   justify-content: center;
   background-color: #635c5c;
   color: white;
@@ -141,7 +141,7 @@ header {
   transition: all 0.5s ease-in-out;
 }
 
-.wrap-card-btn:hover {
+button:hover {
   background-color: #42c5f5;
   transform: translateX(5px);
 }
