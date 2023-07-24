@@ -143,6 +143,13 @@ header {
 
 .card-btn:hover {
   background-color: #42c5f5;
+}
+
+.fas {
+  transition: transform 0.5s ease-in-out;
+}
+
+.fas:hover {
   transform: translateX(5px);
 }
 /* ends Work */
