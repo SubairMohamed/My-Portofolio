@@ -127,7 +127,7 @@ header {
   font-size: 2rem;
 }
 
-button {
+.card-btn {
   display: block;
   justify-content: center;
   background-color: #635c5c;
@@ -141,7 +141,7 @@ button {
   transition: all 0.5s ease-in-out;
 }
 
-button:hover {
+.card-btn:hover {
   background-color: #42c5f5;
   transform: translateX(5px);
 }
