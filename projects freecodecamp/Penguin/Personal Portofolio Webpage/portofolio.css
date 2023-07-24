@@ -127,6 +127,7 @@ header {
 .cards .card:hover span {
   opacity: 100%;
   color: #42c5f5;
+  transition: opacity 0.5s ease-in-out;
 }
 
 .wrap-card-btn {
