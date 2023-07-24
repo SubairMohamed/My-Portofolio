@@ -119,6 +119,15 @@ header {
   padding-top: 1.2rem;
 }
 
+.card p span {
+  opacity: 0;
+}
+
+/* .cards .card span:hover {
+  visibility: visible;
+  color: #42c5f5;
+} */
+
 .wrap-card-btn {
   text-decoration: none;
 }
