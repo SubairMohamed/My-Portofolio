@@ -209,6 +209,7 @@ i {
 
 /* Footer */
 .footer {
+  background-color: #635c5c;
   position: relative;
   bottom: -180px;
 }
