@@ -72,7 +72,7 @@ header {
 /* start Work */
 .work-content {
   width: 100%;
-  height: 150vh;
+  /* height: 150vh; */
   background-color: #2e5ca6;
 }
 
@@ -238,9 +238,3 @@ i {
 }
 /* Footer */
 /* ends Contact */
-
-@media only screen and (max-width: 1190px) {
-  .work-content {
-    height: 190vh;
-  }
-}
