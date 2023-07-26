@@ -131,8 +131,6 @@ header {
 
 .card-btn {
   text-decoration: none;
-  align-items: center;
-  justify-content: center;
 }
 
 .fas {
@@ -147,7 +145,7 @@ header {
   border: none;
   border-radius: 5px;
   padding: 1rem 1.5rem;
-  margin: 4rem auto;
+  margin: 4rem 150px;
   cursor: pointer;
   transition: background 0.3s ease-out;
 }
