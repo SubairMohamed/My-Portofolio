@@ -252,5 +252,6 @@ i {
     align-items: center;
     font-size: 1.75rem;
     gap: 10px;
+    padding-top: 1rem;
   }
 }
