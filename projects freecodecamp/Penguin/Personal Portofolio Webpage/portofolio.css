@@ -129,8 +129,10 @@ header {
   transition: opacity 0.5s ease-in-out;
 }
 
-.wrap-card-btn {
+.card-btn {
   text-decoration: none;
+  align-items: center;
+  justify-content: center;
 }
 
 .fas {
@@ -138,10 +140,7 @@ header {
 }
 
 .card-btn {
-  position: relative;
-  left: 550px;
   display: inline-block;
-  justify-content: center;
   background-color: #635c5c;
   color: white;
   font-size: 2rem;
