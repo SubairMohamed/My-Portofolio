@@ -138,8 +138,8 @@ header {
 }
 
 .card-btn {
-  /* position: relative;
-  left: 200px; */
+  position: relative;
+  left: 550px;
   display: inline-block;
   justify-content: center;
   background-color: #635c5c;
