@@ -254,4 +254,9 @@ i {
     gap: 10px;
     padding-top: 1rem;
   }
+
+  .footer span {
+    font-size: 1.5rem;
+    font-weight: bolder;
+  }
 }
