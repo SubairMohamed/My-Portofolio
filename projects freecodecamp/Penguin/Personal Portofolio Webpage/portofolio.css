@@ -138,7 +138,7 @@ header {
 }
 
 .card-btn {
-  display: block;
+  display: inline;
   justify-content: center;
   background-color: #635c5c;
   color: white;
