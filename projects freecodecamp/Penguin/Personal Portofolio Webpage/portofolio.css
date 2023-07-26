@@ -243,3 +243,14 @@ i {
 }
 /* Footer */
 /* ends Contact */
+
+@media only screen and (max-width: 850px) {
+  .footer-para {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.75rem;
+    gap: 10px;
+  }
+}
