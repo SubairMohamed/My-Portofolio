@@ -138,7 +138,9 @@ header {
 }
 
 .card-btn {
-  display: inline;
+  /* position: relative;
+  left: 200px; */
+  display: inline-block;
   justify-content: center;
   background-color: #635c5c;
   color: white;
@@ -148,14 +150,20 @@ header {
   padding: 1rem 1.5rem;
   margin: 4rem auto;
   cursor: pointer;
-  transition: all 0.6s ease-in-out;
+  transition: background 0.3s ease-out;
 }
 
 .card-btn:hover {
-  background-color: #42c5f5;
+  background: #42c5f5;
 }
 
-.card-btn:hover i {
+.card-btn > i {
+  margin-left: 5px;
+  transform: translateX(0);
+  transition: transform 0.3s ease-out;
+}
+
+.card-btn:hover > i {
   transform: translateX(2px);
 }
 /* ends Work */
