@@ -245,6 +245,12 @@ i {
 /* ends Contact */
 
 /* START RESPONSIVENESS */
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
+
 @media only screen and (max-width: 850px) {
   .footer-para {
     display: flex;
