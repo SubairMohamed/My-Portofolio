@@ -268,4 +268,7 @@ i {
     font-weight: bolder;
   }
 }
+
+@media only screen and (max-width: 762px) {
+}
 /* START RESPONSIVENESS */
