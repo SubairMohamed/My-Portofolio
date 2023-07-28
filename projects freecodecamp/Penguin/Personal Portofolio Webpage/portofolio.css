@@ -252,6 +252,17 @@ i {
   }
 }
 
+/* social-media in content */
+@media only screen and (max-width: 762px) {
+  .social-media {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+/* footer paragraphy */
 @media only screen and (max-width: 850px) {
   .footer-para {
     display: flex;
@@ -266,16 +277,6 @@ i {
   .footer span {
     font-size: 1.5rem;
     font-weight: bolder;
-  }
-}
-
-/* social-media in content */
-@media only screen and (max-width: 762px) {
-  .social-media {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
   }
 }
 /* START RESPONSIVENESS */
