@@ -270,5 +270,11 @@ i {
 }
 
 @media only screen and (max-width: 762px) {
+  .social-media {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
 /* START RESPONSIVENESS */
