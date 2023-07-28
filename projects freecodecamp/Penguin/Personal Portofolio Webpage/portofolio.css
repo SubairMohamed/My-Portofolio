@@ -269,6 +269,7 @@ i {
   }
 }
 
+/* social-media in content */
 @media only screen and (max-width: 762px) {
   .social-media {
     display: flex;
