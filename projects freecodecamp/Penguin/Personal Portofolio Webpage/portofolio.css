@@ -252,7 +252,7 @@ i {
   }
 }
 
-/* social-media in content */
+/* Social-media in content */
 @media only screen and (max-width: 762px) {
   .social-media {
     display: flex;
@@ -262,7 +262,7 @@ i {
   }
 }
 
-/* footer paragraphy */
+/* Footer paragraphy */
 @media only screen and (max-width: 850px) {
   .footer-para {
     display: flex;
