@@ -26,6 +26,7 @@ body {
 
 .nav-left > ul > li {
   list-style: none;
+  padding-top: 1rem;
 }
 
 .nav-left > ul > li > a {
