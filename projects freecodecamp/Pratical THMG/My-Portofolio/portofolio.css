@@ -29,4 +29,7 @@ body {
 
 .nav-left > ul > li > a {
   color: white;
+  font-size: 2rem;
+  font-family: "Merriweather", serif;
+  text-decoration: none;
 }
