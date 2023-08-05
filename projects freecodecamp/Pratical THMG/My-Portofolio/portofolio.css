@@ -12,3 +12,9 @@ body {
   background-color: #1c3145;
   color: #d6d187;
 }
+
+.navigation-left {
+  background-color: #2c3347;
+  width: 20%;
+  height: 100vh;
+}
