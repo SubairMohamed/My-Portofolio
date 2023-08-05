@@ -22,3 +22,7 @@ body {
 .nav-left {
   padding: 2rem;
 }
+
+.nav-left > ul > li {
+  list-style: none;
+}
