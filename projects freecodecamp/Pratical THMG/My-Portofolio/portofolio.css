@@ -26,3 +26,7 @@ body {
 .nav-left > ul > li {
   list-style: none;
 }
+
+.nav-left > ul > li > a {
+  color: white;
+}
