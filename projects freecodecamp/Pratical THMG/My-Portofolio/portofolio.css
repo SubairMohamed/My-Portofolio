@@ -35,3 +35,7 @@ body {
   font-family: "Merriweather", serif;
   text-decoration: none;
 }
+
+.description {
+  text-align: center;
+}
