@@ -51,7 +51,7 @@ body {
 .description a {
   color: white;
   text-decoration: none;
-  background-color: #d6d187;
+  background-color: rgba(214, 209, 135, 0.7);
   border-radius: 10px;
   padding: 0.5rem;
 }
