@@ -50,4 +50,6 @@ body {
 .description a {
   color: white;
   text-decoration: none;
+  background-color: #d6d187;
+  padding: 0.5rem;
 }
