@@ -43,6 +43,10 @@ body {
   font-size: 2rem;
 }
 
+.nav-para {
+  padding-bottom: 1rem;
+}
+
 .description a {
   color: white;
   text-decoration: none;
