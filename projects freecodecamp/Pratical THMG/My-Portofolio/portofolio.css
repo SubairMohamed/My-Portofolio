@@ -38,6 +38,7 @@ body {
 
 .description {
   text-align: center;
+  text-transform: capitalize;
   color: white;
   font-size: 2rem;
 }
