@@ -13,6 +13,11 @@ body {
   color: #d6d187;
 }
 
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
 .navigation-left {
   background-color: #2c3347;
   width: 20%;
