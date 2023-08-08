@@ -31,6 +31,7 @@ body {
 
 .nav-left ul li {
   list-style: none;
+  padding: 0.5rem;
 }
 
 .nav-left ul li a {
