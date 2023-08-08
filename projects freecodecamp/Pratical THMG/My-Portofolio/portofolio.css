@@ -17,7 +17,7 @@ body {
 
 .nav-left {
   width: 45%;
-  max-width: 274px;
+  /* max-width: 274px; */
   height: 100vh;
   background-color: #354866;
   text-align: center;
@@ -54,4 +54,8 @@ body {
   border: 2px solid #d6d187;
   border-radius: 20px;
   padding: 0.6rem;
+}
+
+#main-content {
+  margin-left: 4rem;
 }
