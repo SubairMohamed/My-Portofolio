@@ -22,4 +22,9 @@ body {
   width: 45%;
   height: 100vh;
   background-color: #354866;
+  text-align: center;
+}
+
+.nav-left ul {
+  margin: 8rem 0;
 }
