@@ -22,6 +22,7 @@ body {
   background-color: #354866;
   text-align: center;
   position: fixed;
+  border-top-right-radius: 20px;
 }
 
 .nav-left ul {
