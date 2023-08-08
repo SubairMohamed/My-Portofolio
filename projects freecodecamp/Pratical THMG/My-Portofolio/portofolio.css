@@ -80,5 +80,17 @@ body {
 .about-para {
   font-family: "Merriweather", serif;
   font-size: 2rem;
+  text-transform: capitalize;
+  color: white;
+  padding: 0 1.5rem;
+}
+
+.Service {
+  text-align: center;
+}
+
+.service-head {
+  font-family: "Merriweather", serif;
+  font-size: 1.5rem;
   color: white;
 }
