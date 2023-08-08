@@ -17,10 +17,11 @@ body {
 
 .nav-left {
   width: 45%;
-  /* max-width: 274px; */
+  max-width: 274px;
   height: 100vh;
   background-color: #354866;
   text-align: center;
+  position: fixed;
 }
 
 .nav-left ul {
@@ -57,5 +58,5 @@ body {
 }
 
 #main-content {
-  margin-left: 2rem;
+  margin-left: 29rem;
 }
