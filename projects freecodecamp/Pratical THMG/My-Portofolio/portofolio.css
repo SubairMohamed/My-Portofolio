@@ -20,5 +20,6 @@ body {
 
 .nav-left {
   width: 45%;
+  height: 100vh;
   background-color: #354866;
 }
