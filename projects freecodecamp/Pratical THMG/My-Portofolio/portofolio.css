@@ -20,9 +20,11 @@ body {
 
 .nav-left {
   width: 45%;
+  max-width: 274px;
   height: 100vh;
   background-color: #354866;
   text-align: center;
+  position: fixed;
 }
 
 .nav-left ul {
