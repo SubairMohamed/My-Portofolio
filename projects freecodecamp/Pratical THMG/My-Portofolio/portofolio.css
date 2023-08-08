@@ -45,3 +45,9 @@ body {
   font-size: 2rem;
   text-transform: capitalize;
 }
+
+.btn {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  text-decoration: none;
+}
