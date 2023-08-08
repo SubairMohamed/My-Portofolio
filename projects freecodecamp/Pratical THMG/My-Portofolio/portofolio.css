@@ -12,3 +12,8 @@ body {
   background-color: #1c3145;
   color: #d6d187;
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
