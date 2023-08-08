@@ -9,13 +9,10 @@ html {
 }
 
 body {
-  background-color: #1c3145;
-  color: #d6d187;
-}
-
-.container {
   display: flex;
   flex-direction: row;
+  background-color: #1c3145;
+  color: #d6d187;
 }
 
 .nav-left {
@@ -24,7 +21,6 @@ body {
   height: 100vh;
   background-color: #354866;
   text-align: center;
-  position: fixed;
 }
 
 .nav-left ul {
