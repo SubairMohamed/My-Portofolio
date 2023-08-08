@@ -17,3 +17,8 @@ body {
   display: flex;
   flex-direction: row;
 }
+
+.nav-left {
+  width: 45%;
+  background-color: #354866;
+}
