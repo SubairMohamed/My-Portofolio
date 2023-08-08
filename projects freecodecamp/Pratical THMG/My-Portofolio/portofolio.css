@@ -74,4 +74,11 @@ body {
 .about-title {
   font-family: "Merriweather", serif;
   font-size: 4rem;
+  padding-bottom: 1rem;
+}
+
+.about-para {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  color: white;
 }
