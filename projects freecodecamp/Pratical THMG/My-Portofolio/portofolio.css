@@ -28,3 +28,14 @@ body {
 .nav-left ul {
   margin: 8rem 0;
 }
+
+.nav-left ul li {
+  list-style: none;
+}
+
+.nav-left ul li a {
+  text-decoration: none;
+  color: #d6d187;
+  font-size: 2rem;
+  font-family: "Merriweather", serif;
+}
