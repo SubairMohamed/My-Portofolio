@@ -39,3 +39,9 @@ body {
   font-size: 2rem;
   font-family: "Merriweather", serif;
 }
+
+.nav-para {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  text-transform: capitalize;
+}
