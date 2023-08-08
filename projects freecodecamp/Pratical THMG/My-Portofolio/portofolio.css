@@ -70,3 +70,8 @@ body {
   text-align: center;
   margin: 4rem 0;
 }
+
+.about-title {
+  font-family: "Merriweather", serif;
+  font-size: 4rem;
+}
