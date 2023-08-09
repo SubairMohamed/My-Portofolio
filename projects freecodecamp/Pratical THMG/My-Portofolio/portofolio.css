@@ -95,6 +95,7 @@ body {
 
 .Service {
   text-align: center;
+  padding-top: 4rem;
 }
 
 .service-head {
@@ -114,4 +115,5 @@ hr {
   font-family: "Merriweather", serif;
   font-size: 4rem;
   color: var(--fontground);
+  padding-top: 1rem;
 }
