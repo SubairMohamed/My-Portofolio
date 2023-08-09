@@ -1,3 +1,8 @@
+:root {
+  --background: #1c3145;
+  --fontground: #d6d187;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
