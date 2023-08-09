@@ -99,12 +99,12 @@ body {
 .service-head {
   font-family: "Merriweather", serif;
   font-size: 1.5rem;
-  color: white;
+  color: var(--paragraphy);
   padding-bottom: 0.5rem;
 }
 
 hr {
   width: 10%;
   margin: 0 auto;
-  border-color: #d6d187;
+  border-color: var(--fontground);
 }
