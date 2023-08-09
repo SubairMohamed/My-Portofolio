@@ -81,6 +81,7 @@ body {
 .about-title {
   font-family: "Merriweather", serif;
   font-size: 4rem;
+  color: var(--fontground);
   padding-bottom: 1rem;
 }
 
