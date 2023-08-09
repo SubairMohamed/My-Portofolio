@@ -59,8 +59,8 @@ body {
   font-family: "Merriweather", serif;
   font-size: 2rem;
   text-decoration: none;
-  color: white;
-  border: 2px solid #d6d187;
+  color: var(--paragraphy);
+  border: 2px solid var(--fontground);
   border-radius: 20px;
   padding: 0.6rem;
 }
