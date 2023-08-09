@@ -150,3 +150,9 @@ hr {
   color: var(--paragraphy);
   padding-top: 1rem;
 }
+
+.icons {
+  text-decoration: none;
+  color: var(--paragraphy);
+  font-size: 3rem;
+}
