@@ -137,3 +137,9 @@ hr {
   padding-top: 7rem;
   text-align: center;
 }
+
+.contact-title {
+  font-family: "Merriweather", serif;
+  font-size: 4rem;
+  color: var(--fontground);
+}
