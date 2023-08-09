@@ -109,3 +109,9 @@ hr {
   margin: 0 auto;
   border-color: var(--fontground);
 }
+
+.service-title {
+  font-family: "Merriweather", serif;
+  font-size: 4rem;
+  color: var(--fontground);
+}
