@@ -117,3 +117,8 @@ hr {
   color: var(--fontground);
   padding-top: 1rem;
 }
+
+.service-img {
+  width: 400px;
+  height: 200px;
+}
