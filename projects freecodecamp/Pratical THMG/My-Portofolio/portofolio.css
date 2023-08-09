@@ -2,7 +2,7 @@
   --background: #1c3145;
   --fontground: #d6d187;
   --navground: #354866;
-  --paragraphy: white;
+  --paragraphy: #ffffff;
 }
 
 * {
@@ -52,7 +52,7 @@ body {
   font-size: 2rem;
   text-transform: capitalize;
   padding-bottom: 1.75rem;
-  color: white;
+  color: var(--paragraphy);
 }
 
 .btn {
