@@ -25,7 +25,7 @@ body {
   width: 45%;
   max-width: 274px;
   height: 100vh;
-  background-color: #354866;
+  background: var(--navground);
   text-align: center;
   position: fixed;
   border-top-right-radius: 20px;
