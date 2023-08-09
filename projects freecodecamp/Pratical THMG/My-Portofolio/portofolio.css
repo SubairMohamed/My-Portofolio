@@ -42,7 +42,7 @@ body {
 
 .nav-left ul li a {
   text-decoration: none;
-  color: #d6d187;
+  color: var(--fontground);
   font-size: 2rem;
   font-family: "Merriweather", serif;
 }
