@@ -18,7 +18,6 @@ body {
   display: flex;
   flex-direction: row;
   background-color: #1c3145;
-  color: #d6d187;
 }
 
 .nav-left {
@@ -52,13 +51,14 @@ body {
   font-size: 2rem;
   text-transform: capitalize;
   padding-bottom: 1.75rem;
+  color: white;
 }
 
 .btn {
   font-family: "Merriweather", serif;
   font-size: 2rem;
   text-decoration: none;
-  color: #d6d187;
+  color: white;
   border: 2px solid #d6d187;
   border-radius: 20px;
   padding: 0.6rem;
