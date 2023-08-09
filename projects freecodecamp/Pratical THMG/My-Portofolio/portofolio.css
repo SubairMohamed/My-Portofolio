@@ -118,6 +118,16 @@ hr {
   padding-top: 1rem;
 }
 
+.service-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding-top: 1rem;
+}
+
 .service-img {
   width: 400px;
   height: 200px;
