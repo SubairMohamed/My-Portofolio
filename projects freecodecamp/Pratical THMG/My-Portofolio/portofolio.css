@@ -143,3 +143,10 @@ hr {
   font-size: 4rem;
   color: var(--fontground);
 }
+
+.contact-para {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  color: var(--paragraphy);
+  padding-top: 1rem;
+}
