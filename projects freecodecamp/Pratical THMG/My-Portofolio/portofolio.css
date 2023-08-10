@@ -181,3 +181,7 @@ hr {
   margin: 2rem 0;
   text-align: center;
 }
+
+.footer-wrap {
+  color: var(--fontground);
+}
