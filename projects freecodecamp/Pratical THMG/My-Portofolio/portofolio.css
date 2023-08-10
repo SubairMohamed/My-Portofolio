@@ -178,7 +178,7 @@ hr {
 /* ends Contact */
 
 #footer {
-  margin: 2rem 0;
+  margin: 4rem 0 1rem 0;
   text-align: center;
 }
 
@@ -189,6 +189,7 @@ hr {
 
 .footer-title {
   font-size: 1.7rem;
+  text-decoration: overline;
   padding-bottom: 0.5rem;
 }
 
