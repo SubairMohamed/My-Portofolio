@@ -31,6 +31,7 @@ body {
 }
 
 .nav-left-title span {
+  color: var(--paragraphy);
 }
 
 .nav-left {
