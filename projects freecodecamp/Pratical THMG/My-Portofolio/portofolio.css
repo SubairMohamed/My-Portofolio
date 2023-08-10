@@ -183,5 +183,11 @@ hr {
 }
 
 .footer-wrap {
+  font-family: "Merriweather", serif;
   color: var(--fontground);
+}
+
+.footer-title {
+  font-size: 1.7rem;
+  padding-bottom: 0.5rem;
 }
