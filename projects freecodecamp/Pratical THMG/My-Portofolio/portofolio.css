@@ -100,6 +100,7 @@ body {
 }
 /* ends About */
 
+/* start Service */
 .Service {
   text-align: center;
   padding-top: 2rem;
@@ -139,6 +140,7 @@ hr {
   width: 400px;
   height: 200px;
 }
+/* ends Service */
 
 .Contact {
   padding-top: 4rem;
