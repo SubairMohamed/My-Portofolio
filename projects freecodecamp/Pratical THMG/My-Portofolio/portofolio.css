@@ -61,11 +61,15 @@ body {
   font-family: "Merriweather", serif;
 }
 
+.description {
+  border-top: 1px solid var(--paragraphy);
+}
+
 .nav-para {
   font-family: "Merriweather", serif;
   font-size: 2rem;
   text-transform: capitalize;
-  padding-bottom: 1.75rem;
+  padding: 1.75rem 0;
   color: var(--paragraphy);
 }
 
