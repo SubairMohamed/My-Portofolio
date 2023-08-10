@@ -78,6 +78,7 @@ body {
 }
 /* ends Heading */
 
+/* start About */
 .About {
   text-align: center;
   margin: 4rem 0;
@@ -97,6 +98,7 @@ body {
   color: var(--paragraphy);
   padding: 0 1.5rem;
 }
+/* ends About */
 
 .Service {
   text-align: center;
