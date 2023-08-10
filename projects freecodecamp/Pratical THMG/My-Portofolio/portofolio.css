@@ -152,6 +152,12 @@ hr {
   padding-bottom: 0.5rem;
 }
 
+.social-icons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 .icons {
   text-decoration: none;
   color: var(--paragraphy);
