@@ -65,6 +65,11 @@ body {
   border-radius: 20px;
   padding: 0.6rem;
 }
+
+.logo {
+  width: 50%;
+  height: 10%;
+}
 /* ends Nav-Left */
 
 /* start Main-Content */
