@@ -30,6 +30,9 @@ body {
   padding-top: 0.75rem;
 }
 
+.nav-left-title span {
+}
+
 .nav-left {
   width: 45%;
   max-width: 274px;
