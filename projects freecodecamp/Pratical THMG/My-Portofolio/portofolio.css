@@ -22,6 +22,14 @@ body {
 }
 
 /* start Nav-Left */
+.nav-left-title {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  color: var(--fontground);
+  text-transform: uppercase;
+  padding-top: 0.75rem;
+}
+
 .nav-left {
   width: 45%;
   max-width: 274px;
@@ -64,11 +72,6 @@ body {
   border: 2px solid var(--fontground);
   border-radius: 20px;
   padding: 0.6rem;
-}
-
-.logo {
-  width: 50%;
-  height: 10%;
 }
 /* ends Nav-Left */
 
