@@ -156,4 +156,5 @@ hr {
   text-decoration: none;
   color: var(--paragraphy);
   font-size: 2.5rem;
+  padding: 0.5rem;
 }
