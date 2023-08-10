@@ -177,6 +177,7 @@ hr {
 }
 /* ends Contact */
 
+/* start Footer */
 #footer {
   margin: 4rem 0 1rem 0;
   text-align: center;
@@ -196,3 +197,4 @@ hr {
 .footer-para {
   font-size: 1.2rem;
 }
+/* ends Footer */
