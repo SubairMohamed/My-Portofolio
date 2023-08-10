@@ -142,6 +142,7 @@ hr {
 }
 /* ends Service */
 
+/* start Contact */
 .Contact {
   padding-top: 4rem;
   text-align: center;
@@ -174,3 +175,4 @@ hr {
   font-size: 2.5rem;
   padding: 0.5rem;
 }
+/* ends Contact */
