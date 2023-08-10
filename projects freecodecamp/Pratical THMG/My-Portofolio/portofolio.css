@@ -19,6 +19,7 @@ body {
   display: flex;
   flex-direction: row;
   background: var(--background);
+  overflow-x: hidden;
 }
 
 /* start Nav-Left */
