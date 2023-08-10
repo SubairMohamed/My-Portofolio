@@ -149,10 +149,11 @@ hr {
   font-size: 2rem;
   color: var(--paragraphy);
   padding-top: 1rem;
+  padding-bottom: 0.5rem;
 }
 
 .icons {
   text-decoration: none;
   color: var(--paragraphy);
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
