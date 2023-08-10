@@ -21,6 +21,7 @@ body {
   background: var(--background);
 }
 
+/* start Nav-Left */
 .nav-left {
   width: 45%;
   max-width: 274px;
@@ -64,6 +65,7 @@ body {
   border-radius: 20px;
   padding: 0.6rem;
 }
+/* ends Nav-Left */
 
 #main-content {
   margin-left: 278px;
