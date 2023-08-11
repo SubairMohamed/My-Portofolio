@@ -60,6 +60,11 @@ body {
   color: var(--fontground);
   font-size: 2rem;
   font-family: "Merriweather", serif;
+  transition: font-weight 0.3s ease;
+}
+
+.nav-left ul li a:hover {
+  font-weight: 700;
 }
 
 .description {
