@@ -97,7 +97,7 @@ body {
 /* ends Heading */
 
 /* start About */
-.About {
+#About {
   text-align: center;
   margin: 4rem 0;
 }
