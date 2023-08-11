@@ -216,3 +216,10 @@ hr {
   font-size: 1.2rem;
 }
 /* ends Footer */
+
+/* Media */
+@media (prefers-reduced-motion: no-preference) {
+  * {
+    scroll-behavior: smooth;
+  }
+}
