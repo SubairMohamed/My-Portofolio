@@ -33,6 +33,8 @@ body {
 
 .sub-header {
   padding-left: 25px;
+  position: absolute;
+  bottom: 360px;
 }
 
 .sub-header h4 {
