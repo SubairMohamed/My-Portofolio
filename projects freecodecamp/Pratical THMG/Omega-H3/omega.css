@@ -63,3 +63,7 @@ main {
 .blue {
   color: blue;
 }
+
+.bold {
+  font-weight: bolder;
+}
