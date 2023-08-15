@@ -1,3 +1,9 @@
 * {
   box-sizing: border-box;
 }
+
+body {
+  border: 8px solid red;
+  width: 370px;
+  margin: 20px auto;
+}
