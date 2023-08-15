@@ -25,4 +25,5 @@ body {
   font-size: 25px;
   color: blue;
   text-decoration: overline underline;
+  text-transform: capitalize;
 }
