@@ -41,3 +41,9 @@ body {
   text-transform: capitalize;
   padding-left: 12px;
 }
+
+.sub-header h3 {
+  font-size: 19px;
+  color: blue;
+  text-transform: capitalize;
+}
