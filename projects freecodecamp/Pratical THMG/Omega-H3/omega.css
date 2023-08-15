@@ -51,3 +51,7 @@ body {
   text-transform: capitalize;
   line-height: 0px;
 }
+
+.paragraphys:first-of-type {
+  padding-top: 25px;
+}
