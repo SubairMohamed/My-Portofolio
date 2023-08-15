@@ -52,6 +52,10 @@ body {
   line-height: 0px;
 }
 
+main {
+  padding: 0 6px;
+}
+
 .paragraphys:first-of-type {
   padding-top: 25px;
 }
