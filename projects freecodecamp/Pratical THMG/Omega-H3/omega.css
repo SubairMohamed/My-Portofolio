@@ -15,3 +15,8 @@ body {
 .image-2 {
   width: 50%;
 }
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
