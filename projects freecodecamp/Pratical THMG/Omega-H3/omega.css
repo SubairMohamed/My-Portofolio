@@ -40,10 +40,12 @@ body {
   font-size: 18px;
   text-transform: capitalize;
   padding-left: 12px;
+  line-height: 0px;
 }
 
 .sub-header h3 {
   font-size: 19px;
   color: blue;
   text-transform: capitalize;
+  line-height: 0px;
 }
