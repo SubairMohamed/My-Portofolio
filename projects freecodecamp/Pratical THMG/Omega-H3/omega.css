@@ -22,11 +22,17 @@ body {
 }
 
 .title-header {
-  font-size: 25px;
+  font-size: 23px;
   color: blue;
   text-decoration: overline underline;
-  text-transform: capitalize;
+  text-transform: uppercase;
   position: absolute;
   top: 180px;
   padding-left: 17px;
+}
+
+.sub-header h4 {
+  color: blue;
+  font-size: 20px;
+  text-transform: capitalize;
 }
