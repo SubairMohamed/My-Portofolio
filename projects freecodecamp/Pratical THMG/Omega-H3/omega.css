@@ -26,4 +26,7 @@ body {
   color: blue;
   text-decoration: overline underline;
   text-transform: capitalize;
+  position: absolute;
+  top: 180px;
+  padding-left: 17px;
 }
