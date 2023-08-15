@@ -59,3 +59,7 @@ main {
 .paragraphys:first-of-type {
   padding-top: 25px;
 }
+
+.blue {
+  color: blue;
+}
