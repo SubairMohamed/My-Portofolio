@@ -82,3 +82,7 @@ fieldset .blue {
 li {
   text-transform: capitalize;
 }
+
+.space-top {
+  padding-top: 15px;
+}
