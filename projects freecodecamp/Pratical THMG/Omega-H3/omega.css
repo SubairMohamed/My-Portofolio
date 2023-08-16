@@ -92,9 +92,15 @@ li {
   flex-direction: column;
   background-color: blue;
   color: white;
+  font-size: 12px;
+  text-align: right;
   border-radius: 20px;
   position: absolute;
   bottom: -54%;
   left: 54%;
   padding: 3px 8px;
+}
+
+.flex-column i {
+  font-size: 17px;
 }
