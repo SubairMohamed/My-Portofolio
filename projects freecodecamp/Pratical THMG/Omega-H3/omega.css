@@ -90,6 +90,8 @@ li {
 .flex-column {
   display: flex;
   flex-direction: column;
+  background-color: blue;
+  color: white;
   position: absolute;
   bottom: -54%;
   left: 54%;
