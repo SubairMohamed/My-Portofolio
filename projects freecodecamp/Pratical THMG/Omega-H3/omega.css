@@ -76,4 +76,9 @@ fieldset .blue {
   font-size: 20px;
   font-weight: bolder;
   text-transform: uppercase;
+  line-height: 0;
+}
+
+li {
+  text-transform: capitalize;
 }
