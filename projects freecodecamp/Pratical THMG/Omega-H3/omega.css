@@ -90,4 +90,7 @@ li {
 .flex-column {
   display: flex;
   flex-direction: column;
+  position: absolute;
+  bottom: -54%;
+  left: 54%;
 }
