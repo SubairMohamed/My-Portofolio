@@ -92,8 +92,9 @@ li {
   flex-direction: column;
   background-color: blue;
   color: white;
+  border-radius: 20px;
   position: absolute;
   bottom: -54%;
   left: 54%;
-  padding: 3px 6px;
+  padding: 3px 8px;
 }
