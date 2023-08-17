@@ -230,11 +230,20 @@ hr {
 }
 
 @media only screen and (max-width: 1080px) {
-  .nav-left {
-    visibility: hidden;
-  }
-
   #main-content {
     margin-left: 0px;
+  }
+
+  .nav-left {
+    width: 100%;
+
+    height: 50vh;
+    position: absolute;
+    top: 0;
+    float: top;
+  }
+
+  .header-img {
+    margin-top: 45%;
   }
 }
