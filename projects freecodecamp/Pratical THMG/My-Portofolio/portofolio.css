@@ -228,21 +228,3 @@ hr {
     scroll-behavior: smooth;
   }
 }
-
-@media only screen and (max-width: 1080px) {
-  #main-content {
-    margin-left: 0px;
-  }
-
-  .nav-left {
-    width: 100%;
-    position: absolute;
-    top: 0;
-    float: top;
-    background: var(--background);
-  }
-
-  .header-img {
-    margin-top: 45%;
-  }
-}
