@@ -95,6 +95,15 @@ body {
   margin-left: 278px;
 }
 
+.main-nav-title {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  color: var(--fontground);
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--paragraphy);
+  padding-top: 0.75rem;
+}
+
 /* start Heading */
 .header-img {
   width: 100%;
