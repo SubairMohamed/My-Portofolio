@@ -95,6 +95,7 @@ body {
   margin-left: 278px;
 }
 
+/* start Main-Nav */
 .main-nav-title {
   font-family: "Merriweather", serif;
   font-size: 2rem;
@@ -107,6 +108,7 @@ body {
 .main-nav-title span {
   color: var(--paragraphy);
 }
+/* end Main-Nav */
 
 /* start Heading */
 .header-img {
