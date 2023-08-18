@@ -104,6 +104,10 @@ body {
   padding-top: 0.75rem;
 }
 
+.main-nav-title span {
+  color: var(--paragraphy);
+}
+
 /* start Heading */
 .header-img {
   width: 100%;
