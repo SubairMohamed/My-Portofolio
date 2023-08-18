@@ -108,6 +108,27 @@ body {
 .main-nav-title span {
   color: var(--paragraphy);
 }
+
+.main-nav .main-ul {
+  margin: 8rem 0;
+}
+
+.main-nav .main-ul li {
+  list-style: none;
+  padding: 0.5rem;
+}
+
+.main-nav .main-ul li a {
+  text-decoration: none;
+  color: var(--fontground);
+  font-size: 2rem;
+  font-family: "Merriweather", serif;
+  transition: font-weight 0.3s ease;
+}
+
+.main-nav .main-ul li a:hover {
+  font-weight: 700;
+}
 /* end Main-Nav */
 
 /* start Heading */
@@ -244,9 +265,9 @@ hr {
   }
 }
 
-@media only screen and (max-width: 1360px) {
+/* @media only screen and (max-width: 1360px) {
   .main-ul,
   .main-description {
     visibility: hidden;
   }
-}
+} */
