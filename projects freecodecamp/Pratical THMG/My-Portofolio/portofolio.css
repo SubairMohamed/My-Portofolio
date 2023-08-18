@@ -229,7 +229,7 @@ hr {
   }
 }
 
-@media only screen and (max-width: 1350px) {
+@media only screen and (max-width: 1360px) {
   .main-nav {
     visibility: hidden;
   }
