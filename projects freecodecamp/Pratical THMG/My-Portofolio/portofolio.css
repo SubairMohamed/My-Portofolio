@@ -229,5 +229,8 @@ hr {
   }
 }
 
-@media only screen and (max-width: 1324px) {
+@media only screen and (max-width: 1330px) {
+  .main-nav {
+    visibility: hidden;
+  }
 }
