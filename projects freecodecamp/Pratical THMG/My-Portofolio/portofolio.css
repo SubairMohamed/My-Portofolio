@@ -158,6 +158,10 @@ body {
   border-radius: 20px;
   padding: 0.6rem;
 }
+
+.main-btn:hover {
+  background-color: var(--navground);
+}
 /* end Main-Nav */
 
 /* start Heading */
