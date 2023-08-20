@@ -135,6 +135,14 @@ body {
 .main-nav .main-ul li a:hover {
   font-weight: 700;
 }
+
+.nav-para {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  text-transform: capitalize;
+  padding: 1.75rem 0;
+  color: var(--paragraphy);
+}
 /* end Main-Nav */
 
 /* start Heading */
