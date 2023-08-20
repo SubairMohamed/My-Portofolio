@@ -116,6 +116,7 @@ body {
 .main-ul {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .main-nav .main-ul li {
