@@ -88,6 +88,10 @@ body {
   border-radius: 20px;
   padding: 0.6rem;
 }
+
+.btn:hover {
+  background-color: var(--background);
+}
 /* ends Nav-Left */
 
 /* start Main-Content */
