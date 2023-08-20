@@ -101,7 +101,8 @@ body {
   font-size: 2rem;
   color: var(--fontground);
   text-transform: uppercase;
-  padding-top: 0.75rem;
+  text-align: center;
+  padding-top: 2rem;
 }
 
 .main-nav-title span {
