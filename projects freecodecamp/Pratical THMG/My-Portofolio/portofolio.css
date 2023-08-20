@@ -143,6 +143,16 @@ body {
   padding: 1.75rem 0;
   color: var(--paragraphy);
 }
+
+.main-btn {
+  font-family: "Merriweather", serif;
+  font-size: 2rem;
+  text-decoration: none;
+  color: var(--paragraphy);
+  border: 2px solid var(--fontground);
+  border-radius: 20px;
+  padding: 0.6rem;
+}
 /* end Main-Nav */
 
 /* start Heading */
