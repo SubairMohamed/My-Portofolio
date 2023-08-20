@@ -113,6 +113,10 @@ body {
   margin: 2rem 0;
 }
 
+.main-ul {
+  display: flex;
+}
+
 .main-nav .main-ul li {
   list-style: none;
   padding: 0.5rem;
