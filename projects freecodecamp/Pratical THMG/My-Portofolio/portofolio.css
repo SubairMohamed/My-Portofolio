@@ -136,6 +136,10 @@ body {
   font-weight: 700;
 }
 
+.main-description {
+  margin-bottom: 4rem;
+}
+
 .main-para {
   font-family: "Merriweather", serif;
   font-size: 2rem;
