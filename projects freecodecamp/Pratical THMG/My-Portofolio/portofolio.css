@@ -115,6 +115,7 @@ body {
 
 .main-ul {
   display: flex;
+  flex-direction: row;
 }
 
 .main-nav .main-ul li {
