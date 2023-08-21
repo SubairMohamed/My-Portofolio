@@ -346,4 +346,9 @@ hr {
   .header-img {
     margin-top: 0rem;
   }
+
+  .main-nav-title {
+    position: relative;
+    bottom: 1rem;
+  }
 }
