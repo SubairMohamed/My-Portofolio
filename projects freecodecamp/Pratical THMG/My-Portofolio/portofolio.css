@@ -337,4 +337,9 @@ hr {
   #main-content {
     margin-left: 0px;
   }
+
+  .main-ul,
+  .main-description {
+    visibility: visible;
+  }
 }
