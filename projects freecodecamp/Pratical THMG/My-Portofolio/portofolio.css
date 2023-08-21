@@ -307,4 +307,8 @@ hr {
   .main-description {
     visibility: hidden;
   }
+
+  .header-img {
+    margin-top: -8rem;
+  }
 }
