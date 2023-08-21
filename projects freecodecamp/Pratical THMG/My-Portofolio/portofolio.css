@@ -342,4 +342,8 @@ hr {
   .main-description {
     visibility: visible;
   }
+
+  .header-img {
+    margin-top: 0rem;
+  }
 }
