@@ -113,6 +113,12 @@ body {
   color: var(--paragraphy);
 }
 
+.main-line {
+  width: 10%;
+  margin: 0 auto;
+  border-color: var(--fontground);
+}
+
 .main-nav .main-ul {
   margin: 2rem 0;
 }
@@ -313,6 +319,11 @@ hr {
   }
 
   .main-nav-title {
+    position: relative;
+    bottom: -6rem;
+  }
+
+  .main-line {
     position: relative;
     bottom: -6rem;
   }
