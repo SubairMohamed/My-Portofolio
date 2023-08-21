@@ -351,4 +351,9 @@ hr {
     position: relative;
     bottom: 1rem;
   }
+
+  .main-line {
+    position: relative;
+    bottom: 1rem;
+  }
 }
