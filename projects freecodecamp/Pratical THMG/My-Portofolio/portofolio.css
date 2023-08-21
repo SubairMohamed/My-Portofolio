@@ -330,4 +330,7 @@ hr {
 }
 
 @media only screen and (max-width: 1087px) {
+  .nav-left {
+    visibility: hidden;
+  }
 }
