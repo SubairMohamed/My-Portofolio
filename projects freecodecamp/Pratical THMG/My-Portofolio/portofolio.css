@@ -318,11 +318,7 @@ hr {
     margin-top: -8rem;
   }
 
-  .main-nav-title {
-    position: relative;
-    bottom: -6rem;
-  }
-
+  .main-nav-title,
   .main-line {
     position: relative;
     bottom: -6rem;
