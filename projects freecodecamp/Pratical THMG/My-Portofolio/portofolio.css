@@ -302,9 +302,9 @@ hr {
   }
 }
 
-/* @media only screen and (max-width: 1360px) {
+@media only screen and (max-width: 1360px) {
   .main-ul,
   .main-description {
     visibility: hidden;
   }
-} */
+}
