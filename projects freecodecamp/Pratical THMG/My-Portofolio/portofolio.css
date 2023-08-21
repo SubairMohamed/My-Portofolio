@@ -333,4 +333,8 @@ hr {
   .nav-left {
     visibility: hidden;
   }
+
+  #main-content {
+    margin-left: 0px;
+  }
 }
