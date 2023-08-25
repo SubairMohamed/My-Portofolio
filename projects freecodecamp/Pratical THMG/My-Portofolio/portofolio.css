@@ -357,4 +357,7 @@ hr {
 }
 
 @media only screen and (max-width: 510px) {
+  .main-para {
+    font-size: 3rem;
+  }
 }
