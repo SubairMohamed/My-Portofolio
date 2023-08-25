@@ -355,3 +355,6 @@ hr {
     font-size: 1.75rem;
   }
 }
+
+@media only screen and (max-width: 510px) {
+}
