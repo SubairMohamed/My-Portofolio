@@ -102,7 +102,7 @@ body {
 /* start Main-Nav */
 .main-nav-title {
   font-family: "Merriweather", serif;
-  font-size: 2rem;
+  font-size: 3rem;
   color: var(--fontground);
   text-transform: uppercase;
   text-align: center;
