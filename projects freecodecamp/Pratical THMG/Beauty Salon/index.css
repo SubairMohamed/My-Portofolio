@@ -10,4 +10,6 @@ body {
 
 .container {
   background: #c98340;
+  width: 90%;
+  height: 80vh;
 }
