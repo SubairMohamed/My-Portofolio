@@ -26,6 +26,11 @@ header {
   justify-content: space-between;
 }
 
+nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
 ul li {
   list-style: none;
 }
