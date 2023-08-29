@@ -20,6 +20,10 @@ html {
   margin-top: 4.5rem;
 }
 
+ul li {
+  list-style: none;
+}
+
 ul li a {
   text-decoration: none;
 }
