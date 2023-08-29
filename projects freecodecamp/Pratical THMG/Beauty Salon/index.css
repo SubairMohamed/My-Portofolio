@@ -30,3 +30,9 @@ ul li a {
   color: white;
   text-transform: uppercase;
 }
+
+.nav-title {
+  font-size: 2rem;
+  color: white;
+  text-transform: uppercase;
+}
