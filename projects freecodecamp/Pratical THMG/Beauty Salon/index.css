@@ -8,9 +8,14 @@ body {
   background: #f0c297;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 .container {
   background: #c98340;
   width: 90%;
   height: 85vh;
   margin: auto;
+  /* padding-top: 2; */
 }
