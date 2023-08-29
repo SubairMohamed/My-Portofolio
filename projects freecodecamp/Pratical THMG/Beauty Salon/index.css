@@ -42,3 +42,8 @@ ul li a {
   color: white;
   text-transform: uppercase;
 }
+
+.fas {
+  font-size: 1.3rem;
+  color: white;
+}
