@@ -67,3 +67,12 @@ ul li a {
 .icons {
   padding: 1.1rem 1rem 0 0;
 }
+
+.text-main-right {
+  color: white;
+}
+
+.para-main {
+  font-size: 1.4rem;
+  text-transform: uppercase;
+}
