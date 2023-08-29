@@ -29,6 +29,7 @@ header {
 nav ul {
   display: flex;
   flex-direction: row;
+  gap: 10px;
 }
 
 ul li {
