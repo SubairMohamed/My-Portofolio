@@ -20,6 +20,12 @@ html {
   margin-top: 4.5rem;
 }
 
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 ul li {
   list-style: none;
 }
