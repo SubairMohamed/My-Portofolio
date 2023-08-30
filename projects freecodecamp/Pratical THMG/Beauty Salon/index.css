@@ -95,16 +95,16 @@ ul li a {
 }
 
 .salon {
-  width: 500px;
-  margin: 0 12rem;
-  border-radius: 15% 82% 18% 85% / 15% 82% 18% 85%;
+  width: 400px;
+  margin: 0 4rem;
+  border-radius: 26% 74% 25% 75% / 23% 72% 28% 77%;
 }
 
 .round {
   background-color: #f0c297;
-  width: 50%;
+  width: 40%;
   margin: auto;
-  border-radius: 15% 82% 18% 85% / 15% 82% 18% 85%;
+  border-radius: 26% 74% 25% 75% / 23% 72% 28% 77%;
 }
 
 .cream {
