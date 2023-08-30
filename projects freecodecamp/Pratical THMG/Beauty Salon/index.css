@@ -71,6 +71,7 @@ ul li a {
 
 .text-main-right {
   color: white;
+  text-align: right;
 }
 
 .para-main {
@@ -92,6 +93,8 @@ ul li a {
   width: 20%;
   font-size: 1.2rem;
   padding-top: 1rem;
+  position: relative;
+  left: 200px;
 }
 
 .salon {
