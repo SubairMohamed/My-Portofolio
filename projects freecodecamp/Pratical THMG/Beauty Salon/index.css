@@ -102,8 +102,9 @@ ul li a {
 
 .round {
   background-color: #f0c297;
-  width: 60%;
+  width: 50%;
   margin: auto;
+  border-radius: 15% 82% 18% 85% / 15% 82% 18% 85%;
 }
 
 .cream {
