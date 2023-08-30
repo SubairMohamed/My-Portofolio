@@ -101,3 +101,9 @@ img {
 .cream {
   height: 300px;
 }
+
+.round {
+  background-color: #f0c297;
+  width: 60%;
+  margin: auto;
+}
