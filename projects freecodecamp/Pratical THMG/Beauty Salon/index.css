@@ -94,16 +94,17 @@ ul li a {
   padding-top: 1rem;
 }
 
-img {
+.salon {
   width: 500px;
-}
-
-.cream {
-  height: 300px;
+  margin: 0 auto;
 }
 
 .round {
   background-color: #f0c297;
   width: 60%;
   margin: auto;
+}
+
+.cream {
+  height: 300px;
 }
