@@ -72,17 +72,20 @@ ul li a {
 .text-main-right {
   color: white;
   text-align: right;
+  padding-top: 2rem;
 }
 
 .para-main {
   font-size: 1.4rem;
   text-transform: uppercase;
   padding-bottom: 1rem;
+  margin-right: 21rem;
 }
 
 .title-main {
   font-size: 1.5rem;
   text-transform: uppercase;
+  margin-right: 21rem;
 }
 
 .title-main i {
