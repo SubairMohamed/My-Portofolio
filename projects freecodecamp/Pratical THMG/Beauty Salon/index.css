@@ -97,6 +97,7 @@ ul li a {
 .salon {
   width: 500px;
   margin: 0 12rem;
+  border-radius: 15% 82% 18% 85% / 15% 82% 18% 85%;
 }
 
 .round {
