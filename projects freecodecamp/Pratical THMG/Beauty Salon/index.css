@@ -93,3 +93,11 @@ ul li a {
   font-size: 1.2rem;
   padding-top: 1rem;
 }
+
+img {
+  width: 500px;
+}
+
+.cream {
+  height: 300px;
+}
