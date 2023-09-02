@@ -121,4 +121,5 @@ ul li a {
   font-size: 6rem;
   color: white;
   text-align: center;
+  text-transform: capitalize;
 }
