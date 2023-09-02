@@ -118,6 +118,7 @@ ul li a {
 }
 
 .title {
+  font-family: "Playfair Display", serif;
   font-size: 6rem;
   color: white;
   text-align: center;
