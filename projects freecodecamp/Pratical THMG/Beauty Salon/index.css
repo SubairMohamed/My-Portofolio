@@ -121,9 +121,10 @@ ul li a {
 .title {
   width: 50%;
   position: relative;
-  bottom: 200px;
+  bottom: 100px;
+  left: 250px;
   font-family: "Playfair Display", serif;
-  font-size: 6rem;
+  font-size: 5.5rem;
   color: white;
   text-align: center;
   text-transform: capitalize;
