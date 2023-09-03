@@ -102,14 +102,14 @@ ul li a {
 }
 
 .salon {
-  width: 450px;
-  margin: 0 4rem;
+  width: 420px;
+  margin: 0 5rem;
   border-radius: 26% 74% 25% 75% / 23% 72% 28% 77%;
 }
 
 .round {
   background-color: #f0c297;
-  width: 40%;
+  width: 50%;
   margin: auto;
   border-radius: 26% 74% 25% 75% / 23% 72% 28% 77%;
 }
