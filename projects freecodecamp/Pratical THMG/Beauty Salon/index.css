@@ -79,13 +79,13 @@ ul li a {
   font-size: 1.4rem;
   text-transform: uppercase;
   padding-bottom: 1rem;
-  margin-right: 38rem;
+  margin-right: 26rem;
 }
 
 .title-main {
   font-size: 1.5rem;
   text-transform: uppercase;
-  margin-right: 21rem;
+  margin-right: 12rem;
 }
 
 .title-main i {
@@ -93,11 +93,12 @@ ul li a {
 }
 
 .para-main-two {
+  text-align: left;
   width: 20%;
   font-size: 1.2rem;
   padding-top: 1rem;
   position: relative;
-  left: 780px;
+  left: 730px;
 }
 
 .salon {
