@@ -120,6 +120,8 @@ ul li a {
 
 .title {
   width: 50%;
+  position: relative;
+  bottom: 200px;
   font-family: "Playfair Display", serif;
   font-size: 6rem;
   color: white;
