@@ -114,6 +114,10 @@ ul li a {
   border-radius: 26% 74% 25% 75% / 23% 72% 28% 77%;
 }
 
+.circle {
+  background: #f0c297;
+}
+
 .cream {
   height: 150px;
 }
