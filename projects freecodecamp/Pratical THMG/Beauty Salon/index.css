@@ -116,11 +116,12 @@ ul li a {
 
 .circle {
   background: #f0c297;
-  width: 30%;
+  width: 20%;
 }
 
 .cream {
   height: 150px;
+  margin: auto;
 }
 
 .title {
