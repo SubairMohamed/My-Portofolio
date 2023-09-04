@@ -118,12 +118,13 @@ ul li a {
   background: #f0c297;
   width: 20%;
   position: relative;
+  left: 50px;
   bottom: 100px;
 }
 
 .cream {
   height: 150px;
-  margin: auto;
+  margin: 0 5rem;
 }
 
 .title {
