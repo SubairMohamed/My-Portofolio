@@ -116,16 +116,16 @@ ul li a {
 
 .circle {
   background: #f0c297;
-  width: 20%;
-  height: 200px;
+  width: 15%;
+  height: 150px;
   position: relative;
-  left: 740px;
+  left: 840px;
   bottom: 220px;
   border-radius: 50%;
 }
 
 .cream {
-  height: 130px;
+  height: 110px;
   margin: 3rem 6rem;
   border-radius: 50%;
 }
