@@ -120,11 +120,13 @@ ul li a {
   position: relative;
   left: 50px;
   bottom: 100px;
+  border-radius: 50%;
 }
 
 .cream {
-  height: 150px;
-  margin: 0 5rem;
+  height: 100px;
+  margin: 0 7rem;
+  border-radius: 50%;
 }
 
 .title {
