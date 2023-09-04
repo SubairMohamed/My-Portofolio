@@ -117,6 +117,8 @@ ul li a {
 .circle {
   background: #f0c297;
   width: 20%;
+  position: relative;
+  bottom: 100px;
 }
 
 .cream {
