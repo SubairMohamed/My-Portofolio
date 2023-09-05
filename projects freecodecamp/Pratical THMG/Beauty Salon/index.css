@@ -30,7 +30,6 @@ header {
   justify-content: space-between;
   padding: 2rem;
 }
-/* ends header */
 
 nav ul {
   display: flex;
@@ -73,6 +72,7 @@ ul li a {
 .icons {
   padding: 1.1rem 1rem 0 0;
 }
+/* ends header */
 
 .text-main-right {
   color: white;
