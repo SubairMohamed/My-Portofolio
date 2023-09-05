@@ -23,6 +23,7 @@ html {
 }
 /* end wrap */
 
+/* start header */
 header {
   display: flex;
   flex-direction: row;
