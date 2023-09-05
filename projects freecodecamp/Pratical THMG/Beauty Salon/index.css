@@ -13,6 +13,7 @@ html {
   font-size: 62.5%;
 }
 
+/* wrap */
 .container {
   background: #c98340;
   width: 80%;
@@ -20,6 +21,7 @@ html {
   margin: auto;
   margin-top: 4.5rem;
 }
+/* end wrap */
 
 header {
   display: flex;
