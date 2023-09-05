@@ -30,6 +30,7 @@ header {
   justify-content: space-between;
   padding: 2rem;
 }
+/* ends header */
 
 nav ul {
   display: flex;
