@@ -13,6 +13,13 @@ html {
   font-size: 62.5%;
 }
 
+.video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+}
+
 /* wrap */
 .container {
   background: #c98340;
@@ -148,3 +155,17 @@ ul li a {
   text-transform: capitalize;
 }
 /* ends main */
+
+@media (min-aspect-ratio: 16/9) {
+  .video {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  .video {
+    width: auto;
+    height: 100%;
+  }
+}
