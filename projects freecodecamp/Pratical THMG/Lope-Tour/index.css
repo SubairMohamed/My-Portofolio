@@ -12,6 +12,12 @@ body {
   font-family: LabGrotesque, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
+.icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
 .text-logo {
   font-size: 3rem;
   font-weight: bolder;
