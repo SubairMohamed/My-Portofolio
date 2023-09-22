@@ -8,6 +8,11 @@ html {
   font-size: 62.5%;
 }
 
+.text-logo {
+  font-size: 4rem;
+  text-decoration: none;
+}
+
 .logo {
   width: 5%;
 }
