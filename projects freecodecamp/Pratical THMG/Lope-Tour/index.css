@@ -8,13 +8,17 @@ html {
   font-size: 62.5%;
 }
 
+body {
+  font-family: LabGrotesque, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
 .text-logo {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: bolder;
   text-decoration: none;
   color: #333;
 }
 
 .logo {
-  width: 5%;
+  width: 4%;
 }
