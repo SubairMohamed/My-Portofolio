@@ -39,7 +39,10 @@ nav ul li a {
   color: #767676;
 }
 
+.btn a {
+  text-decoration: none;
+}
+
 .btn {
   border: none;
-  text-decoration: none;
 }
