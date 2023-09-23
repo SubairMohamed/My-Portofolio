@@ -23,6 +23,8 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
+  background-color: #767676;
+  width: min-content;
 }
 
 .text-logo {
@@ -55,7 +57,6 @@ nav ul li a {
   align-items: center;
   gap: 30px;
   padding: 2.5rem;
-  margin-right: 10rem;
 }
 
 .btn a {
