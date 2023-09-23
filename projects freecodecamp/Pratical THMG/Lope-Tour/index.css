@@ -47,10 +47,10 @@ nav ul li a {
   color: #767676;
 }
 
-ul {
+.nav-head {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 
 .btn a {
