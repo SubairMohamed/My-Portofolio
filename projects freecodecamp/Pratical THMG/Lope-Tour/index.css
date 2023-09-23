@@ -38,6 +38,7 @@ body {
 
 nav ul li {
   font-size: 1.75rem;
+  font-weight: normal;
   list-style: none;
 }
 
