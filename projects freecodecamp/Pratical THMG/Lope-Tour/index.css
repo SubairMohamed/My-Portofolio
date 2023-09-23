@@ -12,6 +12,13 @@ body {
   font-family: LabGrotesque, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
+#Heading {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
 .icon {
   display: flex;
   flex-direction: row;
