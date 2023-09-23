@@ -15,7 +15,7 @@ body {
 #Heading {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   align-items: center;
 }
 
@@ -51,10 +51,11 @@ nav ul li a {
 .nav-head {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
-  gap: 20px;
+  gap: 30px;
   padding: 2.5rem;
+  margin-right: 10rem;
 }
 
 .btn a {
