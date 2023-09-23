@@ -55,7 +55,7 @@ nav ul li a {
   flex-direction: row;
   justify-content: start;
   align-items: center;
-  gap: 30px;
+  gap: 40px;
   padding: 2.5rem;
 }
 
