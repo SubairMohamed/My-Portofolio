@@ -38,3 +38,8 @@ nav ul li a {
   text-transform: capitalize;
   color: #767676;
 }
+
+.btn {
+  border: none;
+  text-decoration: none;
+}
