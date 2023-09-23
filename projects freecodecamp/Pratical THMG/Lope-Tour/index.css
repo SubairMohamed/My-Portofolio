@@ -46,6 +46,7 @@ nav ul li {
 nav ul li a {
   text-decoration: none;
   text-transform: capitalize;
+  letter-spacing: 1px;
   color: #767676;
 }
 
