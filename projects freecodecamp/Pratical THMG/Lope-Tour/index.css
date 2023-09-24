@@ -107,8 +107,10 @@ nav ul li a {
 
 .frame {
   text-align: center;
-  background-color: #e0e0e0;
+  background-color: #e2e5de;
   padding-bottom: 6rem;
+  margin: auto;
+  width: 70%;
 }
 
 .main-bottom {
