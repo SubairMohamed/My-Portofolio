@@ -86,3 +86,8 @@ nav ul li a {
   text-align: center;
   padding-bottom: 4rem;
 }
+
+.title {
+  font-size: 6rem;
+  color: #333;
+}
