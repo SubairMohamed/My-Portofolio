@@ -119,4 +119,9 @@ embed {
 
 .main-bottom {
   text-align: center;
+  padding-top: 6rem;
+}
+
+.last-title {
+  font-size: 4rem;
 }
