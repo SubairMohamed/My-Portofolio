@@ -81,3 +81,7 @@ nav ul li a {
 #Main {
   padding-top: 16rem;
 }
+
+.main-title {
+  text-align: center;
+}
