@@ -108,13 +108,13 @@ nav ul li a {
 .frame {
   text-align: center;
   background-color: #e2e5de;
+  border-radius: 22px;
   margin: auto;
   width: 65%;
 }
 
-.frame embed {
+embed {
   padding: 4rem 2rem;
-  border-radius: 20px;
 }
 
 .main-bottom {
