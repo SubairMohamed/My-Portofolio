@@ -123,5 +123,8 @@ embed {
 }
 
 .last-title {
-  font-size: 4rem;
+  font-size: 6rem;
+  color: #333;
+  margin: auto;
+  width: 40%;
 }
