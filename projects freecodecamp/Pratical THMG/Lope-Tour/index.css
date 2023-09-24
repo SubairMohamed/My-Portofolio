@@ -107,5 +107,9 @@ nav ul li a {
 
 .frame {
   text-align: center;
-  padding-bottom: 4rem;
+  padding-bottom: 6rem;
+}
+
+.main-bottom {
+  text-align: center;
 }
