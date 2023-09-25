@@ -137,3 +137,8 @@ embed {
   border-radius: 2.2rem;
   padding: 1rem 1.2rem;
 }
+
+.last-btn a {
+  text-decoration: none;
+  color: #fff;
+}
