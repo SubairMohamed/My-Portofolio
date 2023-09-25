@@ -177,4 +177,6 @@ footer ul li p {
 i {
   background-color: #04ddb2;
   color: #fff;
+  padding: 0.7rem 0.7rem;
+  border-radius: 50px;
 }
