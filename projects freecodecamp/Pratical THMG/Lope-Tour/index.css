@@ -153,5 +153,11 @@ embed {
 }
 
 .ul-footer li {
+  list-style: none;
   color: #333;
+}
+
+.ul-footer li p a {
+  text-decoration: none;
+  color: #767676;
 }
