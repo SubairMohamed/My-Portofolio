@@ -150,6 +150,7 @@ embed {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  padding: 4rem 0 10rem 0;
 }
 
 .ul-footer li {
