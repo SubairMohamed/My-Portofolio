@@ -153,11 +153,18 @@ embed {
 }
 
 .ul-footer li {
+  text-transform: capitalize;
   list-style: none;
   color: #333;
 }
 
+.ul-footer li p {
+  color: #767676;
+}
+
 .ul-footer li p a {
+  font-weight: 500;
   text-decoration: none;
+  text-transform: capitalize;
   color: #767676;
 }
