@@ -161,9 +161,10 @@ embed {
 }
 
 .ul-footer li p {
+  font-size: 1.8rem;
   font-weight: 500;
   color: #767676;
-  padding-top: 1.85rem;
+  padding: 1.3rem 0;
 }
 
 .ul-footer li p a {
