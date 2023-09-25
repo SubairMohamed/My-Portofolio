@@ -154,12 +154,14 @@ embed {
 }
 
 .ul-footer li {
+  font-weight: bold;
   text-transform: capitalize;
   list-style: none;
   color: #333;
 }
 
 .ul-footer li p {
+  font-weight: 500;
   color: #767676;
 }
 
