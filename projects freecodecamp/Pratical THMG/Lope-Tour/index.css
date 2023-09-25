@@ -173,3 +173,8 @@ footer ul li p {
   text-transform: capitalize;
   color: #767676;
 }
+
+i {
+  background-color: #04ddb2;
+  color: #fff;
+}
