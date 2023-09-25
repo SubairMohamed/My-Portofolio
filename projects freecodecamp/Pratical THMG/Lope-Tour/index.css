@@ -147,4 +147,11 @@ embed {
 
 .ul-footer {
   font-size: 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.ul-footer li {
+  color: #333;
 }
