@@ -128,3 +128,12 @@ embed {
   margin: auto;
   width: 40%;
 }
+
+.last-btn {
+  border: none;
+  font-size: 2.2rem;
+  text-transform: capitalize;
+  background-color: #04ddb2;
+  border-radius: 2.2rem;
+  padding: 1rem 1.2rem;
+}
