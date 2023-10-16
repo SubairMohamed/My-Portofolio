@@ -149,8 +149,10 @@ embed {
   font-size: 1.5rem;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
   padding: 4rem 0 10rem 0;
+  width: 80%;
+  margin: auto;
 }
 
 .ul-footer li {
