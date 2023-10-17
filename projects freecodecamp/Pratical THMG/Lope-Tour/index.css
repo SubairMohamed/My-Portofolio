@@ -1,3 +1,7 @@
+:root {
+  --icons-color: #04ddb2;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -75,7 +79,7 @@ nav ul li a {
   border: none;
   font-size: 2.2rem;
   text-transform: capitalize;
-  background-color: #04ddb2;
+  background-color: ;
   border-radius: 2.2rem;
   padding: 1rem 1.2rem;
 }
