@@ -118,7 +118,7 @@ nav ul li a {
 
 .frame {
   text-align: center;
-  background-color: ;
+  background-color: var(--FrameVideo-color);
   border-radius: 22px;
   margin: auto;
   width: 65%;
