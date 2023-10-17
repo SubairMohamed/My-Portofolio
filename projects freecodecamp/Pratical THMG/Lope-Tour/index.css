@@ -75,7 +75,7 @@ nav ul li a {
 
 .btn a {
   text-decoration: none;
-  color: #fff;
+  color: var(--FontIcons-color);
 }
 
 .btn {
@@ -104,7 +104,7 @@ nav ul li a {
 }
 
 .shades {
-  color: #04ddb2;
+  color: var(--Icons-color);
 }
 
 .para-main {
