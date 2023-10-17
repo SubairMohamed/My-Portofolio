@@ -3,6 +3,7 @@
   --Heading-color: #333;
   --Fontground-color: #767676;
   --FontIcons-color: #fff;
+  --FrameVideo-color: #e2e5de;
 }
 
 * {
@@ -117,7 +118,7 @@ nav ul li a {
 
 .frame {
   text-align: center;
-  background-color: #e2e5de;
+  background-color: ;
   border-radius: 22px;
   margin: auto;
   width: 65%;
