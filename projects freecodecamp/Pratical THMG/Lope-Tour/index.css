@@ -12,6 +12,7 @@ body {
   font-family: LabGrotesque, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
+/* Start Heading */
 #Heading {
   display: flex;
   flex-direction: row;
@@ -78,6 +79,7 @@ nav ul li a {
   border-radius: 2.2rem;
   padding: 1rem 1.2rem;
 }
+/* Ends Heading */
 
 #Main {
   padding-top: 14rem;
