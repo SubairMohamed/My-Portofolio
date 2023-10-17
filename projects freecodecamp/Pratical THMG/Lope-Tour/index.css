@@ -1,6 +1,8 @@
 :root {
   --Icons-color: #04ddb2;
   --Heading-color: #333;
+  --Fontground-color: #767676;
+  --FontIcons-color: #fff;
 }
 
 * {
@@ -59,7 +61,7 @@ nav ul li a {
   text-decoration: none;
   text-transform: capitalize;
   letter-spacing: 1px;
-  color: #767676;
+  color: var(--Fontground-color);
 }
 
 .nav-head {
