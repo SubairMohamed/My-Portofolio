@@ -42,7 +42,7 @@ body {
   font-size: 3rem;
   font-weight: bolder;
   text-decoration: none;
-  color: ;
+  color: var(--Heading-color);
 }
 
 .logo {
