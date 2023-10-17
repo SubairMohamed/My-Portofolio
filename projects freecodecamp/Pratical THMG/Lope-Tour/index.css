@@ -79,7 +79,7 @@ nav ul li a {
   border: none;
   font-size: 2.2rem;
   text-transform: capitalize;
-  background-color: ;
+  background-color: var(--icons-color);
   border-radius: 2.2rem;
   padding: 1rem 1.2rem;
 }
