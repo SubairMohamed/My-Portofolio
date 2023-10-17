@@ -145,14 +145,14 @@ embed {
   border: none;
   font-size: 2.2rem;
   text-transform: capitalize;
-  background-color: #04ddb2;
+  background-color: var(--Icons-color);
   border-radius: 2.2rem;
   padding: 1rem 1.2rem;
 }
 
 .last-btn a {
   text-decoration: none;
-  color: #fff;
+  color: var(--FontIcons-color);
   padding: 1.5rem 2rem;
 }
 /* Ends Main  */
