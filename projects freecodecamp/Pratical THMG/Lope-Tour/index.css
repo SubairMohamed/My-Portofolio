@@ -1,5 +1,6 @@
 :root {
-  --icons-color: #04ddb2;
+  --Icons-color: #04ddb2;
+  --Heading-color: #333;
 }
 
 * {
@@ -41,7 +42,7 @@ body {
   font-size: 3rem;
   font-weight: bolder;
   text-decoration: none;
-  color: #333;
+  color: ;
 }
 
 .logo {
@@ -79,7 +80,7 @@ nav ul li a {
   border: none;
   font-size: 2.2rem;
   text-transform: capitalize;
-  background-color: var(--icons-color);
+  background-color: var(--Icons-color);
   border-radius: 2.2rem;
   padding: 1rem 1.2rem;
 }
