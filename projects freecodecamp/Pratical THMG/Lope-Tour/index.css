@@ -66,7 +66,7 @@ nav ul li a {
   transition: all 0.5s ease-out;
 }
 nav ul li a:hover {
-  font-size: 1.8rem;
+  font-size: 1.78rem;
   font-weight: bold;
   color: var(--Heading-color);
 }
