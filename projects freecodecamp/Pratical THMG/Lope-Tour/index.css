@@ -66,6 +66,16 @@ nav ul li a {
   color: var(--Fontground-color);
 }
 
+a {
+  transition: transform 0.5s ease-in-out;
+}
+
+a:hover {
+  font-weight: semiblod;
+  transform: scale(2);
+  color: var(--Heading-color);
+}
+
 .nav-head {
   display: flex;
   flex-direction: row;
