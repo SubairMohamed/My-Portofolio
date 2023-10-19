@@ -154,6 +154,7 @@ embed {
   background-color: var(--Icons-color);
   border-radius: 2.2rem;
   padding: 1rem 1.2rem;
+  transition: transform 0.3s ease-in-out;
 }
 
 .last-btn a {
