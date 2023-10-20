@@ -57,6 +57,12 @@ nav ul li {
   font-size: 1.75rem;
   font-weight: normal;
   list-style: none;
+  transition: all 0.3s ease-in-out;
+}
+nav ul li:hover {
+  transform: scale(1.1);
+  color: var(--Heading-color);
+  font-weight: 400;
 }
 
 nav ul li a {
