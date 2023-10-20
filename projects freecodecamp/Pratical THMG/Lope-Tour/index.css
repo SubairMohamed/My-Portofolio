@@ -205,6 +205,11 @@ i {
   color: var(--FontIcons-color);
   padding: 0.7rem 0.7rem;
   border-radius: 50px;
+  transition: transform 0.3s ease-in-out;
+}
+
+i:hover {
+  transform: scale(1.1);
 }
 
 footer hr {
