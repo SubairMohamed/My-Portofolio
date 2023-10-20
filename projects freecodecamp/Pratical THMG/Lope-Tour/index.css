@@ -134,6 +134,10 @@ nav ul li a {
   border-radius: 22px;
   margin: auto;
   width: 65%;
+  transition: all 0.5s ease-in-out;
+}
+.frame:hover {
+  box-shadow: 4px 4px gray;
 }
 
 embed {
