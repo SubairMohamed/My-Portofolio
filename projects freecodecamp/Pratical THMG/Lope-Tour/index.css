@@ -200,6 +200,7 @@ footer ul li p {
   font-weight: 500;
   color: var(--Fontground-color);
   padding-top: 2rem;
+  cursor: default;
 }
 
 .ul-footer li p a {
