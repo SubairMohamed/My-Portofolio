@@ -190,6 +190,8 @@ embed {
 
 .logo-footer {
   text-transform: lowercase;
+  font-weight: normal;
+  font-size: 1.2rem;
 }
 
 .ul-footer li {
