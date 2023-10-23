@@ -190,8 +190,8 @@ embed {
 
 .text-logo-footer {
   text-transform: lowercase;
-  font-weight: normal;
-  font-size: 1.2rem;
+  font-weight: bold;
+  font-size: 1.75rem;
   text-decoration: none;
   color: var(--Heading-color);
 }
