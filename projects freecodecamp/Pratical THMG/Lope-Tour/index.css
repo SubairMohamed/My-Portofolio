@@ -137,7 +137,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out;
 }
 .frame:hover {
-  box-shadow: 20px 20px 70px 3px rgb(197, 194, 194);
+  box-shadow: 20px 20px 70px 6px rgba(197, 194, 194, 0.8);
 }
 
 embed {
