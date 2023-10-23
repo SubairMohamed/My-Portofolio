@@ -188,10 +188,12 @@ embed {
   margin: auto;
 }
 
-.logo-footer {
+.text-logo-footer {
   text-transform: lowercase;
   font-weight: normal;
   font-size: 1.2rem;
+  text-decoration: none;
+  color: var(--Heading-color);
 }
 
 .ul-footer li {
