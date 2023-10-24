@@ -213,6 +213,7 @@ embed {
   text-transform: capitalize;
   list-style: none;
   color: var(--Heading-color);
+  cursor: default;
 }
 
 footer ul li p {
