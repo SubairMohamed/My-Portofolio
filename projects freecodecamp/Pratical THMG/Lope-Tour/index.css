@@ -188,6 +188,13 @@ embed {
   margin: auto;
 }
 
+.container-logo-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: min-content;
+}
+
 .text-logo-footer {
   text-transform: lowercase;
   font-weight: bold;
