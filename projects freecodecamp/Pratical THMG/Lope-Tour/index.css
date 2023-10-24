@@ -196,6 +196,10 @@ embed {
   color: var(--Heading-color);
 }
 
+.logo-footer {
+  width: 62%;
+}
+
 .ul-footer li {
   font-weight: bold;
   text-transform: capitalize;
