@@ -224,19 +224,19 @@ footer ul li p {
   cursor: default;
 }
 
-.ul-footer li p a {
-  font-weight: 500;
-  text-decoration: none;
-  text-transform: capitalize;
-  color: var(--Fontground-color);
-}
-
 .ul-footer li p {
   transition: transform 0.3s ease-in-out;
 }
 
 .ul-footer li p:hover {
   transform: scale(1.1);
+}
+
+.ul-footer li p a {
+  font-weight: 500;
+  text-decoration: none;
+  text-transform: capitalize;
+  color: var(--Fontground-color);
 }
 
 i {
