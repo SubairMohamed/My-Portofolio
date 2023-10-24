@@ -222,6 +222,11 @@ footer ul li p {
   color: var(--Fontground-color);
   padding-top: 2rem;
   cursor: default;
+  transition: transform 0.3s ease-in-out;
+}
+
+.footer ul li p:hover {
+  transform: scale(1.1);
 }
 
 .ul-footer li p a {
