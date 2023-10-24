@@ -224,11 +224,11 @@ footer ul li p {
   cursor: default;
 }
 
-.ul-footer li p {
+.ul-footer li .transition {
   transition: transform 0.3s ease-in-out;
 }
 
-.ul-footer li p:hover {
+.ul-footer li .transition:hover {
   transform: scale(1.1);
 }
 
