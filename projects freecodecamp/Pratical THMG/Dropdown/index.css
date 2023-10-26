@@ -2,3 +2,13 @@
   margin: 0;
   padding: 0;
 }
+
+ul {
+  list-style: none;
+  background-color: #22438c;
+}
+
+ul li {
+  display: inline-block;
+  position: relative;
+}
