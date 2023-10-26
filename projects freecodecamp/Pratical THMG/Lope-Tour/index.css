@@ -259,4 +259,10 @@ footer hr {
 /* Ends Footer */
 
 @media only screen and (max-width: 1200px) {
+  #Heading {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
 }
