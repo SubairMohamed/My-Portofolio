@@ -273,4 +273,8 @@ footer hr {
     align-items: center;
     padding-bottom: 5rem;
   }
+
+  .title {
+    font-size: 5rem;
+  }
 }
