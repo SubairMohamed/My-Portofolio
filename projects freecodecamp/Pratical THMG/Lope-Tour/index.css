@@ -257,3 +257,6 @@ footer hr {
   margin: auto;
 }
 /* Ends Footer */
+
+@media only screen and (max-width: 1200px) {
+}
