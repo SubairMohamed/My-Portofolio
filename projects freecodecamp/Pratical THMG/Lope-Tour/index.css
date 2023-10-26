@@ -277,4 +277,9 @@ footer hr {
   .title {
     font-size: 5rem;
   }
+
+  .last-title {
+    font-size: 5rem;
+    width: 38%;
+  }
 }
