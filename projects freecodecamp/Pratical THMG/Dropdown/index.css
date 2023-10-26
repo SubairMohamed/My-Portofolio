@@ -33,3 +33,11 @@ ul li ul.dropdown {
   background-color: #22438c;
   z-index: 999;
 }
+
+ul li:hover {
+  background-color: #112c66;
+}
+
+ul li:hover ul.dropdown {
+  display: block;
+}
