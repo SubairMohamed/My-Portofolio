@@ -12,3 +12,12 @@ ul li {
   display: inline-block;
   position: relative;
 }
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  padding: 20px 25px;
+  text-align: center;
+}
