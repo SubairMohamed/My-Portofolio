@@ -269,6 +269,8 @@ footer hr {
   .footer-icon {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     align-items: center;
+    padding-bottom: 5rem;
   }
 }
