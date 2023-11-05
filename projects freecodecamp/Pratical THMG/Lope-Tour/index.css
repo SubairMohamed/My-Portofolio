@@ -283,3 +283,6 @@ footer hr {
     width: 38%;
   }
 }
+
+@media only screen and (max-width: 650px) {
+}
