@@ -287,5 +287,6 @@ footer hr {
 @media only screen and (max-width: 650px) {
   .para-main {
     font-size: 1.8rem;
+    width: 420px;
   }
 }
