@@ -154,7 +154,11 @@ embed {
   color: var(--Heading-color);
   padding-bottom: 4rem;
   margin: auto;
-  width: 40%;
+  /* width: 40%; */
+}
+
+.last-title span {
+  display: block;
 }
 
 .last-btn {
@@ -283,7 +287,7 @@ footer hr {
 
   .last-title {
     font-size: 5rem;
-    width: 38%;
+    /* width: 38%; */
   }
 }
 
