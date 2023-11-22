@@ -40,7 +40,6 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  width: min-content;
 }
 
 .text-logo {
@@ -51,7 +50,7 @@ body {
 }
 
 .logo {
-  width: 62%;
+  width: 14%;
 }
 
 nav ul li {
@@ -76,7 +75,7 @@ nav ul li a {
 .nav-head {
   display: flex;
   flex-direction: row;
-  justify-content: start;
+  justify-content: center;
   align-items: center;
   column-gap: 4rem;
   padding: 2.5rem;
