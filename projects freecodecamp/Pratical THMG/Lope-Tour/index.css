@@ -39,6 +39,7 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
+  width: min-content;
 }
 
 .text-logo {
