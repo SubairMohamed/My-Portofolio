@@ -49,7 +49,7 @@ body {
 }
 
 .logo {
-  width: 14%;
+  max-width: 12%;
 }
 
 nav ul li {
@@ -292,18 +292,5 @@ footer hr {
   .para-main {
     font-size: 1.8rem;
     width: 420px;
-  }
-}
-
-@media only screen and (max-width: 800px) {
-  nav,
-  .btn {
-    visibility: hidden;
-  }
-}
-
-@media only screen and (min-width: 800px) {
-  .Dropdown {
-    visibility: hidden;
   }
 }
