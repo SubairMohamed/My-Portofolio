@@ -297,4 +297,7 @@ footer hr {
 }
 
 @media only screen and (max-width: 800px) {
+  .btn {
+    visibility: hidden;
+  }
 }
