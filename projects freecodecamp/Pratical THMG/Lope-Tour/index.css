@@ -271,6 +271,7 @@ label {
   font-size: 1.75rem;
   color: var(--Fontground-color);
   cursor: pointer;
+  display: none;
 }
 /* Ends Dropdown */
 
