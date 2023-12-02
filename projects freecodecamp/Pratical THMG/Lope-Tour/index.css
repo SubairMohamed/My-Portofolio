@@ -266,6 +266,12 @@ footer hr {
 #menu {
   display: none;
 }
+
+label {
+  font-size: 1.75rem;
+  color: var(--Fontground-color);
+  cursor: pointer;
+}
 /* Ends Dropdown */
 
 @media only screen and (max-width: 1200px) {
