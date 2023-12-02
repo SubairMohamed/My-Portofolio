@@ -315,4 +315,8 @@ label {
   .btn {
     visibility: hidden;
   }
+
+  label {
+    display: initial;
+  }
 }
