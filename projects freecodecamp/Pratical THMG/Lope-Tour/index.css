@@ -327,7 +327,7 @@ label {
     display: initial;
   }
 
-  .nav-head {
+  nav {
     position: absolute;
     top: 100%;
     left: 0;
