@@ -53,6 +53,13 @@ body {
   max-width: 62%;
 }
 
+header nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
 nav ul li {
   font-size: 1.75rem;
   font-weight: normal;
