@@ -24,7 +24,7 @@ body {
 #Heading {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
   position: fixed;
   right: 0;
@@ -268,20 +268,6 @@ footer hr {
 }
 /* Ends Footer */
 
-/* Start Dropdown */
-
-#menu {
-  display: none;
-}
-
-label {
-  font-size: 1.75rem;
-  color: var(--Fontground-color);
-  cursor: pointer;
-  display: none;
-}
-/* Ends Dropdown */
-
 @media only screen and (max-width: 1200px) {
   #Heading {
     display: flex;
@@ -311,32 +297,5 @@ label {
   .para-main {
     font-size: 1.8rem;
     width: 420px;
-  }
-}
-
-@media only screen and (max-width: 800px) {
-  /* .nav-head {
-    visibility: hidden;
-  }
-
-  .btn {
-    visibility: hidden;
-  } */
-
-  label {
-    display: initial;
-  }
-
-  nav {
-    position: absolute;
-    top: 100%;
-    left: 0;
-    right: 0;
-    border-top: 1px solid var(--Fontground-color);
-    visibility: hidden;
-  }
-
-  #menu:checked ~ nav {
-    display: initial;
   }
 }
