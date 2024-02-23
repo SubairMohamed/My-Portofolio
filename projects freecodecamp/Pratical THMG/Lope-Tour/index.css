@@ -24,7 +24,7 @@ body {
 #Heading {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
   position: fixed;
   right: 0;
@@ -88,12 +88,12 @@ nav ul li a {
   padding: 2.5rem;
 }
 
-.btn a {
+.btn-nav a {
   text-decoration: none;
   color: var(--FontIcons-color);
 }
 
-.btn {
+.btn-nav {
   border: none;
   font-size: 2.2rem;
   text-transform: capitalize;
