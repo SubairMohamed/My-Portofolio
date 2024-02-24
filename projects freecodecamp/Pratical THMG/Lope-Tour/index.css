@@ -39,6 +39,10 @@ body {
   padding: 1.2rem;
 }
 
+.fa-bars {
+  color: var(--Heading-color);
+}
+
 nav ul li {
   font-size: 1.75rem;
   font-weight: normal;
@@ -57,6 +61,7 @@ nav ul li:hover {
   font-weight: bolder;
   color: var(--Heading-color);
   text-transform: lowercase;
+  cursor: pointer;
 }
 
 .nav-item {
