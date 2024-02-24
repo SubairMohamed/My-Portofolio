@@ -35,6 +35,10 @@ body {
   padding: 0 4rem;
 }
 
+.container-xl {
+  padding: 1.2rem;
+}
+
 nav ul li {
   font-size: 1.75rem;
   font-weight: normal;
