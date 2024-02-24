@@ -52,6 +52,15 @@ nav ul li a {
   letter-spacing: 1px;
 }
 
+.nav-item .nav-link {
+  font-weight: 500;
+  color: var(--Heading-color);
+}
+
+.nav-item .nav-link:hover {
+  color: var(--Heading-color);
+}
+
 .btn-nav a {
   text-decoration: none;
   color: var(--FontIcons-color);
