@@ -21,7 +21,7 @@ body {
 }
 
 /* Start Heading */
-#Heading {
+.navbar {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -35,31 +35,6 @@ body {
   padding: 0 4rem;
 }
 
-.icon {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  width: min-content;
-}
-
-.text-logo {
-  font-size: 3rem;
-  font-weight: bolder;
-  text-decoration: none;
-  color: var(--Heading-color);
-}
-
-.logo {
-  max-width: 62%;
-}
-
-header nav {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
-
 nav ul li {
   font-size: 1.75rem;
   font-weight: normal;
@@ -68,7 +43,6 @@ nav ul li {
 }
 nav ul li:hover {
   transform: scale(1.1);
-  color: var(--Heading-color);
   font-weight: 400;
 }
 
@@ -76,16 +50,6 @@ nav ul li a {
   text-decoration: none;
   text-transform: capitalize;
   letter-spacing: 1px;
-  color: var(--Fontground-color);
-}
-
-.nav-head {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  column-gap: 4rem;
-  padding: 2.5rem;
 }
 
 .btn-nav a {
@@ -93,16 +57,20 @@ nav ul li a {
   color: var(--FontIcons-color);
 }
 
+.btn-nav a:hover {
+  color: var(--FontIcons-color);
+}
+
 .btn-nav {
   border: none;
-  font-size: 2.2rem;
+  font-size: 2rem;
   text-transform: capitalize;
   background-color: var(--Icons-color);
   border-radius: 2.2rem;
-  padding: 1rem 1.2rem;
+  padding: 6px 6px;
   transition: transform 0.3s ease-in-out;
 }
-.btn:hover {
+.btn-nav:hover {
   transform: scale(1.1);
 }
 
