@@ -50,10 +50,14 @@ nav ul li:hover {
   font-weight: 400;
 }
 
-nav ul li a {
+/* nav ul li a {
   text-decoration: none;
   text-transform: capitalize;
   letter-spacing: 1px;
+} */
+
+.nav-item {
+  padding-right: 2rem;
 }
 
 .nav-item .nav-link {
