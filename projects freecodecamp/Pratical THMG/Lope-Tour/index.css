@@ -50,9 +50,11 @@ nav ul li:hover {
   font-weight: 400;
 }
 
-.navbar-brand {
+.text-logo {
+  display: flex;
+  align-items: center;
   font-size: 3rem;
-  font-weight: bold;
+  font-weight: bolder;
   color: var(--Heading-color);
   text-transform: lowercase;
 }
