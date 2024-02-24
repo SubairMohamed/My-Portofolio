@@ -50,11 +50,12 @@ nav ul li:hover {
   font-weight: 400;
 }
 
-/* nav ul li a {
-  text-decoration: none;
-  text-transform: capitalize;
-  letter-spacing: 1px;
-} */
+.navbar-brand {
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--Heading-color);
+  text-transform: lowercase;
+}
 
 .nav-item {
   padding-right: 2rem;
