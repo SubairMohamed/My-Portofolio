@@ -40,6 +40,7 @@ body {
 }
 
 .fa-bars {
+  background-color: #d7d7d7;
   color: var(--Heading-color);
 }
 
