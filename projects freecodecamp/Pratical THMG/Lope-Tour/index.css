@@ -54,7 +54,7 @@ nav ul li a {
 
 .nav-item .nav-link {
   font-weight: 500;
-  color: var(--Heading-color);
+  color: var(--Fontground-color);
 }
 
 .nav-item .nav-link:hover {
@@ -76,7 +76,7 @@ nav ul li a {
   text-transform: capitalize;
   background-color: var(--Icons-color);
   border-radius: 2.2rem;
-  padding: 6px 6px;
+  padding: 6px 14px;
   transition: transform 0.3s ease-in-out;
 }
 .btn-nav:hover {
