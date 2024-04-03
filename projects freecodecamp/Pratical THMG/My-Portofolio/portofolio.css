@@ -30,10 +30,7 @@ body {
   text-transform: uppercase;
   /* border-bottom: 1px solid var(--paragraphy); */
   padding-top: 1rem;
-}
-
-.line-top {
-  width: 100%;
+  cursor: pointer;
 }
 
 .nav-left {
