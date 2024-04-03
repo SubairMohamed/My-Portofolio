@@ -33,6 +33,10 @@ body {
   cursor: pointer;
 }
 
+.fa-github {
+  color: black;
+}
+
 .nav-left {
   width: 45%;
   max-width: 274px;
