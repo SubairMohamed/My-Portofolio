@@ -28,12 +28,12 @@ body {
   font-size: 2rem;
   color: var(--fontground);
   text-transform: uppercase;
-  border-bottom: 1px solid var(--paragraphy);
-  padding-top: 0.75rem;
+  /* border-bottom: 1px solid var(--paragraphy); */
+  padding-top: 1rem;
 }
 
-.nav-left-title span {
-  color: var(--paragraphy);
+.line-top {
+  width: 100%;
 }
 
 .nav-left {
