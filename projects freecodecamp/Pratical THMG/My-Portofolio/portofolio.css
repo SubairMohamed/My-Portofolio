@@ -32,9 +32,11 @@ body {
   padding-top: 1rem;
   cursor: pointer;
 }
-
 .fa-github {
   color: black;
+}
+.fa-linkedin {
+  color: rgb(49, 146, 243);
 }
 
 .nav-left {
