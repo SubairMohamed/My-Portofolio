@@ -45,6 +45,12 @@ body {
   color: rgb(154, 21, 21);
 }
 
+.picture-nav-left {
+  position: absolute;
+  top: 6%;
+  right: 26%;
+}
+
 .nav-left {
   width: 45%;
   max-width: 274px;
