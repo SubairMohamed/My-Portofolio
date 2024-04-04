@@ -26,6 +26,7 @@ body {
 span a .fa {
   font-size: 2.3rem;
   letter-spacing: 1.1rem;
+  padding-top: 0.75rem;
 }
 
 .fa-github {
