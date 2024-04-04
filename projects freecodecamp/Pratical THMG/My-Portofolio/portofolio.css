@@ -23,11 +23,10 @@ body {
 }
 
 /* start Nav-Left */
-.nav-left-title a {
-  font-size: 4rem;
-  padding-top: 1rem;
-  cursor: pointer;
+span a .fa {
+  font-size: 2.3rem;
 }
+
 .fa-github {
   color: black;
 }
