@@ -58,7 +58,9 @@ span a .fa {
 }
 
 .nav-left ul {
-  margin: 8rem 0;
+  margin: 2rem 0 8rem 0;
+  padding-top: 6rem;
+  border-top: 1px solid var(--paragraphy);
 }
 
 .nav-left ul li {
