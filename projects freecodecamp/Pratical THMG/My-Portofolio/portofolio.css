@@ -106,6 +106,7 @@ span a .fa {
 }
 
 .btn:hover {
+  font-weight: bold;
   background-color: var(--fontground);
   color: var(--paragraphy);
 }
