@@ -83,6 +83,7 @@ span a .fa {
 
 .description {
   border-top: 1px solid var(--paragraphy);
+  padding-top: 1rem;
   line-height: 2px;
 }
 
