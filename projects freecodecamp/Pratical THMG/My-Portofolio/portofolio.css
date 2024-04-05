@@ -106,7 +106,8 @@ span a .fa {
 }
 
 .btn:hover {
-  background-color: var(--background);
+  background-color: var(--fontground);
+  color: var(--paragraphy);
 }
 /* ends Nav-Left */
 
