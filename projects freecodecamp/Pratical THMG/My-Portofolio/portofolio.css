@@ -230,20 +230,14 @@ span a .fa {
   font-family: "Merriweather", serif;
   font-size: 1.5rem;
   color: var(--paragraphy);
-  padding-bottom: 0.5rem;
-}
-
-hr {
-  width: 10%;
-  margin: 0 auto;
-  border-color: var(--fontground);
+  /* padding-bottom: 0.5rem; */
 }
 
 .service-title {
   font-family: "Merriweather", serif;
   font-size: 4rem;
   color: var(--fontground);
-  padding-top: 1rem;
+  /* padding-top: 1rem; */
 }
 
 .service-content {
