@@ -289,6 +289,10 @@ span a .fa {
   font-size: 2.5rem;
   padding: 0.5rem;
 }
+
+.icons:hover {
+  color: var(--paragraphy);
+}
 /* ends Contact */
 
 /* start Footer */
