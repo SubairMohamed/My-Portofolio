@@ -1,6 +1,7 @@
 :root {
-  --background-color: #1a2130;
+  --background-color: #000000;
   --fontground-color: #ffffff;
+  --looking: #ffdb00;
 }
 
 * {
@@ -22,7 +23,7 @@ body {
 
 header {
   height: 47vh;
-  background-color: #ffffff;
+  background: linear-gradient(var(--looking), var(--background-color));
 }
 
 .top-title {
