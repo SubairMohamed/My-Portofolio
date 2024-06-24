@@ -14,6 +14,11 @@ body {
 
 /* start styling header */
 
+#header {
+  height: 47vh;
+  background-color: #ffffff;
+}
+
 .top-title {
   font-size: 1.6rem;
   font-weight: bolder;
