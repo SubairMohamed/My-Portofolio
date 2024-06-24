@@ -11,3 +11,12 @@ body {
   background-color: var(--background-color);
   color: var(--fontground-color);
 }
+
+/* start styling header */
+
+.top-title {
+  font-size: 1.6rem;
+  line-height: 2px;
+}
+
+/* Endsstyling header */
