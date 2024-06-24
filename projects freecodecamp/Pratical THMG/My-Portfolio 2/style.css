@@ -16,7 +16,13 @@ body {
 
 .top-title {
   font-size: 1.6rem;
+  font-weight: bolder;
   line-height: 2px;
+}
+
+.top {
+  max-width: 9%;
+  padding: 0.5rem 10rem;
 }
 
 /* Endsstyling header */
