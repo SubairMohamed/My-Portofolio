@@ -1,7 +1,8 @@
 :root {
   --background-color: #000000;
-  --fontground-color: #ffffff;
-  --looking: #ffdb00;
+  --fontground-color: #dad3be;
+  --gradient1: #ff9eaa;
+  --gradient2: #83b4ff;
 }
 
 * {
@@ -15,26 +16,29 @@ html {
 }
 
 body {
-  background-color: var(--background-color);
-  color: var(--fontground-color);
+  background-color: var(--fontground-color);
+  color: white;
 }
 
 /* start styling header */
 
 header {
   height: 47vh;
-  background: linear-gradient(var(--looking), var(--background-color));
+  background: linear-gradient(var(--gradient2) 40%, var(--gradient1));
 }
 
 .top-title {
   font-size: 1.6rem;
   font-weight: bolder;
-  line-height: 2px;
 }
 
 .top {
-  max-width: 9%;
   padding: 0.5rem 10rem;
+}
+
+hr {
+  width: 120px;
+  border: 1px solid white;
 }
 
 /* Endsstyling header */
