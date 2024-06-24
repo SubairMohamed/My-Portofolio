@@ -1,5 +1,6 @@
 :root {
   --background-color: #1a2130;
+  --fontground-color: #ffffff;
 }
 
 html {
@@ -8,4 +9,5 @@ html {
 
 body {
   background-color: var(--background-color);
+  color: var(--fontground-color);
 }
