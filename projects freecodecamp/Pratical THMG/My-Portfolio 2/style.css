@@ -3,6 +3,12 @@
   --fontground-color: #ffffff;
 }
 
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
 html {
   font-size: 62.5%;
 }
@@ -15,7 +21,6 @@ body {
 /* start styling header */
 
 header {
-  width: 100%;
   height: 47vh;
   background-color: #ffffff;
 }
