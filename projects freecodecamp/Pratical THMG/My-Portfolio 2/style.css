@@ -99,6 +99,10 @@ img {
 .content p {
   font-size: 2.5rem;
   color: var(--fontground1-color);
+  padding-bottom: 0.6rem;
 }
 
+.content {
+  width: 60%;
+}
 /* ends styling main */
