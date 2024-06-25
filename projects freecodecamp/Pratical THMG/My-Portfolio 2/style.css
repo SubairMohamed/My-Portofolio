@@ -76,6 +76,7 @@ hr {
   text-transform: capitalize;
   text-align: right;
   margin: 1.5rem 20rem 0 0;
+  color: var(--heading-color);
 }
 
 /* ends styling main */
