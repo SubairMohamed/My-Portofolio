@@ -1,7 +1,8 @@
 :root {
   --heading-color: #097168;
   --background-color: #dad3be;
-  --fontground-color: #1a2130;
+  --fontground1-color: #1a2130;
+  --fontground2-color: #ffffff;
   --gradient1: #ff9eaa;
   --gradient2: #83b4ff;
 }
@@ -32,6 +33,7 @@ header {
   font-size: 1.6rem;
   font-family: "Oswald", sans-serif;
   font-weight: bold;
+  color: var(--fontground2-color);
   padding-left: 0.5rem;
 }
 
@@ -41,20 +43,21 @@ header {
 
 .top-title-line {
   width: 120px;
-  border: 1px solid white;
+  border: 1px solid var(--fontground2-color);
   opacity: 0%;
   margin-top: 0.7rem;
 }
 
 .top-title:hover .top-title-line {
   opacity: 100%;
-  color: white;
+  color: var(--fontground2-color);
   transition: opacity 0.2s ease-in-out;
 }
 
 .title {
   font-family: "Oswald", sans-serif;
   font-size: 6rem;
+  color: var(--fontground2-color);
   text-transform: capitalize;
   margin: 5rem 0rem 0rem 10rem;
 }
@@ -63,6 +66,7 @@ header {
   font-family: "Oswald", sans-serif;
   font-size: 2rem;
   font-weight: 400;
+  color: var(--fontground2-color);
   text-transform: capitalize;
   padding-top: 1rem;
   margin: 0 0 0 10rem;
