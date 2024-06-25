@@ -97,7 +97,7 @@ img {
 }
 
 .content p {
-  font-size: 2rem;
-  color: var(--fontground-color);
+  font-size: 2.5rem;
+  color: var(--fontground1-color);
 }
 /* ends styling main */
