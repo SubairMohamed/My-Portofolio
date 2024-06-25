@@ -23,7 +23,7 @@ body {
 /* start styling header */
 
 header {
-  height: 47vh;
+  height: 48vh;
   background: linear-gradient(var(--gradient2) 40%, var(--gradient1));
 }
 
