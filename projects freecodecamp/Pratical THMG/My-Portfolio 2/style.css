@@ -43,6 +43,7 @@ hr {
 
 .title {
   font-size: 6rem;
+  text-transform: capitalize;
   margin: 8rem 0rem 0rem 10rem;
 }
 
