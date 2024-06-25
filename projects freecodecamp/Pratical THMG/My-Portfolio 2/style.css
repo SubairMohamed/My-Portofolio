@@ -1,7 +1,7 @@
 :root {
   --heading-color: #097168;
   --background-color: #dad3be;
-  --fontground1-color: #1a2130;
+  --fontground1-color: #3b3432;
   --fontground2-color: #ffffff;
   --gradient1: #ff9eaa;
   --gradient2: #83b4ff;
@@ -98,8 +98,8 @@ img {
 
 .content p {
   font-size: 2.5rem;
-  color: var(--fontground1-color);
-  padding-bottom: 0.6rem;
+  color: #3b3432;
+  margin: 2rem 0 0 3rem;
 }
 
 .content {
