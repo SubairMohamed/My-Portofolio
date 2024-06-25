@@ -79,4 +79,8 @@ hr {
   color: var(--heading-color);
 }
 
+.main-title .main-line {
+  border: 1px solid var(--heading-color);
+}
+
 /* ends styling main */
