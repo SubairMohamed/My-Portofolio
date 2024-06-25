@@ -67,4 +67,12 @@ hr {
   padding-top: 1rem;
   margin: 0 0 0 10rem;
 }
-/* Endsstyling header */
+/* Ends styling header */
+
+/* start styling main */
+
+.main-title {
+  font-size: 6rem;
+}
+
+/* ends styling main */
