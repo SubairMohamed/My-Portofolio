@@ -73,6 +73,9 @@ hr {
 
 .main-title {
   font-size: 6rem;
+  text-transform: capitalize;
+  text-align: right;
+  margin: 1.5rem 20rem 0 0;
 }
 
 /* ends styling main */
