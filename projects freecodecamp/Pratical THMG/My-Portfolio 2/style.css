@@ -1,6 +1,7 @@
 :root {
   --heading-color: #097168;
-  --fontground-color: #dad3be;
+  --background-color: #dad3be;
+  --fontground-color: #1a2130;
   --gradient1: #ff9eaa;
   --gradient2: #83b4ff;
 }
@@ -16,8 +17,7 @@ html {
 }
 
 body {
-  background-color: var(--fontground-color);
-  color: white;
+  background-color: var(--background-color);
 }
 
 /* start styling header */
@@ -92,4 +92,8 @@ img {
   margin: 0 0 0 2rem;
 }
 
+.content p {
+  font-size: 2rem;
+  color: var(--fontground-color);
+}
 /* ends styling main */
