@@ -88,6 +88,7 @@ header {
 img {
   height: 50vh;
   border-radius: 80%;
+  border: 8px solid #b7b597;
   margin: 0 0 0 2rem;
 }
 
