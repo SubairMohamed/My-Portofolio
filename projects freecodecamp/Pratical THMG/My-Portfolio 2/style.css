@@ -86,7 +86,9 @@ header {
 }
 
 img {
-  height: 60vh;
+  height: 50vh;
+  border-radius: 80%;
+  margin: 0 0 0 2rem;
 }
 
 /* ends styling main */
