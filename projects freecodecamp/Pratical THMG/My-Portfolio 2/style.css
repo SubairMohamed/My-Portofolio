@@ -103,6 +103,9 @@ img {
 }
 
 .content {
-  width: 60%;
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
 }
 /* ends styling main */
