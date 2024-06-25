@@ -42,7 +42,7 @@ hr {
   opacity: 0%;
 }
 
-.top:hover hr {
+.top-title:hover hr {
   opacity: 100%;
   color: white;
   transition: opacity 0.5s ease-in-out;
