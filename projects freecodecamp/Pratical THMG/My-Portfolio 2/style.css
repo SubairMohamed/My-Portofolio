@@ -113,4 +113,11 @@ img {
   max-width: 900px;
 }
 
+.link {
+  text-decoration: none;
+  border: 1px solid blue;
+  padding: 0 0.3rem;
+  border-radius: 10px;
+}
+
 /* ends styling main */
