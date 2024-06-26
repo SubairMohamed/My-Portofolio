@@ -99,6 +99,7 @@ img {
 .para {
   font-family: "Oswald", sans-serif;
   font-size: 2.3rem;
+  font-weight: 400;
   color: var(--fontground1-color);
   margin: 2rem 0 0 3rem;
   line-height: 3rem;
