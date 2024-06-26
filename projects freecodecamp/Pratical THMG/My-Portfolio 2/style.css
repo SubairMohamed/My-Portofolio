@@ -120,4 +120,8 @@ img {
   border-radius: 10px;
 }
 
+.link-code {
+  text-decoration: none;
+}
+
 /* ends styling main */
