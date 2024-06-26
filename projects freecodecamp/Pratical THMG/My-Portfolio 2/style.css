@@ -96,22 +96,23 @@ img {
   margin: 0 0 0 2rem;
 }
 
-.content p {
+.para {
   font-size: 2.5rem;
   color: var(--fontground1-color);
   margin: 2rem 0 0 3rem;
   line-height: 3rem;
 }
 
-.content p span {
-  padding-top: 2rem;
-}
-
-.content {
+/* .content {
   width: 80%;
   margin: 0 auto;
+} */
+
+.contents {
   display: flex;
+  flex-direction: row;
   justify-content: center;
+  align-items: center;
 }
 
 /* ends styling main */
