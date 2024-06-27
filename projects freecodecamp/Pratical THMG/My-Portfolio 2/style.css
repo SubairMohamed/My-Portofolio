@@ -138,7 +138,6 @@ img {
   font-size: 3rem;
   color: var(--fontground2-color);
   background-color: var(--heading-color);
-  padding: 1rem;
   border-radius: 50px;
 }
 
@@ -155,6 +154,10 @@ img {
 }
 
 .social-media a:nth-child(4) {
+  padding: 0.5rem 0.8rem;
+}
+
+.social-media a:nth-child(5) {
   padding: 0.5rem 0.8rem;
 }
 
