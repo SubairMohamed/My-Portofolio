@@ -165,7 +165,8 @@ img {
   font-family: "Oswald", sans-serif;
   font-size: 1.7rem;
   font-weight: 400;
-  background-color: var(--heading-color);
+  text-align: center;
+  color: var(--heading-color);
 }
 
 /* ends styling main */
