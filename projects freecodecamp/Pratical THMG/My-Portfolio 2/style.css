@@ -161,4 +161,9 @@ img {
   padding: 0.5rem 0.8rem;
 }
 
+.copy-right {
+  font-family: "Oswald", sans-serif;
+  font-size: 2rem;
+}
+
 /* ends styling main */
