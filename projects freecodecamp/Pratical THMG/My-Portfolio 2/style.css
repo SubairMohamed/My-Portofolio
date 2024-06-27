@@ -163,7 +163,9 @@ img {
 
 .copy-right {
   font-family: "Oswald", sans-serif;
-  font-size: 2rem;
+  font-size: 1.7rem;
+  font-weight: 400;
+  background-color: var(--heading-color);
 }
 
 /* ends styling main */
