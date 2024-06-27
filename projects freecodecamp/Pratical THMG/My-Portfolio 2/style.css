@@ -124,4 +124,12 @@ img {
   text-decoration: none;
 }
 
+/* social media */
+
+.social-media a {
+  font-size: 3rem;
+  color: var(--fontground2-color);
+  background-color: var(--heading-color);
+}
+
 /* ends styling main */
