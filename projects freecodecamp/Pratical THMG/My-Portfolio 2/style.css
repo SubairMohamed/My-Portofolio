@@ -130,6 +130,8 @@ img {
   font-size: 3rem;
   color: var(--fontground2-color);
   background-color: var(--heading-color);
+  padding: 0.6rem;
+  border-radius: 50px;
 }
 
 /* ends styling main */
