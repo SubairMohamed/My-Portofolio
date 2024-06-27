@@ -142,4 +142,16 @@ img {
   border-radius: 50px;
 }
 
+.social-media a:first-of-type {
+  padding: 0.5rem 0.8rem;
+}
+
+.social-media a:nth-child(2) {
+  padding: 0.5rem 0.8rem;
+}
+
+.social-media a:nth-child(3) {
+  padding: 0.5rem 0.8rem;
+}
+
 /* ends styling main */
