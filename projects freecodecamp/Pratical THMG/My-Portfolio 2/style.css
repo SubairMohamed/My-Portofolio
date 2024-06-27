@@ -167,6 +167,7 @@ img {
   font-weight: 400;
   text-align: center;
   color: var(--heading-color);
+  padding: 1.2rem 0;
 }
 
 /* ends styling main */
