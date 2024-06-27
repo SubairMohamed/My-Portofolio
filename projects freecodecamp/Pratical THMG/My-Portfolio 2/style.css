@@ -154,4 +154,8 @@ img {
   padding: 0.5rem 0.8rem;
 }
 
+.social-media a:nth-child(4) {
+  padding: 0.5rem 0.8rem;
+}
+
 /* ends styling main */
