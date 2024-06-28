@@ -141,6 +141,10 @@ img {
   border-radius: 50px;
 }
 
+.social-media a:hover {
+  background-color: var(--gradient2);
+}
+
 .social-media a:first-of-type {
   padding: 0.5rem 0.8rem;
 }
@@ -173,4 +177,5 @@ img {
 /* ends styling main */
 
 /* start Responsive */
+
 /* ends Responsive */
