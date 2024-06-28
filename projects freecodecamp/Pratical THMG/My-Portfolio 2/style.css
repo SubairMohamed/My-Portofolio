@@ -179,6 +179,10 @@ img {
 /* start Responsive */
 
 @media only screen and (max-width: 991px) {
+  header {
+    height: 52vh;
+  }
+
   .title {
     font-size: 6rem;
     margin: 4rem 0rem 0rem 10rem;
