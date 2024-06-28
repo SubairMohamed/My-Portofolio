@@ -194,4 +194,20 @@ img {
     padding-top: 0.5rem;
   }
 }
+
+@media only screen and (max-width: 767px) {
+  .title {
+    font-size: 4rem;
+    width: 100%;
+    margin: 0;
+  }
+
+  .content-title {
+    margin: 4rem 0rem 0rem 4rem;
+  }
+
+  .content-title > p {
+    margin: 0;
+  }
+}
 /* ends Responsive */
