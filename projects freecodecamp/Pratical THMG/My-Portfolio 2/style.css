@@ -114,6 +114,15 @@ img {
   margin: 0 0 0 2rem;
 }
 
+/* Hidden Images */
+.hdn-img {
+  height: 50vh;
+  border-radius: 80%;
+  border: 8px solid #b7b597;
+  margin: 0 0 0 2rem;
+}
+/* Ends Hidden Images */
+
 .para {
   font-family: "Oswald", sans-serif;
   font-size: 2.3rem;
