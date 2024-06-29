@@ -204,6 +204,10 @@ img {
     align-items: center;
   }
 
+  .main-title {
+    visibility: hidden;
+  }
+
   .contents {
     display: flex;
     flex-direction: column;
