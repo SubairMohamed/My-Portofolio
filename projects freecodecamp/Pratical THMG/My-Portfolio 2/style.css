@@ -75,7 +75,7 @@ header {
 
 /* start styling main */
 
-/* hidden title */
+/* Start Hidden Titles */
 .main-title-hdn {
   font-family: "Oswald", sans-serif;
   font-size: 6rem;
@@ -84,6 +84,13 @@ header {
   margin: 1.5rem 20rem 0 0;
   color: var(--heading-color);
 }
+
+.main-title-hdn .main-line {
+  border: 1px solid var(--heading-color);
+  width: 373px;
+  margin: 0 0 0 auto;
+}
+/* Ends Hidden Titles */
 
 .main-title {
   font-family: "Oswald", sans-serif;
