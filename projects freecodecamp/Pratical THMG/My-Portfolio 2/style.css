@@ -235,6 +235,10 @@ img {
     visibility: hidden;
   }
 
+  img {
+    visibility: hidden;
+  }
+
   .contents {
     display: flex;
     flex-direction: column;
