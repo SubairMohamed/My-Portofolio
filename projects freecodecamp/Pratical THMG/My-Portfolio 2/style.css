@@ -74,6 +74,17 @@ header {
 /* Ends styling header */
 
 /* start styling main */
+
+/* hidden title */
+.main-title-hdn {
+  font-family: "Oswald", sans-serif;
+  font-size: 6rem;
+  text-transform: capitalize;
+  text-align: right;
+  margin: 1.5rem 20rem 0 0;
+  color: var(--heading-color);
+}
+
 .main-title {
   font-family: "Oswald", sans-serif;
   font-size: 6rem;
@@ -202,10 +213,6 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-  }
-
-  .main-title {
-    visibility: hidden;
   }
 
   .contents {
