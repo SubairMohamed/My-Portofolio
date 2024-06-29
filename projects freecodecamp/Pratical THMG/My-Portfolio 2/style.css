@@ -220,6 +220,10 @@ img {
   .content-title > p {
     padding-top: 0.5rem;
   }
+
+  .hdn {
+    visibility: hidden;
+  }
 }
 
 @media only screen and (max-width: 990px) {
