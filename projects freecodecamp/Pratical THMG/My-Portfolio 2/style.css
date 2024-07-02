@@ -267,6 +267,11 @@ img {
   .paragrahy {
     margin: -40rem 0 6rem 0;
   }
+
+  .paragrahy .para {
+    font-size: 2.1rem;
+    width: 620px;
+  }
 }
 
 @media only screen and (max-width: 767px) {
