@@ -254,6 +254,10 @@ img {
     align-items: center;
     margin: 0 auto;
   }
+
+  .hdn-content {
+    padding-top: 2.5rem;
+  }
 }
 
 @media only screen and (max-width: 767px) {
