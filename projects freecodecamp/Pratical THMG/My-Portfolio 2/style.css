@@ -258,6 +258,11 @@ img {
   .hdn-content {
     padding-top: 2.5rem;
   }
+
+  .main-title-hdn {
+    text-align: center;
+    margin: 0.3rem 0rem 0 0;
+  }
 }
 
 @media only screen and (max-width: 767px) {
