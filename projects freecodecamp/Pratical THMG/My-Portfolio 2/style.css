@@ -288,5 +288,9 @@ img {
   .content-title > p {
     margin: 0;
   }
+
+  .paragrahy .para {
+    width: auto;
+  }
 }
 /* ends Responsive */
