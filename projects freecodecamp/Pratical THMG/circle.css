@@ -20,6 +20,7 @@
     position: absolute;
     left: 50%;
     background-color: skyblue;
+    box-shadow: 0 0 10px 5px rgba(146, 216, 237, 0.5);
 }
    
 
