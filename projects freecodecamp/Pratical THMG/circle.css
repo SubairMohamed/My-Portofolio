@@ -4,6 +4,10 @@
 }
 
 .circle-content {
+    background: black;
+}
+
+.circle-content {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,7 +18,7 @@
 .circle-one {
     position: relative;
     background-color: violet;
-    box-shadow: 0 0 10px 5px rgba(143, 0, 255, 0.5);
+    box-shadow: 0 0 10px 10px rgba(143, 0, 255, 0.5);
 }
 
 .circle-two {
