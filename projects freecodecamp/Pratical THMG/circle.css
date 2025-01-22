@@ -38,4 +38,5 @@
 .card {
     width: 25%;
     height: 50%;
+    box-shadow: 0 0 6px 2px rgba(255, 255, 255, 0.5);
 }
