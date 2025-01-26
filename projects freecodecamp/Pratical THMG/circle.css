@@ -3,9 +3,6 @@
     padding: 0;
 }
 
-body {
-    background: black;
-}
 
 .circle-content {
     display: flex;
@@ -40,7 +37,7 @@ body {
     height: 50%;
     box-shadow: 0 0 6px 2px rgba(255, 255, 255, 0.5);
     border: 4px solid blue;
-    background: transparent;
+    /* background: transparent; */
 }
 
 
