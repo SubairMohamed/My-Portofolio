@@ -3,15 +3,6 @@
     padding: 0;
 }
 
-
-.circle-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    gap: 2px;
-}
-
 .circle-one {
     position: relative;
     background-color: violet;
@@ -20,7 +11,7 @@
 
 .circle-two {
     position: absolute;
-    left: 50%;
+    left: 80%;
     background-color: skyblue;
     box-shadow: 0 0 10px 10px rgba(146, 216, 237, 0.5);
 }
@@ -30,14 +21,19 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
+    position: relative;  
+    left: 25%;
+    top: 25%;
+    z-index: -1;
 }
 
 .card {
+    position: absolute;
     width: 25%;
     height: 50vh;
     box-shadow: 0 0 6px 5px rgba(255, 255, 255, 0.5);
     background: gray;
-    margin: 5em auto;
+    margin: 5em;
     border-radius: 10px;
     border: 1px solid gray;
 }
